@@ -101,7 +101,7 @@ $endif$
 $if(strikeout)$
 %\usepackage[normalem]{ulem}
 % avoid problems with \sout in headers with hyperref:
-\AtEndPreamble{\pdfstringdefDisableCommands{\renewcommand{\sout}{}}}
+% \AtEndPreamble{\pdfstringdefDisableCommands{\renewcommand{\sout}{}}}
 $endif$
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
@@ -111,7 +111,7 @@ $else$
 \setcounter{secnumdepth}{0}
 $endif$
 $if(verbatim-in-note)$
-\AtEndPreamble{\VerbatimFootnotes} % allows verbatim text in footnotes
+% \AtEndPreamble{\VerbatimFootnotes} % allows verbatim text in footnotes
 $endif$
 $if(lang)$
 \ifxetex

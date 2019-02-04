@@ -1,4 +1,4 @@
-## Policies 
+# Policies
 
 **Marking**
 
@@ -14,11 +14,9 @@ The marking scale can be found here:
 
 **Word Limits and Late Work**
 
-It is important to work consistently through the semester and work around your other commitments and deadlines. Plan ahead and don't save your work until the last minute. Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. 
+It is important to work consistently through the semester and work around your other commitments and deadlines. Plan ahead and don't save your work until the last minute. Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. The official School of Histories penalties for late work and short/long work are followed in this module:
 
-The official School of Histories penalties for late work and short/long work are followed in this module:
-
-[http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html](http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html)
+[http://www.st-andrews.ac.uk/history/~~infoug~~/penalties%20for%20late%20work.html](http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html)
 
 **Absence from Classes**
 
@@ -34,23 +32,15 @@ If you have a question that requires an answer with significant detail, please c
 
 Recent studies are increasingly showing that, for whatever reasons, the handwriting of notes, and the reading of essays on physical paper as opposed to computers or other reading devices increases the quality of notes, significantly boosts recall, and better processing of content in general.
 
-There are, however, many benefits to using a laptop for notes, and keeping reading content in digital form, not the least ready access, easy distribution, ability to re-sort notes, searchability, and for those who have handwriting as poor as mine: simple readability. 
+There are, however, many benefits to using a laptop for notes, and keeping reading content in digital form, not the least ready access, easy distribution, ability to re-sort notes, searchability, and for those who have handwriting as poor as mine: simple readability.
 
-You are welcome to bring a laptop to class and use it for notes and reading. If you do not bring a laptop, I ask that you bring either printed or photocopied copies of assigned reading that is made available every week or else good notes so that you can easily refer to the readings as we discuss them. It is especially important that you have copies of assigned primary sources with you and not bringing them makes for very ineffective use of a seminar that is based on the discussion of reading. 
+You are welcome to bring a laptop to class and use it for notes and reading. If you do not bring a laptop, I ask that you bring either printed or photocopied copies of assigned reading that is made available every week or else good notes so that you can easily refer to the readings as we discuss them. It is especially important that you have copies of assigned primary sources with you and not bringing them makes for very ineffective use of a seminar that is based on the discussion of reading.
 
 Please do not to use applications on your laptop not related to our class, including email applications and social media. Obviously they will interfere with your own concentration but that is not the primary concern: using other applications on your laptop is a severe distraction to anyone sitting next to you.
 
 **Collective Notes**
 
 I believe in the benefits of sharing notes, not only with your classmates, but with future potential students of the class. For this purpose, I have created, and will provide the link for a Google document where you can post readings, organize reference material and online links to info and sources, etc. throughout the semester. I will also provide a link to notes from previous years (which may include some different readings and seminar topics). Both present and past years should be treated as you might any historical source: you should not use them to replace your own reading and note taking, and you should not treat content and notes provided by others as something you can uncritically accept as accurate. Use them as a productive supplement, as an alternative perspective as you conduct your own studies.
-
-**Knowledge Transfer and Ongoing Feedback**
-
-The collective notes document is one example of how communication can happen from one year of students in this module to the next. In addition to this, as coordinator, I share my own thoughts about how the ways in which the module worked or fell short online here:  
-
-[http://muninn.net/teaching/](http://muninn.net/teaching/)
-
-There are also links to a repository containing the full history of changes to this handbook over time. The reflections on the course include some selections from student feedback. I value your evaluations a great deal and take them, both the formal evaluation at the end of the semester, and any feedback informally received during the course of the semester, very seriously. Please do not hesitate to share with me your concerns as well as suggestions for how you think the module might be improved in the future. I also encourage all students to consider including advice to future students of the module in the shared collective notes document, especially suggestions on the selection of topics, research, and the writing process.
 
 **Academic Misconduct and Plagiarism**
 

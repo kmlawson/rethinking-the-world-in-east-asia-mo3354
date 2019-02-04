@@ -4,11 +4,10 @@
 
 \begin{center}
 
-\makebox[\textwidth]{\includegraphics[width=12cm]{empire.jpg}}
+\makebox[\textwidth]{\includegraphics[width=5.5cm]{shijiedatong.jpg}}
 
 
-\textbf{The Japanese Empire, 1922}   
-\\*1922 Japanese Empire - political. The Edinburgh Geographical Institute, John Bartholomew and Son, Ltd. David Rumsey Map Archive.
+\textbf{Shijie Datong = The Great Harmony of the World}
+\\*Calligraphy by the warlord Yan Xishan for the cover of 世界大同綱要
 
 \end{center}
-
