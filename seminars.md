@@ -19,13 +19,13 @@ P = Text is a candidate for presentations
 
 ### Required Reading
 
-- *The Foundations of Buddhism* by Rubert Gethin (77 pp, huginn)
+- *The Foundations of Buddhism* by Rubert Gethin (77 pp)
 	- Ch 2 The Word of the Buddha pp35-58
 	- Ch 3 Four Truths pp59-84
 	- Ch 9 The Mahāyāna pp224-252
 	- (F) Ch 4 The Buddhist Community; Ch 5 The Buddhist Cosmos; Ch 6 No Self; Ch 10 The Evolving Traditions of Buddhism
 
-- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp, huginn)
+- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp)
 	- p15-36 (from Ch 2.I Religious Foundations of Late Imperial China)
 	- p53-66 (from Ch 3.I Religious Foundations of Medieval Japan)
 
@@ -39,15 +39,15 @@ Choose one of these categories: A1, A2 (Pure Land), B (Nichiren), C1, C2 (Ch’a
 	- (A2) III.10 Amida, the Pure Land, and the Response of the Old Buddhism to the New p211-231
 	- (B) III.13 Nichiren: The Sun and the Lotus 292-306
 	- (C2) III.14 Zen Buddhism 306-335
-- *Japanese Philosophy: A Sourcebook*: (huginn)
+- *Japanese Philosophy: A Sourcebook*: 
 	- (A2) Hōnen; Shinran pp235-262
 	- (B) Nichiren: Buddhist Views on Current Issues pp86-91
 	- (C2) Dōgen pp141-162
-- SOURCES CHINA 1: (huginn)
+- SOURCES CHINA 1: 
 	- (A1) Huiyuan: A Monk Does Not Bow Down Before a King pp280-286 (1st ed)
 	- (A1) The Pure Land School pp334-345 (1st ed)
 	- (C1) The Meditation School pp346-368 (1st ed)
-- *Readings of the Lotus Sutra*: (huginn)
+- *Readings of the Lotus Sutra*: 
 	- (B) Interpreting the Lotus Sutra pp1-60 + pp195-205
 
 ### Further Reading
