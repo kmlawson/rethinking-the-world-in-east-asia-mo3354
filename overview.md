@@ -20,7 +20,7 @@ Comparing differing pan-asianist visions, especially with regard to how they lin
 Nichiren, Zen, Shin and new Buddhist movements in 20th century East Asia
 8.	**Cosmopolitanism from the East**  
 Chinese world redemptive movements, Esperantists, and some utopian visionaries
-9.	**Exploring the Kyoto School and Overcoming Modernity**  
+9.	**New Directions in Japanese Thought and Overcoming Modernity**  
 The universal and the particular in Japan’s most influential philosophical school
 10.	**Confucian Renewals**  
 The development of new Confucianism in a variety of forms focusing on China and Korea

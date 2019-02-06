@@ -274,24 +274,24 @@ Complete the reading for one of the sections below from A-D:
 
 Read A or B:
 
-**A) Taiping Rebellion** Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. University of Washington Press, 2011. Ch 2-4
+**A) Taiping Rebellion** Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. University of Washington Press, 2011. Ch 2-4  (P)
 
-**B) Tonghak Rebellion** Young, Carl F. *Eastern Learning and the Heavenly Way: The Tonghak and Ch’ŏndogyo Movements and the Twilight of Korean Independence*. University of Hawaiʻi Press, 2014. Ch 1-3
+**B) Tonghak Rebellion** Young, Carl F. *Eastern Learning and the Heavenly Way: The Tonghak and Ch’ŏndogyo Movements and the Twilight of Korean Independence*. University of Hawaiʻi Press, 2014. Ch 1-3  (P)
 
 *Further Reading: Boxer Rebellion*
 
-- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998.
+- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998.  (P)
 ———. “The Contested Past: The Boxers as History and Myth.” *The Journal of Asian Studies* 51, no. 1 (February 1, 1992): 82–113. 
 - Brown, G. Thompson. “Through Fire and Sword: Presbyterians and the Boxer Year in North China.” *The Journal of Presbyterian History (1997-)* 78, no. 3 (2000): 193–206.
-- Esherick, Joseph W. *The Origins of the Boxer Uprising*. University of California Press, 1988.
-- Harrison, Henrietta. "The Boxer Rebellion and the Souls in Purgatory" in *The Missionary’s Curse and Other Tales from a Chinese Catholic Village*.
+- Esherick, Joseph W. *The Origins of the Boxer Uprising*. University of California Press, 1988.  (P)
+- Harrison, Henrietta. "The Boxer Rebellion and the Souls in Purgatory" in *The Missionary’s Curse and Other Tales from a Chinese Catholic Village*.  (P)
 - King, Frank H. H. “The Boxer Indemnity: ‘Nothing but Bad.’” *Modern Asian Studies* 40, no. 3 (2006): 663–89.
 - Ven, Hans Van De. “Robert Hart and Gustav Detring during the Boxer Rebellion.” *Modern Asian Studies* 40, no. 3 (July 2006): 631–62.
 
 ### General Further Reading
 
 - [Chŏndogyo Documents](https://web.archive.org/web/20190202140004/http://www.chondogyo.or.kr/niabbs4/bbs.php?bbstable=chuneng&categori11=3)
-- Chesneaux, Jean, and Lucien Bianco. *Popular Movements and Secret Societies in China, 1840-1950*. Stanford University Press, 1972.
+- Chesneaux, Jean, and Lucien Bianco. *Popular Movements and Secret Societies in China, 1840-1950*. Stanford University Press, 1972.  (P)
 - Perry, Elizabeth J. “When Peasants Speak: Sources for the Study of Chinese Rebellions.” *Modern China* 6, no. 1 (1980): 72–85.
 - Shin, Susan S. 1978-79. “The Tonghak Movement: From Enlightenment to Revolution” *Korean Studies* Forum 5: 1—79.
 - Bell, Kirsten. “Cheondogyo and the Donghak Revolution: The (Un)Making of a Religion.” *Korea Jounral* 44, no. 2 (n.d.).
@@ -300,18 +300,18 @@ Read A or B:
 - Daye, Zhang. *The World of a Tiny Insect: A Memoir of the Taiping Rebellion and Its Aftermath*. University of Washington Press, 2013.
 - Gregory, J. S, and Prescott Clarke. *Western Reports on the Taiping: A Selection of Documents*. London: Croom Helm, 1982.
 - Hamberg, Theodore. *The Visions of Hung-Siu-Tshuen, and the Origin of the Kwang-Si Insurrection.* San Francisco: Chinese Materials Center, 1975.
-- Hobsbawm, Eric J. *Primitive Rebels: Studies in Archaic Forms of Social Movement in the 19th and 20th Centuries*. New York: Norton, 2010.
-- Hung, Ho-fung. *Protest with Chinese Characteristics: Demonstrations, Riots, and Petitions in the Mid-Qing Dynasty*. Columbia University Press, 2013.
-- Kallander, George L. *Salvation Through Dissent: Tonghak Heterodoxy and Early Modern Korea*. University of Hawaiʻi Press, 2013.
-- Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64*. Springer, 2016.
-- Lee, Sang Taek. *Religion and Social Formation in Korea: Minjung and Millenarianism*. Walter de Gruyter, 2012.
+- Hobsbawm, Eric J. *Primitive Rebels: Studies in Archaic Forms of Social Movement in the 19th and 20th Centuries*. New York: Norton, 2010.  (P)
+- Hung, Ho-fung. *Protest with Chinese Characteristics: Demonstrations, Riots, and Petitions in the Mid-Qing Dynasty*. Columbia University Press, 2013. (P)
+- Kallander, George L. *Salvation Through Dissent: Tonghak Heterodoxy and Early Modern Korea*. University of Hawaiʻi Press, 2013. (P)
+- Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64*. Springer, 2016. (P)
+- Lee, Sang Taek. *Religion and Social Formation in Korea: Minjung and Millenarianism*. Walter de Gruyter, 2012. (P)
 - Lew, Young Ick. “The Conservative Character of the 1894 Tonghak Peasant Uprising: A Reappraisal with Emphasis on Chŏn Pong-Jun’s Background and Motivation.” *The Journal of Korean Studies (1979-)* 7 (1990): 149–80.
 - Li, Hsiu-ch’eng, and Charles A. Curwen. *Taiping Rebel: The Deposition of Li Hsiu-Ch’eng*. Cambridge University Press, 1977.
 - Liu, Chang. *Peasants and Revolution in Rural China: Rural Political Change in the North China Plain and the Yangzi Delta, 1850-1949*. Routledge, 2007.
-- Meyer-Fong, Tobie S. *What Remains: Coming to Terms with Civil War in 19th Century China*, 2013.
+- Meyer-Fong, Tobie S. *What Remains: Coming to Terms with Civil War in 19th Century China*, 2013. (P)
 - Michael, Franz H., and University of Washington Far Eastern and Russian Institute. *The Taiping Rebellion: History and Documents*. University of Washington Press, 1971.
 - Paper, Jordan D. *The Spirits Are Drunk Comparative Approaches to Chinese Religion*. Albany: State Univ. of New York Press, 1995.
-- Perry, Elizabeth J. *Rebels and Revolutionaries in North China, 1845-1945*. Stanford Univ Pr, 1983.
+- Perry, Elizabeth J. *Rebels and Revolutionaries in North China, 1845-1945*. Stanford Univ Pr, 1983. (P)
 - Schoppa, R. Keith. *Revolution and Its Past: Identities and Change in Modern Chinese History*. Routledge, 2017. Ch 4
 - Shih, Vincent Yu-Chung. “Interpretations of the Taiping Tien-Kuo by Noncommunist Chinese Writers.” *The Far Eastern Quarterly* 10, no. 3 (May 1, 1951): 248–57. 
 - Shih, Vincent Yu-chung, and Yu-chung Shih. *The Taiping Ideology: Its Sources, Interpretations, and Influences*. UBC Press, 1967.
@@ -320,8 +320,8 @@ Read A or B:
 — Shin, Yong-ha. “The Revolutionary Movement of the Tonghak Peasant Army of 1894: Seen Vis-a-Vis the French Revolution.” *Korea Journal* 29, no. 20 (n.d.): 28–33.
 - Spence, Jonathan D. *God’s Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan*. Reprint. W. W. Norton &amp; Company, 1996.
 - Weller, Robert. “Historians and Consciousness: The Modern Politics of the Taiping Heavenly Kingdom.” *Social Research* 54, no. 4 (December 1, 1987): 731–55.
-- Wakeman, Frederic E. *Strangers at the Gate: Social Disorder in South China, 1839-1861*. University of California Press, 1997.
-- Weller, Robert Paul. *Resistance, Chaos and Control in China: Taiping Rebels, Taiwanese Ghosts and Tiananmen.* Place of publication not identified: Palgrave Macmillan, 2014.
+- Wakeman, Frederic E. *Strangers at the Gate: Social Disorder in South China, 1839-1861*. University of California Press, 1997. (P)
+- Weller, Robert Paul. *Resistance, Chaos and Control in China: Taiping Rebels, Taiwanese Ghosts and Tiananmen.* Place of publication not identified: Palgrave Macmillan, 2014. (P)
 - Yang, Qingkun. *Religion in Chinese Society: A Study of Contemporary Social Functions of Religion and Some of Their Historical Factors, by C.K. Yang.* Berkeley: Los Angeles, Calif., University of California Press, 1967.
 
 \pagebreak
@@ -331,45 +331,45 @@ Read A or B:
 ### Required Reading
 
 - Hane, Mikiso. *Reflections on the Way to the Gallows: Rebel Women in Prewar Japan*. University of California Press, 1988. from Ch 3 pp51-58,  from Ch 4 pp75-80, 109-124 (short loan)
-- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 1, 3 (short loan)
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 1, 3 (short loan) (P)
 
 ### Elective Reading
 
 **A) Shifu**
 
-- Krebs, Edward S. *Shifu, Soul of Chinese Anarchism*. Rowman &amp; Littlefield, 1998. Ch 1, 4, 7 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2529002))
+- Krebs, Edward S. *Shifu, Soul of Chinese Anarchism*. Rowman &amp; Littlefield, 1998. Ch 1, 4, 7 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2529002)) (P)
 
 **B) Development of Chinese Anarchism**
 
-- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 2, 4, 5 (short loan)
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 2, 4, 5 (short loan) (P)
 
 **C) Anarchist Cooperatism**
 
-- Konishi, Sho. *Anarchist Modernity: Cooperatism and Japanese-Russian Intellectual Relations in Modern Japan*. Cambridge: Harvard University Press, 2013. Introduction, Ch 1 (short loan)
+- Konishi, Sho. *Anarchist Modernity: Cooperatism and Japanese-Russian Intellectual Relations in Modern Japan*. Cambridge: Harvard University Press, 2013. Introduction, Ch 1 (short loan) (P)
 - Konishi, Sho “Ordinary Farmers Living Anarchist Time: Arishima Cooperative Farm in Hokkaido.” *Modern Asian Studies* 47, no. 6 (November 2013): 1845–87. ([online](https://doi.org/10.1017/S0026749X11000953))
 
 **D) Kōtoku Shūsui**
 
-- Tierney, Robert Thomas, and Kotoku Shusui. *Monster of the Twentieth Century: Kotoku Shusui and Japan’s First Anti-Imperialist Movement*. Univ of California Press, 2015. Introduction pp1-11, Ch "The Asian Solidarity Association and the High Treason Case" pp115-132, Imperialism pp135-185 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2451387))
+- Tierney, Robert Thomas, and Kotoku Shusui. *Monster of the Twentieth Century: Kotoku Shusui and Japan’s First Anti-Imperialist Movement*. Univ of California Press, 2015. Introduction pp1-11, Ch "The Asian Solidarity Association and the High Treason Case" pp115-132, Imperialism pp135-185 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2451387)) (P)
 
 ### General Further Reading
 
-- Anderson, Benedict. *The Age Of Globalization: Anarchists And The Anticolonial Imagination*. Verso Books, 2013.
-- Anderson, Benedict R. O’G. *Under Three Flags: Anarchism and the Anti-Colonial Imagination*. London: Verso, 2007.
+- Anderson, Benedict. *The Age Of Globalization: Anarchists And The Anticolonial Imagination*. Verso Books, 2013. (P)
+- Anderson, Benedict R. O’G. *Under Three Flags: Anarchism and the Anti-Colonial Imagination*. London: Verso, 2007. (P)
 - Bakunin, Mikhail Aleksandrovich. *The Basic Bakunin: Writings, 1869-1871*. Prometheus, 1992.
 - Billingsey, Philip. “Bakunin’s Sojourn in Japan: Nailing Down an Enigma.” *Human Sciences Review* 5 (1993): 35–65.
 - Cahm, Caroline. *Kropotkin: And the Rise of Revolutionary Anarchism, 1872-1886*. Cambridge University Press, 2002.
 - Chapelier, Émile, and Gassy Marin. *Anarchists and the International Language, Esperanto*. Freedom Office, 1908.
-- Crump, John. *The Origins of Socialist Thought in Japan*. Routledge, 2010.
-- Crump, John, and John P. McKay. *Hatta Shuzo and Pure Anarchism in Interwar Japan*. Springer, 1993.
+- Crump, John. *The Origins of Socialist Thought in Japan*. Routledge, 2010. (P)
+- Crump, John, and John P. McKay. *Hatta Shuzo and Pure Anarchism in Interwar Japan*. Springer, 1993. (P)
 — Crump, John. “The Revolution That Never Was: Anarchism in the Guomindang.” *Modern China* 15, no. 4 (October 1, 1989): 419–62. 
 — Crump, John. “Vision and Revolution: Anarchism in Chinese Revolutionary Thought on the Eve of the 1911 Revolution.” *Modern China* 12, no. 2 (April 1, 1986): 123–65. 
-- Fumiko, Kaneko, and Mikiso Hane. *The Prison Memoirs of a Japanese Woman*. Routledge, 2016.
+- Fumiko, Kaneko, and Mikiso Hane. *The Prison Memoirs of a Japanese Woman*. Routledge, 2016. (P)
 - Graham, Robert. *Anarchism: A Documentary History of Libertarian Ideas*. Black Rose Books Ltd., 2009.
 - Hane, Mikiso. *Reflections on the Way to the Gallows: Rebel Women in Prewar Japan*. University of California Press, 1988.
 - Hiratsuka, Raichō. *In the Beginning, Woman Was the Sun: The Autobiography of a Japanese Feminist*. Columbia University Press, 2010.
 - Hirsch, Steven, and Lucien van der Walt. *Anarchism and Syndicalism in the Colonial and Postcolonial World, 1870-1940: The Praxis of National Liberation, Internationalism, and Social Revolution*. BRILL, 2010.
-- Hwang, Dongyoun. *Anarchism in Korea: Independence, Transnationalism, and the Question of National Development, 1919-1984*. SUNY Press, 2016.
+- Hwang, Dongyoun. *Anarchism in Korea: Independence, Transnationalism, and the Question of National Development, 1919-1984*. SUNY Press, 2016. (P)
 — Hwang, Dongyoun. “Beyond Independence: The Korean Anarchist Press in China and Japan in the 1920s and 1930s.” *Asian Studies Review* 31, no. 1 (2007): 3–23. 
 — Hwang, Dongyoun. “Reopening the ‘Opening of Japan’: A Russian-Japanese Revolutionary Encounter and the Vision of Anarchist Progress.” *The American Historical Review* 112, no. 1 (2007): 101–30.
 - Mackie, Vera. *Creating Socialist Women in Japan: Gender, Labour and Activism, 1900-1937*. Cambridge University Press, 2002.
@@ -380,13 +380,12 @@ Read A or B:
 - Robinson, Michael. “National Identity and the Thought of Sin Ch’aeho: Sadaejuŭi and Chuch’e in History and Politics.” *The Journal of Korean Studies* 5 (1984): 121–42.
 - Schmid, Andre. “Rediscovering Manchuria: Sin Ch’aeho and the Politics of Territorial History in Korea.” *The Journal of Asian Studies* 56, no. 1 (1997): 26–46.
 - Scalapino, Robert A. *The Chinese Anarchist Movement*. Center for Chinese Studies, Institute of International Studies, University of California, 1961.
-- Scott, James C. *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia*. Yale University Press, 2009.
+- Scott, James C. *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia*. Yale University Press, 2009. (P)
 - Setouchi, Harumi. *Beauty in Disarray*. Tuttle Publishing, 2013.
 - Shea, George Tyson. *Leftwing Literature in Japan: A Brief History of the Proletarian Literary Movement*. Hosei University Press, 1964.
-- Smith, Henry DeWitt, and Henry Dewitt Smith II. *Japan’s First Student Radicals*. Harvard University Press, 1972.
-- Stanley, Thomas A. *Ōsugi Sakae, Anarchist in Taishō Japan: The Creativity of the Ego*. Harvard Univ Asia Center, 1982.
-— Stanley, Thomas. *Ōsugi Sakae, Anarchist in Taishō Japan: The Creativity of the Ego*. Harvard Univ Asia Center, 1982.
-- Tierney, Robert Thomas, and Kotoku Shusui. *Monster of the Twentieth Century: Kotoku Shusui and Japan’s First Anti-Imperialist Movement*. Univ of California Press, 2015.
+- Smith, Henry DeWitt, and Henry Dewitt Smith II. *Japan’s First Student Radicals*. Harvard University Press, 1972. (P)
+- Stanley, Thomas A. *Ōsugi Sakae, Anarchist in Taishō Japan: The Creativity of the Ego*. Harvard Univ Asia Center, 1982. (P)
+- Tierney, Robert Thomas, and Kotoku Shusui. *Monster of the Twentieth Century: Kotoku Shusui and Japan’s First Anti-Imperialist Movement*. Univ of California Press, 2015. (P)
 - Wakabayashi, Bob T. *Modern Japanese Thought*. Cambridge University Press, 1998.
 - Woodcock, George. *Anarchism: A History of Libertarian Ideas and Movements*. Broadview, 2004.
 - Zarrow, Peter Gue. *Anarchism and Chinese Political Culture*. Studies of the East Asian Institute. New York: Columbia University Press, 1990.
@@ -405,7 +404,7 @@ Read A or B:
 
 **A) Debates on Family and Love in China**
 
-- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. University of California Press, 2003. Ch 1, 4 [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2069044)
+- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. University of California Press, 2003. Ch 1, 4 [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2069044) (P)
 
 **B) More on He Zhen**
 
@@ -418,7 +417,7 @@ Read A or B:
 
 **D) Tang Qunying**
 
-- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. University of California Press, 2011. Ch 1 "Slapping Song Jiaoren", 3 "A Women's Republic". [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2059919)
+- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. University of California Press, 2011. Ch 1 "Slapping Song Jiaoren", 3 "A Women's Republic". [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2059919) (P)
 
 **E) Shifting Interpretations**
 
@@ -428,43 +427,39 @@ Read A or B:
 
 - Zarrow, Peter. “He Zhen and Anarcho-Feminism in China.” *The Journal of Asian Studies* 47, no. 4 (1988): 796–813.
 - Bailey, Paul J. *Women and Gender in Twentieth-Century China*. Macmillan International Higher Education, 2012.
-- Barlow, Tani. *The Question of Women in Chinese Feminism*. Duke University Press, 2004.
-- Batchelor, Martine, Songyong, Sŏnʼgyŏng (Sŭnim), Son’gyong Sunim, and Chonggong sunim. *Women in Korean Zen: Lives And Practices*. Syracuse University Press, 2006.
+- Barlow, Tani. *The Question of Women in Chinese Feminism*. Duke University Press, 2004. (P)
+- Batchelor, Martine, Songyong, Sŏnʼgyŏng (Sŭnim), Son’gyong Sunim, and Chonggong sunim. *Women in Korean Zen: Lives And Practices*. Syracuse University Press, 2006. (P)
 - Beahan, Charlotte L. “Feminism and Nationalism in the Chinese Women’s Press, 1902-1911.” *Modern China* 1, no. 4 (1975): 379–416.
-- Bernstein, Gail Lee. *Recreating Japanese Women, 1600-1945*. University of California Press, 1991.
-- Choi, Hyaeweol. *Gender and Mission Encounters in Korea: New Women, Old Ways: Seoul-California Series in Korean Studies*. Univ of California Press, 2009.
+- Bernstein, Gail Lee. *Recreating Japanese Women, 1600-1945*. University of California Press, 1991. (P)
+- Choi, Hyaeweol. *Gender and Mission Encounters in Korea: New Women, Old Ways: Seoul-California Series in Korean Studies*. Univ of California Press, 2009. (P)
 — Choi, Hyaeweol. *New Women in Colonial Korea: A Sourcebook*. Routledge, 2012.
-- Cong, Xiaoping. *Marriage, Law and Gender in Revolutionary China*. Cambridge University Press, 2016.
-- Davin, Delia, and American Council of Learned Societies. *Woman-Work Women and the Party in Revolutionary China*. Oxford: Clarendon Press, 1976.
-- Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949-1968*. First Edition. University of California Press, 2000.
+- Cong, Xiaoping. *Marriage, Law and Gender in Revolutionary China*. Cambridge University Press, 2016. (P)
+- Davin, Delia, and American Council of Learned Societies. *Woman-Work Women and the Party in Revolutionary China*. Oxford: Clarendon Press, 1976. (P)
+- Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949-1968*. First Edition. University of California Press, 2000. (P)
 - Eastman, Lloyd E. *Family, Fields, and Ancestors: Constancy and Change in China’s Social and Economic History, 1550-1949*. Oxford University Press, USA, 1988.
 - Frühstück, Sabine, and Anne Walthall. *Recreating Japanese Men*. University of California Press, 2011.
-- ———. *Colonizing Sex: Sexology and Social Control in Modern Japan (Colonialisms)*. University of California Press, 2003.
-- ———. “Managing the Truth of Sex in Imperial Japan.” *The Journal of Asian Studies* 59, no. 2 (May 1, 2000): 332–58. 
+- ———. *Colonizing Sex: Sexology and Social Control in Modern Japan (Colonialisms)*. University of California Press, 2003. (P)
 - Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. Cambridge University Press, 2010.
-- Gilmartin, Christina Kelley. *Engendering the Chinese Revolution: Radical Women, Communist Politics, and Mass Movements in the 1920s*. University of California Press, 1995.
+- Gilmartin, Christina Kelley. *Engendering the Chinese Revolution: Radical Women, Communist Politics, and Mass Movements in the 1920s*. University of California Press, 1995. (P)
 - Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. University of California Press, 2003.
 - Hane, Mikiso. *Peasants, Rebels, Women, and Outcastes: The Underside of Modern Japan*. Rowman &amp; Littlefield Publishers, 2004.
 - Hershatter, Gail. *Women and China’s Revolutions*. Rowman &amp; Littlefield, 2018.
 — Hershatter, Gail. *Women in China’s Long Twentieth Century*. University of California Press, 2007.
-- Huang, Kewu. *The Meaning of Freedom: Yan Fu and the Origins of Chinese Liberalism*. Chinese University Press, 2008.
+- Huang, Kewu. *The Meaning of Freedom: Yan Fu and the Origins of Chinese Liberalism*. Chinese University Press, 2008. (P)
 - Hu, Chi-hsi. “The Sexual Revolution in the Kiangsi Soviet.” *The China Quarterly* 59 (September 1974): 477–90.
-- Hyun, Theresa. *Writing Women in Korea: Translation and Feminism in the Colonial Period*. University of Hawaii Press, 2004.
-- Judd, Ellen R. *Gender and Power in Rural North China*. Stanford University Press, 1994.
-- Judge, Joan. “Talent, Virtue, and the Nation: Chinese Nationalisms and Female Subjectivities in the Early Twentieth Century.” *The American Historical Review* 106, no. 3 (2001): 765–803.
+- Hyun, Theresa. *Writing Women in Korea: Translation and Feminism in the Colonial Period*. University of Hawaii Press, 2004. (P)
+- Judd, Ellen R. *Gender and Power in Rural North China*. Stanford University Press, 1994. (P)
 — Judge, Joan. “Talent, Virtue, and the Nation: Chinese Nationalisms and Female Subjectivities in the Early Twentieth Century.” *The American Historical Review* 106, no. 3 (2001): 765–803.
 - Karl, Rebecca E. “Translation, Modernity, and Women in China.” *Critical Asian Studies* 33, no. 3 (2001): 459–72.
 - Kim, Elaine H., and Chungmoo Choi. *Dangerous Women: Gender and Korean Nationalism*. Routledge, 2012.
 - Kim, Seung-kyung, and Kyounghee Kim. *The Korean Women’s Movement and the State: Bargaining for Change*. Routledge, 2014.
-- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 1st ed. University of California Press, 2007.
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 1st ed. University of California Press, 2007. (P)
 — Ko, Dorothy. “The Body as Attire: The Shifting Meanings of Footbinding in Seventeenth-Century China.” *Journal of Women’s History* 8, no. 4 (1997): 8–27.
 - Levy, Jr Marion J. *The Family Revolution in Modern China*. Harvard University Press, 2014.
-- Lewis, Su Lin. “Cosmopolitanism and the Modern Girl: A Cross-Cultural Discourse in 1930s Penang.” *Modern Asian Studies* 43, no. 6 (November 2009): 1385–1419.
 - Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. Columbia University Press, 2013.
 - Marran, Christine L. *Poison Woman: Figuring Female Transgression in Modern Japanese Culture*. University of Minnesota Press, 2007.
 - Molony, Barbara, and Kathleen S. Uno. *Gendering Modern Japanese History*. Harvard University Asia Center, 2005.
 - Ono, Kazuko, and Joshua A Fogel. *Chinese Women in a Century of Revolution, 1850-1950*. Stanford, Calif.: Stanford University Press, 1989.
-- Stanley, Amy. *Selling Women: Prostitution, Markets, and the Household in Early Modern Japan*. University of California Press, 2012.
 - The Modern Girl Around the World Research Group, ed. *The Modern Girl Around the World: Consumption, Modernity, and Globalization*. Durham, N.C.; Chesham: Duke University Press ; Combined Academic, 2009.
 - Wolf, Margery. *Women in Chinese Society*. Acls History E Book Project, 2008.
 - Yen, Hsiao-pei. “Body Politics, Modernity and National Salvation: The Modern Girl and the New Life Movement.” *Asian Studies Review* 29, no. 2 (2005): 165–86.
@@ -505,173 +500,362 @@ Read 8 of the following 17 chapters on individual pan-asianist perspectives.
 
 ### General Further Reading
 
-- Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015.
+- Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015. (P)
 - Avenell, Simon. “What Is Asia for Us and Can We Be Asians? The New Asianism in Contemporary Japan.” *Modern Asian Studies* 48, no. 06 (November 2014): 1594–1636.
-- Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*. Columbia Studies in International and Global History. New York: Columbia University Press, 2007.
-- Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004.
+- Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*. Columbia Studies in International and Global History. New York: Columbia University Press, 2007. (P)
+- Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. (P)
 — Duara, Prasenjit. “The Discourse of Civilization and Pan-Asianism.” *Journal of World History* 12, no. 1 (2001): 99–130.
 - Frey, Marc, and Nicola Spakowski. *Asianisms: Regionalist Interactions and Asian Integration*. NUS Press, 2015.
 - Godart, G. Clinton. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
-- HAU, CAROLINE S., and TAKASHI SHIRAISHI. “Daydreaming about Rizal and Tetchō On Asianism as Network and Fantasy.” *Philippine Studies* 57, no. 3 (September 1, 2009): 329–88.
-- Hotta, Eri. *Pan-Asianism and Japan’s War 1931-1945*. New York: Palgrave Macmillan, 2007.
-- Huebner, Stefan. *Pan-Asian Sports and the Emergence of Modern Asia, 1913-1974*. NUS Press, 2016.
-- Kishida, Yuka Hiruma. *Kenkoku University and the Experience of Pan-Asianism: Education in the Japanese Empire*. Bloomsbury Academic, 2019.
+- Hau, Caroline S., and Takashi Shiraishi. “Daydreaming about Rizal and Tetchō On Asianism as Network and Fantasy.” *Philippine Studies* 57, no. 3 (September 1, 2009): 329–88.
+- Hotta, Eri. *Pan-Asianism and Japan’s War 1931-1945*. New York: Palgrave Macmillan, 2007. (P)
+- Huebner, Stefan. *Pan-Asian Sports and the Emergence of Modern Asia, 1913-1974*. NUS Press, 2016. (P)
+- Kishida, Yuka Hiruma. *Kenkoku University and the Experience of Pan-Asianism: Education in the Japanese Empire*. Bloomsbury Academic, 2019. (P)
 - Krämer, Hans Martin. “Pan-Asianism’s Religious Undercurrents: The Reception of Islam and Translation of the Qur’ān in Twentieth-Century Japan.” *The Journal of Asian Studies* 73, no. 03 (2014): 619–40. 
 - Lüthi, Lorenz M. “Non-Alignment, 1946–1965: Its Establishment and Struggle against Afro-Asianism.” *Humanity: An International Journal of Human Rights, Humanitarianism, and Development* 7, no. 2 (July 29, 2016): 201–23. 
-- Matthiessen, Sven. *Japanese Pan-Asianism and the Philippines from the Late Nineteenth Century to the End of World War II: Going to the Philippines Is Like Coming Home?* BRILL, 2015.
-- Moon, Yumi. *Populist Collaborators: The Ilchinhoe and the Japanese Colonization of Korea, 1896–1910*. Ithaca, NY: Cornell University Press, 2013.
-- Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975.
-- Saaler, Sven. *Pan-Asianism in Modern Japanese History Colonialism, Regionalism and Borders*. London; New York: Routledge, 2007. 
+- Matthiessen, Sven. *Japanese Pan-Asianism and the Philippines from the Late Nineteenth Century to the End of World War II: Going to the Philippines Is Like Coming Home?* BRILL, 2015. (P)
+- Moon, Yumi. *Populist Collaborators: The Ilchinhoe and the Japanese Colonization of Korea, 1896–1910*. Ithaca, NY: Cornell University Press, 2013. (P)
+- Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975. (P)
+- Saaler, Sven. *Pan-Asianism in Modern Japanese History Colonialism, Regionalism and Borders*. London; New York: Routledge, 2007.  (P)
 — Saaler, Sven. “The Construction of Regionalism in Modern Japan: Kodera Kenkichi and His ‘Treatise on Greater Asianism’ (1916).” *Modern Asian Studies* 41, no. 6 (2007): 1261–94.
 - Saaler, Sven, and Christopher W. A. Szpilman. *Pan-Asianism: A Documentary History, 1850–1920*. Rowman &amp; Littlefield Publishers, 2011.
 — Saaler, Sven. *Pan-Asianism: A Documentary History, 1920–Present*. Rowman &amp; Littlefield Publishers, 2011.
 - Stegewerns, Dick. *Nationalism and Internationalism in Imperial Japan: Autonomy, Asian Brotherhood, or World Citizenship?* London: Routledge, 2003.
 - Stolte, Carolien. “‘Enough of the Great Napoleons!’ Raja Mahendra Pratap’s Pan-Asian Projects (1929–1939).” *Modern Asian Studies* 46, no. Special Issue 02 (2012): 403–23. 
-- Tankha, Brij. *Okakura Tenshin and Pan-Asianism: Shadows of the Past*. Global Oriental, 2008.
-- Tankha, Brij, and Ikki Kita. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006.
+- Tankha, Brij. *Okakura Tenshin and Pan-Asianism: Shadows of the Past*. Global Oriental, 2008. (P)
+- Tankha, Brij, and Ikki Kita. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006. (P)
 - Tansman, Alan, ed. *The Culture of Japanese Fascism*. Duke University Press Books, 2009.
 - Tikhonov, Vladimir. “Korea’s First Encounters with Pan-Asianism Ideology in the Early 1880s.” *The Review of Korean Studies* 5, no. 2 (2002): 195–232.
-- Weber, Torsten. *Embracing “Asia” in China and Japan: Asianism Discourse and the Contest for Hegemony, 1912-1933*. Springer, 2017.
+- Weber, Torsten. *Embracing “Asia” in China and Japan: Asianism Discourse and the Contest for Hegemony, 1912-1933*. Springer, 2017. (P)
 - Xiong, Ying. *Representing Empire: Japanese Colonial Literature in Taiwan and Manchuria*. BRILL, 2014.
+
+\pagebreak
 
 ## Week 7 - Buddhist World Orders
 
-Valdimir social sarwinism ch5 pp113-135
-
 ### Required Reading
+
+* Sponberg, Alan, ed. *Maitreya, the Future Buddha*. Reissue edition. Cambridge: Cambridge University Press, 2011. Ch 1-2, pp7-36 (P)
+* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Introduction. 1-16 (P)
+* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975., Ch 10, Twilight of a Theory 1945-1949, pp339-364. (P)
+* Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity*. Brill, 2010. Ch 5 Survival, God, Buddha: Social Darwinism in a Buddhist Context, pp113-135 (P)
+* Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. Ch 3 Asianism and the New Discourse of Civilization, only pp103-122. (P)
 
 ### Elective Reading
 
+**A) Pure Land**
+
+* Unno, Mark. “Modern Pure Land Thinkers.” *The Oxford Handbook of Japanese Philosophy*, September 2, 2014. 
+
+Either of the following:
+
+* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Ch 1-3, Epilogue. (the fourth chapter on Miki Kiyoshi comes up in two weeks) (P)
+
+* Ritzinger, Justin. *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism*. Oxford University Press, 2017. Introduction, Ch 1-2 (P)
+
+**B) Zen**
+
+* Victoria, Daizen. *Zen at War*. Lanham, Md.: Rowman &amp; Littlefield Publishers, 2006. 5 pp57-65, 10 pp147-182 and either i) Ch 2-3 pp12-48 on radical Zen or ii) 7-9 pp79-144 on wartime Zen (P)
+
+**C) Nichiren**
+
+* Heine, Steven, and Charles S. Prebish, eds. *Buddhism in the Modern World : Adaptations of an Ancient Tradition*. Oxford University Press, USA, 2003. Ch 8 "By Imperial Edict and Shogunal Decree", pp193-214.
+* Godart, G. Clinton. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
+* Naylor, Christina. “Nichiren, Imperialism, and the Peace Movement.” *Japanese Journal of Religious Studies* 18, no. 1 (1991): 51–78.
+* Shields, James. “A Blueprint for Buddhist Revolution: The Radical Buddhism of Seno’o Girō (1889–1961) and the Youth League for Revitalizing Buddhism.” *Japanese Journal of Religious Studies* 39 (November 1, 2012): 333–51. 
+
+**D) Korean Buddhism**
+
+* Han, Yong-un. *Selected Writings of Han Yongun: From Social Darwinism to Socialism with a Buddhist Face*. Global Oriental, 2008. Introduction pp1-30  (P)
+* Park, Jin Y., ed. *Makers of Modern Korean Buddhism*. Albany: State University of New York Press, 2010. Ch 1-2 Individual Salvation and Compassionate Action
+The Life and Thoughts of Paek Yongsŏng; A Korean Buddhist Response to Modernity
+Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-60, Ch 5 Gendered Response to Modernity Kim Iryŏp and Buddhism pp109-128
+
+**E) Ishiwara Kanji**
+
+* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975., Ch 6-9
+* Godart, G. Clinton. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
+ 
+**F) Buddhism and Empire**
+
+* Kim, Hwansoo Ilmee. *Empire of the Dharma: Korean and Japanese Buddhism, 1877–1912*. Cambridge, MA: Harvard University Asia Center, 2013. Ch 3 Japanese Buddhist Missions to Korea pp107-150 (P)
+* Ives, Christopher. “The Mobilization of Doctrine: Buddhist Contributions to Imperial Ideology in Modern Japan.” *Japanese Journal of Religious Studies* 26, no. 1/2 (1999): 83–106.
+* Anderson, Emily. *Belief and Practice in Imperial Japan and Colonial Korea*. Springer, 2016. Introduction ppxvii-xxi, Ch 4 The Adventures of a Japanese Monk in Colonial Korea: Sōma Shōei’s Zen Training with Korean Masters pp57-75 (P)
+
+**G) Buddhism to the West**
+
+* Tweed, Thomas A. *The American Encounter with Buddhism, 1844-1912: Victorian Culture and the Limits of Dissent*. UNC Press Books, 2005. Ch 2 Shall We All Become Buddhists? pp26-47. (P)
+* Snodgrass, Judith. *Presenting Japanese Buddhism to the West: Orientalism, Occidentalism, and the Columbian Exposition*. Univ of North Carolina Press, 2003,  Introduction pp1-15, Ch 4 Alterity: Buddhism as the "Other" of Christianity pp85-114 (P)
+* Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. Translated by Earl Hartman. Reprint edition. Chicago, Ill.; Bristol: University of Chicago Press, 2011. The Kitschy World of 'Zen in/and the art of...' pp10-27, Ch 2-3 The Mystery of *Zen in the Art of Archery*, Dissecting the Myth, pp28-72 (P)
+
 ### General Further Reading
 
-* App, Urs. *The Cult of Emptiness: The Western Discovery of Buddhist Thought and the Invention of Oriental Philosophy*. UniversityMedia, 2012.
-* Baumgarten, Albert I., ed. *Apocalyptic Time*. Leiden ; Boston: Brill, 2000.
-* Como, Michael. *Shōtoku: Ethnicity, Ritual, and Violence in the Japanese Buddhist Tradition*. Oxford: Oxford University Press, 2008. 10.1093/acprof:oso/9780195188615.001.0001.
-* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017.
-* Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004.
-* DuBois, T. *Casting Faiths: Imperialism and the Transformation of Religion in East and Southeast Asia*. Springer, 2009.
+* Anderson, Emily. *Belief and Practice in Imperial Japan and Colonial Korea*. Springer, 2016. (P)
+* App, Urs. *The Cult of Emptiness: The Western Discovery of Buddhist Thought and the Invention of Oriental Philosophy*. UniversityMedia, 2012. (P)
+* Auerback, Micah L. *A Storied Sage: Canon and Creation in the Making of a Japanese Buddha*. University of Chicago Press, 2016. (P)
+* Baumgarten, Albert I., ed. *Apocalyptic Time*. Leiden ; Boston: Brill, 2000. (P)
+* Chandler, Stuart. *Establishing a Pure Land on Earth: The Foguang Buddhist Perspective on Modernization and Globalization*. University of Hawaii Press, 2004. (P)
+* Clarke, Peter Bernard. *Japanese New Religions in the West*. Psychology Press, 1994. (P)
+* Como, Michael. *Shōtoku: Ethnicity, Ritual, and Violence in the Japanese Buddhist Tradition*. Oxford: Oxford University Press, 2008.  (P)
+* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. (P)
+* Dorman, Benjamin. *Celebrity Gods: New Religions, Media, and Authority in Occupied Japan*. University of Hawaiʻi Press, 2012. (P)
+* “D.T. Suzuki, Zen and the Nazis | The Asia-Pacific Journal: Japan Focus.” Accessed February 5, 2019. 
+* Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. (P)
+* DuBois, T. *Casting Faiths: Imperialism and the Transformation of Religion in East and Southeast Asia*. Springer, 2009. (P)
+* Fisker-Nielsen, Anne Mette. *Religion and Politics in Contemporary Japan: Soka Gakkai Youth and Komeito*. Routledge, 2012. (P)
+* Formoso, Bernard. *De Jiao - A Religious Movement in Contemporary China and Overseas: Purple Qi from the East*. NUS Press, 2010. (P)
 * Garon, Sheldon M. *Molding Japanese Minds: The State in Everyday Life*. Princeton, N.J.: Princeton University Press, 1997.
-* Godart, G. Clinton. *Darwin, Dharma, and the Divine: Evolutionary Theory and Religion in Modern Japan*. University of Hawaiʻi Press, 2017.
+* Godart, G. Clinton. *Darwin, Dharma, and the Divine: Evolutionary Theory and Religion in Modern Japan*. University of Hawaiʻi Press, 2017. (P)
 * ———. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
-* Han, Yong-un. *Selected Writings of Han Yongun: From Social Darwinism to Socialism with a Buddhist Face*. Global Oriental, 2008.
-* Hardacre, Helen. *Lay Buddhism in Contemporary Japan: Reiyukai Kyodan*. Princeton University Press, 2014.
+* Han, Yong-un. *Selected Writings of Han Yongun: From Social Darwinism to Socialism with a Buddhist Face*. Global Oriental, 2008. (P)
+* Hardacre, Helen. *Lay Buddhism in Contemporary Japan: Reiyukai Kyodan*. Princeton University Press, 2014. (P)
+* Heine, Steven, and Charles S. Prebish, eds. *Buddhism in the Modern World : Adaptations of an Ancient Tradition*. Oxford University Press, USA, 2003.
 * Heine, Steven, and Dale Stuart Wright. *Zen Ritual: Studies of Zen Theory in Practice*. Oxford [England]; New York: Oxford University Press, 2008.
 * Hur, Nam-Lin. “The Sōtō Sect and Japanese Military Imperialism in Korea.” *Japanese Journal of Religious Studies* 26, no. 1/2 (1999): 107–34.
 * Ives, Christopher. “The Mobilization of Doctrine: Buddhist Contributions to Imperial Ideology in Modern Japan.” *Japanese Journal of Religious Studies* 26, no. 1/2 (1999): 83–106.
-* Kim, Hwansoo Ilmee. *Empire of the Dharma: Korean and Japanese Buddhism, 1877–1912*. Cambridge, MA: Harvard University Asia Center, 2013.
+* Kim, Hwansoo Ilmee. *Empire of the Dharma: Korean and Japanese Buddhism, 1877–1912*. Cambridge, MA: Harvard University Asia Center, 2013. (P)
+* Kisala, Robert. *Prophets of Peace: Pacifism and Cultural Identity in Japan’s New Religions*. University of Hawaii Press, 1999. (P)
 * Ku, Yu-hsiu. *History of Zen*. Springer, 2016.
-* Meynard, Thierry. *The Religious Philosophy of Liang Shuming: The Hidden Buddhist*. BRILL, 2010.
+* Learman, Linda. *Buddhist Missionaries in the Era of Globalization*. University of Hawaii Press, 2005. (P)
+* Lee, Edwin B. “Nichiren and Nationalism. The Religious Patriotism of Tanaka Chigaku.” *Monumenta Nipponica* 30, no. 1 (1975): 19–35. 
+* Lopez, Donald S. *Curators of the Buddha: The Study of Buddhism Under Colonialism*. University of Chicago Press, 1995. (P)
+* Metraux, Daniel A. “The Sōka Gakkai’s Search for the Realization of the World of Risshō Ankokuron.” *Japanese Journal of Religious Studies* 13, no. 1 (1986): 31–61.
+* Meynard, Thierry. *The Religious Philosophy of Liang Shuming: The Hidden Buddhist*. BRILL, 2010. (P)
 * Naylor, Christina. “Nichiren, Imperialism, and the Peace Movement.” *Japanese Journal of Religious Studies* 18, no. 1 (1991): 51–78.
-* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975.
-* Pittman, Don Alvin. *Toward a Modern Chinese Buddhism: Taixu’s Reforms*. University of Hawaii Press, 2001.
-* Queen, Christopher S., and Sallie B. King. *Engaged Buddhism: Buddhist Liberation Movements in Asia*. SUNY Press, 1996.
-* Ritzinger, Justin. *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism*. Oxford University Press, 2017.
+* Park, Jin Y., ed. *Makers of Modern Korean Buddhism*. Albany: State University of New York Press, 2010.
+* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975. (P)
+* Pittman, Don Alvin. *Toward a Modern Chinese Buddhism: Taixu’s Reforms*. University of Hawaii Press, 2001. (P)
+* Queen, Christopher S., and Sallie B. King. *Engaged Buddhism: Buddhist Liberation Movements in Asia*. SUNY Press, 1996. (P)
+* Ritzinger, Justin. *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism*. Oxford University Press, 2017. (P)
+* Seager, Richard Hughes. *Encountering the Dharma: Daisaku Ikeda, Soka Gakkai, and the Globalization of Buddhist Humanism*. University of California Press, 2006. (P)
+* Sharf, Robert H. “The Zen of Japanese Nationalism.” *History of Religions* 33, no. 1 (1993): 1–43.
 * Shields, James. “A Blueprint for Buddhist Revolution: The Radical Buddhism of Seno’o Girō (1889–1961) and the Youth League for Revitalizing Buddhism.” *Japanese Journal of Religious Studies* 39 (November 1, 2012): 333–51. 
-* Snodgrass, Judith. *Presenting Japanese Buddhism to the West: Orientalism, Occidentalism, and the Columbian Exposition*. Univ of North Carolina Press, 2003.
-* Sponberg, Alan, ed. *Maitreya, the Future Buddha*. Reissue edition. Cambridge: Cambridge University Press, 2011.
+* Snodgrass, Judith. *Presenting Japanese Buddhism to the West: Orientalism, Occidentalism, and the Columbian Exposition*. Univ of North Carolina Press, 2003. (P)
+* Sponberg, Alan, ed. *Maitreya, the Future Buddha*. Reissue edition. Cambridge: Cambridge University Press, 2011. (P)
 * Stone, Jacqueline. “Japanese Lotus Millennialism: From Militant Nationalism to Contemporary Peace Movements.” In *Millennialism, Persecution, and Violence: Historical Cases*, edited by Catherine Wessinger. Syracuse University Press, 2000.
+* Straus, Virginia. “Peace, Culture, and Education Activities: A Buddhist Response to the Global Ethic.” *Buddhist-Christian Studies* 15 (1995): 199–211. 
 * Tanabe, George Joji, and Willa Jane Tanabe. *The Lotus Sutra in Japanese Culture*. University of Hawaii Press, 1989.
-* Tweed, Thomas A. *The American Encounter with Buddhism, 1844-1912: Victorian Culture and the Limits of Dissent*. UNC Press Books, 2005.
+* “The Formation and Principles of Count Dürckheim’s Nazi Worldview and His Interpretation of Japanese Spirit and Zen | The Asia-Pacific Journal: Japan Focus.” Accessed February 5, 2019. 
+* Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity*. Brill, 2010. (P)
+* Tweed, Thomas A. *The American Encounter with Buddhism, 1844-1912: Victorian Culture and the Limits of Dissent*. UNC Press Books, 2005. (P)
 * Unno, Mark. “Modern Pure Land Thinkers.” *The Oxford Handbook of Japanese Philosophy*, September 2, 2014. 
-* Victoria, Brian. *Zen War Stories*. Routledge, 2012.
-* Victoria, Daizen. *Zen at War*. Lanham, Md.: Rowman &amp; Littlefield Publishers, 2006.
+* Victoria, Brian. *Zen War Stories*. Routledge, 2012. (P)
+* Victoria, Daizen. *Zen at War*. Lanham, Md.: Rowman &amp; Littlefield Publishers, 2006. (P)
 * Wessinger, Catherine Lowman. *Millennialism, Persecution, and Violence: Historical Cases*. Syracuse University Press, 2000.
+* Wilson, Bryan R., Reader in Sociology and Fellow Bryan R. Wilson, Karel Dobbelaere, Professor of Sociology and Sociology of Religion Catholic University of Leuven Professor of Sociological Research Karel Dobbelaere, and Formerly Reader Emeritus in Sociology Bryan Wilson. *A Time to Chant: The Sōka Gakkai Buddhists in Britain*. Clarendon Press, 1994. (P)
 * Wright, Dale S. *The Zen Canon: Understanding the Classic Texts*. Edited by Steven Heine. New York: Oxford University Press, USA, 2004.
-* “Zen as a Cult of Death in the Wartime Writings of D.T. Suzuki 死の信仰としての禅　鈴木大拙、戦時下の著述 :: JapanFocus.” Accessed August 16, 2013. 
-
+* Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. Translated by Earl Hartman. Reprint edition. Chicago, Ill.; Bristol: University of Chicago Press, 2011. (P)
 
 \pagebreak
 
 ## Week 8 - Cosmopolitanism from the East
 
-
 ### Required Reading
+
+* Yan, Xishan. *How to Prevent Warfare and Establish Foundation of World Unity*, pamphlet, pp1-41
+* Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. Ch 2-3, pp26-57, Pt II Ch 1 pp79-104. (P)
+* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. Ch 5 Paradoxical Internationalism? Oomoto in the World, pp142-169 (P)
 
 ### Elective Reading
 
+**A) Kang Youwei**
+
+* Jianhua, Chen. “World Revolution Knocking at the Heavenly Gate: Kang Youwei and His Use of Geming in 1898.” *Journal of Modern Chinese History* 5, no. 1 (2011): 89–108. 
+* Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. Ch 1, Pt III pp134-196 (P)
+* Wang, Ban, ed. *Chinese Visions of World Order: Tianxia, Culture, and World Politics*. 2 edition. Durham ; London: Duke University Press Books, 2017. Ch 4 The Moral Vision in Kang Youwei's Book of the Great Community pp87-105
+
+**B) Deguchi Onisaburō**
+
+* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. Ch 2-4, 6. (P)
+* Garon, Sheldon M. *Molding Japanese Minds: The State in Everyday Life*. Princeton, N.J.: Princeton University Press, 1997. Ch 2 Defining Orthodoxy and Heterodoxy pp60-87
+
+**C) Imperial Internationalism**
+
+* Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015. Introduction, Ch 3 Cultural Diplomacy for Peace and War, pp81-107 (P)
+* Akami, Tomoko. *Internationalizing the Pacific: The United States, Japan and the Institute of Pacific Relations, 1919-1945*. Routledge, 2003. Introduction pp1-16, Ch 8 The IPR and the Sino-Japanese War, 1936-9,  pp200-239 (P)
+* Lincicome, Mark. *Imperial Subjects as Global Citizens: Nationalism, Internationalism, and Education in Japan*. Lexington Books, 2009. Ch 3-4 (P)
+
+**D) Esperanto**
+
+* "A Language for Asia? Transnational Encounters in the Japanese Esperanto Movement, 1906–28"  in Iacobelli, Pedro, and Danton Leary, eds. *Transnational Japan as History: Empire, Migration, and Social Movements*. 1st ed. 2015 edition. Houndmills, Basingstoke, Hampshire ; New York, NY: AIAA, 2015. pp167-185.
+* Chan, Gerald. “China and the Esperanto Movement.” *The Australian Journal of Chinese Affairs*, no. 15 (1986): 1–18. 
+* Konishi, Sho. “Translingual World Order: Language without Culture in Post-Russo-Japanese War Japan.” *The Journal of Asian Studies* 72, no. 1 (February 2013): 91–114. 
+* Boli, John, George M Thomas, and Young S. Kim, eds. “Constructing a Global Identity: The Role of Esperanto.” In *Constructing World Culture International Nongovernmental Organizations Since 1875*. Stanford, Calif.: Stanford University Press, 1999. 
+
 ### General Further Reading
 
-* Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015.
-* Akami, Tomoko. *Internationalizing the Pacific: The United States, Japan and the Institute of Pacific Relations, 1919-1945*. Routledge, 2003.
-* ———. *Internationalizing the Pacific: The United States, Japan and the Institute of Pacific Relations, 1919-1945*. New York: Routledge, 2003.
+* Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015. (P)
+* Akami, Tomoko. *Internationalizing the Pacific: The United States, Japan and the Institute of Pacific Relations, 1919-1945*. New York: Routledge, 2003. (P)
 * Amrith, Sunil S. “Asian Internationalism: Bandung’s Echo in a Colonial Metropolis.” *Inter-Asia Cultural Studies* 6, no. 4 (December 1, 2005): 557–69. 
-* Auslin, Michael R. *Pacific Cosmopolitans: A Cultural History of U.S.-Japan Relations*. Harvard University Press, 2011.
-* Benton, Gregor. *Chinese Migrants and Internationalism: Forgotten Histories, 1917–1945*. Routledge, 2007.
-* Boli, John, George M Thomas, and Young S. Kim, eds. “Constructing a Global Identity: The Role of Esperanto.” In *Constructing World Culture International Nongovernmental Organizations Since 1875*. Stanford, Calif.: Stanford University Press, 1999. 
-* Burkman, Thomas W. *Japan and the League of Nations: Empire and World Order, 1914-1938*. University of Hawaii Press, 2008.
+* Auslin, Michael R. *Pacific Cosmopolitans: A Cultural History of U.S.-Japan Relations*. Harvard University Press, 2011. (P)
+* Benton, Gregor. *Chinese Migrants and Internationalism: Forgotten Histories, 1917–1945*. Routledge, 2007. (P)
+* Boli, John, George M Thomas, and Young S. Kim, eds. “Constructing a Global Identity: The Role of Esperanto.” In *Constructing World Culture International Nongovernmental Organizations Since 1875*. Stanford, Calif.: Stanford University Press, 1999.  (P)
+* Burkman, Thomas W. *Japan and the League of Nations: Empire and World Order, 1914-1938*. University of Hawaii Press, 2008. (P)
 * Chan, Gerald. “China and the Esperanto Movement.” *The Australian Journal of Chinese Affairs*, no. 15 (1986): 1–18. 
-* Chan, Kwok Bun. *Chinese Identities, Ethnicity and Cosmopolitanism*. London [u.a.: Routledge, 2009.
+* Chan, Kwok Bun. *Chinese Identities, Ethnicity and Cosmopolitanism*. London [u.a.: Routledge, 2009. (P)
 * Chapelier, Émile, and Gassy Marin. *Anarchists and the International Language, Esperanto*. Freedom Office, 1908.
 * Chen, Jian. “Bridging Revolution and Decolonization: The ‘Bandung Discourse’ in China’s Early Cold War Experience.” In *Connected Histories: Decolonization and the Cold War in Southeast Asia, 1945-1962*. Stanford University Press, 2009.
 * Dore, Ronald Philip. *Japan, Internationalism and the UN*. Psychology Press, 1997.
-* Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. University Of Chicago Press, 1997.
-* ———. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004.
+* Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. University Of Chicago Press, 1997. (P)
+* ———. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. (P)
 * Flowers, Petrice R. “From Kokusaika to Tabunka Kyōsei.” *Critical Asian Studies* 44, no. 4 (2012): 515–42. 
-* Iriye, Akira. *Cultural Internationalism and World Order*. Baltimore: Johns Hopkins University Press, 1997.
+* Garon, Sheldon M. *Molding Japanese Minds: The State in Everyday Life*. Princeton, N.J.: Princeton University Press, 1997.
+* Iacobelli, Pedro, and Danton Leary, eds. *Transnational Japan as History: Empire, Migration, and Social Movements*. 1st ed. 2015 edition. Houndmills, Basingstoke, Hampshire ; New York, NY: AIAA, 2015.
+* Iriye, Akira. *Cultural Internationalism and World Order*. Baltimore: Johns Hopkins University Press, 1997. (P)
 * Jansen, Thomas, Thoralf Klein, and Christian Meyer. *Globalization and the Making of Religious Modernity in China: Transnational Religions, Local Agents, and the Study of Religion, 1800-Present*. BRILL, 2014.
 * Jianhua, Chen. “World Revolution Knocking at the Heavenly Gate: Kang Youwei and His Use of Geming in 1898.” *Journal of Modern Chinese History* 5, no. 1 (2011): 89–108. 
-* Kisala, Robert. *Prophets of Peace: Pacifism and Cultural Identity in Japan’s New Religions*. University of Hawaii Press, 1999.
+* Kisala, Robert. *Prophets of Peace: Pacifism and Cultural Identity in Japan’s New Religions*. University of Hawaii Press, 1999. (P)
 * Konishi, Sho. “Translingual World Order: Language without Culture in Post-Russo-Japanese War Japan.” *The Journal of Asian Studies* 72, no. 1 (February 2013): 91–114. 
-* Laqua, Daniel. *Internationalism Reconfigured: Transnational Ideas and Movements Between the World Wars*. London ; New York : New York: Tauris Academic Studies, 2011.
-* Leutner, Mechthild, and Izabella Goikhman. *State, Society and Governance in Republican China*. LIT Verlag Münster, 2013.
-* Lincicome, Mark. *Imperial Subjects as Global Citizens: Nationalism, Internationalism, and Education in Japan*. Lexington Books, 2009.
+* Laqua, Daniel. *Internationalism Reconfigured: Transnational Ideas and Movements Between the World Wars*. London ; New York : New York: Tauris Academic Studies, 2011. (P)
+* Leutner, Mechthild, and Izabella Goikhman. *State, Society and Governance in Republican China*. LIT Verlag Münster, 2013. (P)
+* Lincicome, Mark. *Imperial Subjects as Global Citizens: Nationalism, Internationalism, and Education in Japan*. Lexington Books, 2009. (P)
 * Lu, Xiufen. “The Confucian Ideal of Great Harmony (Datong 大同), the Daoist Account of Change, and the Theory of Socialism in the Work of Li Dazhao.” *Asian Philosophy* 21, no. 2 (May 1, 2011): 171–92. 
 * Saussy, Haun. “Reading for Conspiracy: Kang Youwei’s Restoration.” *Chinese Literature: Essays, Articles, Reviews (CLEAR)* 30 (2008): 125–32.
 * Shen, Shuang. *Cosmopolitan Publics: Anglophone Print Culture in Semi-Colonial Shanghai*. None ed. edition. New Brunswick, N.J: Rutgers University Press, 2009.
-* Shimazu, Naoko. *Japan, Race and Equality: The Racial Equality Proposal of 1919*. Psychology Press, 2009.
-* Sluga, Glenda. *Internationalism in the Age of Nationalism*. University of Pennsylvania Press, 2013.
-* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008.
-* Stegewerns, Dick. *Nationalism and Internationalism in Imperial Japan: Autonomy, Asian Brotherhood, or World Citizenship?* London: Routledge, 2003.
+* Shimazu, Naoko. *Japan, Race and Equality: The Racial Equality Proposal of 1919*. Psychology Press, 2009. (P)
+* Sluga, Glenda. *Internationalism in the Age of Nationalism*. University of Pennsylvania Press, 2013. (P)
+* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. (P)
+* Stegewerns, Dick. *Nationalism and Internationalism in Imperial Japan: Autonomy, Asian Brotherhood, or World Citizenship?* London: Routledge, 2003. (P)
+* Wang, Ban, ed. *Chinese Visions of World Order: Tianxia, Culture, and World Politics*. 2 edition. Durham ; London: Duke University Press Books, 2017.
 * Weiner, Michael. *Race and Migration in Imperial Japan*. Routledge, n.d.
 * Yan, Xishan. *How to Prevent Warfare and Establish Foundation of World Unity*, n.d.
-* Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007.
-
+* K'ang, Yu-Wei, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. (P)
 
 \pagebreak
 
-## Week 9 - Exploring the Kyoto School and Overcoming Modernity
+## Week 9 - New Directions in Japanese Thought and Overcoming Modernity
 
 ### Required Reading
 
+* Davis, Bret W. "The Kyoto School" entry *The Stanford Encyclopedia of Philosophy* [online](https://plato.stanford.edu/entries/kyoto-school/)
+* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 5 Nishida's Shadow pp104-133
+* Watanabe, Hiroshi, and David Noble. *A History of Japanese Political Thought, 1600-1901*. Tōkyō: Internat. House of Japan, 2012. Ch 5 but only pp231-272.
+
 ### Elective Reading
+
+**A) Overcoming Modernity - Kindai no Chōkoku**
+
+* Calichman, Richard. *Overcoming Modernity: Cultural Identity in Wartime Japan*. New York: Columbia University Press, 2008. Introduction pp1-41, Overcoming Modernity Symposium texts pp151-213 (P)
+
+**B) Nishida Kitarō**
+
+* HEISIG Nishida readings pp646-670
+* Heisig, James W., and John C. Maraldo, eds. *Rude Awakenings: Zen, the Kyoto School and the Question of Nationalism*. Honolulu: University of Hawaii Press, 1995. Nishida and Totalitarianism: A Philosopher's Resistance pp107-131
+* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 3-4 (P)
+
+**C) Tanabe Hajime**
+
+* HEISIG Tanabe readings pp670-692
+* Murthy, Viren, Fabian Schäfer, and Max Ward. *Confronting Capital and Empire: Rethinking Kyoto School Philosophy*. BRILL, 2017. Ch 5 Ethnicity and Species: On the Philosophy of the Multiethnic State and Japanese Imperialism pp143-175 (P)
+
+**D) Watsuji Tetsurō**
+
+* HEISIG Watsuji readings pp850-870
+* SOURCES JAPAN II Watsuji, The Way of the Japanese Subject pp284-287
+* Berque, Augustin. “Offspring of Watsuji’s Theory of Milieu (Fûdo).” *GeoJournal* 60, no. 4 (2004): 389–96.
+* Bellah, Robert N. “Japan’s Cultural Identity: Some Reflections on the Work of Watsuji Tetsuro.” *The Journal of Asian Studies* 24, no. 4 (1965): 573–94. 
+* LaFleur, William R. “Reasons for the Rubble: Watsuji Tetsurō’s Position in Japan’s Postwar Debate about Rationality.” *Philosophy East and West* 51, no. 1 (2001): 1–25.
+
+**E) Nishitani Keiji**
+
+* HEISIG Nishitani readings pp713-733
+* Calichman, Richard. *Overcoming Modernity: Cultural Identity in Wartime Japan*. New York: Columbia University Press, 2008. Ch 2 "My Views on 'Overcoming Modernity'", pp51-63
+* Ch 5 "Nishitani after Nietzsche: From the Death of God to the Great Death of the Will" in Davis, Bret W., Brian Schroeder, and Jason M. Wirth. *Japanese and Continental Philosophy: Conversations with the Kyoto School*. Indiana University Press, 2011. pp82-101
+* "Nishitani Keiji and the Question of Nationalism" in Heisig, James W., and John C. Maraldo, eds. *Rude Awakenings: Zen, the Kyoto School and the Question of Nationalism*. Honolulu: University of Hawaii Press, 1995. pp316-332
+
+**F) Takeuchi Yoshimi**
+
+* Takeuchi, Yoshimi. *What Is Modernity?: Writings of Takeuchi Yoshimi*. Columbia University Press, 2005. Preface and Introduction, Ch 2, 5, and 6 (P)
+
+**G) Tosaka Jun**
+
+* Harootunian, Harry D. *Overcome by Modernity: History, Culture, and Community in Interwar Japan*. Princeton University Press, 2001. Ch 3 (P)
+* Tosaka, Jun. *Tosaka Jun: A Critical Reader*. East Asia Program, Cornell University, 2013. "The Principle of Everydayness and Historical Time" pp3-16, "The Academy and Journalism" pp36-49 "The Actuality of Journalism and the Possibility of Everyday Critique" pp150-175, and "Here, Now: Everyday Space as Cultural Critique"  pp125-149
+ 
+**H) Miki Kiyoshi**
+
+* HEISIG Miki readings pp702-708
+* Townsend, Susan C. *Miki Kiyoshi, 1897-1945: Japan’s Itinerant Philosopher*. BRILL, 2009. Ch 5-7 (P)
+* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Ch 4, pp121-159. (P)
+
+**I) Kuki Shūzō**
+
+* HEISIG Kuki reading pp829-850
+* * Nara, Hiroshi. *The Structure of Detachment: The Aesthetic Vision of Kuki Shuzo*. University of Hawaii Press, 2004. Introduction (P)
+* Pincus, Leslie. “In a Labyrinth of Western Desire: Kuki Shuzo and the Discovery of Japanese Being.” *Boundary 2* 18, no. 3 (1991): 142–56. 
+* Koshiro, Yukiko. “Fascism and Aesthetics.” review of Leslie Pincus. *The Review of Politics* 59, no. 3 (1997): 606–8.
 
 ### General Further Reading
 
-* Abe, Masao. *Zen and Western Thought*. University of Hawaii Press, 1989.
-* Botz-Bornstein, Thorsten. “From Community to Time–Space Development: Comparing N. S. Trubetzkoy, Nishida Kitarō, and Watsuji Tetsurō.” *Asian Philosophy* 17, no. 3 (November 1, 2007): 263–82. 
+* Abe, Masao. *Zen and Western Thought*. University of Hawaii Press, 1989. (P)
+* Bellah, Robert N. “Japan’s Cultural Identity: Some Reflections on the Work of Watsuji Tetsuro.” *The Journal of Asian Studies* 24, no. 4 (1965): 573–94. 
+* Bernier, Bernard. “National Communion: Watsuji Tetsuro’s Conception of Ethics, Power, and the Japanese Imperial State.” *Philosophy East and West* 56, no. 1 (2006): 84–105.
+* Berque, Augustin. “Offspring of Watsuji’s Theory of Milieu (Fûdo).” *GeoJournal* 60, no. 4 (2004): 389–96.
+* Botz-Bornstein, T. “‘Iki,’ Style, Trace: Shūzō Kuki and the Spirit of Hermeneutics.” *Philosophy East and West* 47, no. 4 (1997): 554–80. 
+* Botz-Bornstein, Thorsten. “Contingency and the ‘Time of the Dream’: Kuki Shūzō and French Prewar Philosophy.” *Philosophy East and West* 50, no. 4 (2000): 481–506.
+* ———. “From Community to Time–Space Development: Comparing N. S. Trubetzkoy, Nishida Kitarō, and Watsuji Tetsurō.” *Asian Philosophy* 17, no. 3 (November 1, 2007): 263–82. 
 * ———. “Nishida and Wittgenstein: From ‘pure Experience’ to Lebensform or New Perspectives for a Philosophy of Intercultural Communication.” *Asian Philosophy* 13, no. 1 (March 1, 2003): 53–70. 
 * Calichman, Richard. *Contemporary Japanese Thought*. Columbia University Press, 2012.
-* ———. *Overcoming Modernity: Cultural Identity in Wartime Japan*. New York: Columbia University Press, 2008.
+* ———. *Overcoming Modernity: Cultural Identity in Wartime Japan*. New York: Columbia University Press, 2008. (P)
 * Carter, Robert Edgar. *Kyoto School, The: An Introduction*. SUNY Press, 2013.
 * Curley, Melissa Anne-Marie. “Miki Kiyoshi.” *The Oxford Handbook of Japanese Philosophy*, September 2, 2014. 
-* Doak, Kevin Michael. *Dreams of Difference: The Japan Romantic School and the Crisis of Modernity*. Berkeley, CA: University of California Press, 1994.
+* Davis, Bret W. “The Kyoto School.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Spring 2017. Metaphysics Research Lab, Stanford University, 2017. 
+* Davis, Bret W., Brian Schroeder, and Jason M. Wirth. *Japanese and Continental Philosophy: Conversations with the Kyoto School*. Indiana University Press, 2011.
+* Dilworth, David. “Watsuji Tetsurō (1889-1960): Cultural Phenomenologist and Ethician.” *Philosophy East and West* 24, no. 1 (1974): 3–22. 
+* Dilworth, David A., Valdo Humbert Viglielmo, and Agustín Jacinto Zavala. *Sourcebook for Modern Japanese Philosophy: Selected Documents*. Greenwood Press, 1998.
+* DiNitto, Rachel. “Return of the ‘Zuihitsu’: Print Culture, Modern Life, and Heterogeneous Narrative in Prewar Japan.” *Harvard Journal of Asiatic Studies* 64, no. 2 (2004): 251–90. 
+* Doak, Kevin Michael. *Dreams of Difference: The Japan Romantic School and the Crisis of Modernity*. Berkeley, CA: University of California Press, 1994. (P)
 * Franck, Frederick. *The Buddha Eye: An Anthology of the Kyoto School and Its Contemporaries*. World Wisdom, Inc, 2004.
-* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009.
-* ———. *Re-Politicising the Kyoto School as Philosophy*. Routledge, 2007.
-* Harootunian, Harry. *History’s Disquiet: Modernity, Cultural Practice, and the Question of Everyday Life*. Columbia University Press, 2010.
-* Harootunian, Harry D. *Overcome by Modernity: History, Culture, and Community in Interwar Japan*. Princeton University Press, 2001.
-* Heisig, James W. *Philosophers of Nothingness: An Essay on the Kyoto School*. University of Hawaii Press, 2001.
-* Heisig, James W., and John C. Maraldo. *Rude Awakenings: Zen, the Kyoto School, &amp; the Question of Nationalism*. University of Hawaii Press, 1995.
-* ———, eds. *Rude Awakenings: Zen, the Kyoto School and the Question of Nationalism*. Honolulu: University of Hawaii Press, 1995.
-* III, William Miles Fletcher. *The Search for a New Order: Intellectuals and Fascism in Prewar Japan*. University of North Carolina Press, 2011.
-* Murthy, Viren, Fabian Schäfer, and Max Ward. *Confronting Capital and Empire: Rethinking Kyoto School Philosophy*. BRILL, 2017.
+* Fujita, Masakatsu, and John Wesley Megumu Krummel. *The Philosophy of the Kyoto School*. Springer, 2018.
+* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. (P)
+* ———. *Re-Politicising the Kyoto School as Philosophy*. Routledge, 2007. (P)
+* Harootunian, Harry. *History’s Disquiet: Modernity, Cultural Practice, and the Question of Everyday Life*. Columbia University Press, 2010. (P)
+* ———. “Remembering the Historical Present.” *Critical Inquiry* 33, no. 3 (2007): 471–94. 
+* Harootunian, Harry D. *Overcome by Modernity: History, Culture, and Community in Interwar Japan*. Princeton University Press, 2001. (P)
+* Heisig, James W. *Philosophers of Nothingness: An Essay on the Kyoto School*. University of Hawaii Press, 2001. (P)
+* Heisig, James W., and John C. Maraldo, eds. *Rude Awakenings: Zen, the Kyoto School and the Question of Nationalism*. Honolulu: University of Hawaii Press, 1995.
+* III, William Miles Fletcher. *The Search for a New Order: Intellectuals and Fascism in Prewar Japan*. University of North Carolina Press, 2011. (P)
+* Inaga, Shigemi. “Japanese Philosophers Go West: The Effect of Maritime Trips on Philosophy in Japan with Special Reference to the Case of Watsuji Tetsurō (1889-1960).” *Japan Review*, no. 25 (2013): 113–44.
+* Jennings, J. Nelson. *Theology in Japan: Takakura Tokutaro (1885-1934)*. University Press of America, 2005. (P)
+* Karatani, Kojin, and Seiji M. Lippit. “The Discursive Space of Modern Japan.” *Boundary 2* 18, no. 3 (1991): 191–219. 
+* Koshiro, Yukiko. “Fascism and Aesthetics.” Edited by Leslie Pincus. *The Review of Politics* 59, no. 3 (1997): 606–8.
+* Kuki, Sh?z? *Kuki Shuzo: A Philosopher’s Poetry and Poetics*. University of Hawaii Press, 2004.
+* Lafleur, William R. “Buddhist Emptiness in the Ethics and Aesthetics of Watsuji Tetsurō.” *Religious Studies* 14, no. 2 (1978): 237–50.
+* LaFleur, William R. “Reasons for the Rubble: Watsuji Tetsurō’s Position in Japan’s Postwar Debate about Rationality.” *Philosophy East and West* 51, no. 1 (2001): 1–25.
+* Maraldo, John C. “Nishida Kitarō.” In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, Winter 2015. Metaphysics Research Lab, Stanford University, 2015. 
+* Mayeda, Graham. *Time, Space and Ethics in the Philosophy of Watsuji Tetsurō, Kuki Shūzō, and Martin Heidegger*. Taylor &amp; Francis, 2006. (P)
+* McCarthy, Erin. *Ethics Embodied: Rethinking Selfhood through Continental, Japanese, and Feminist Philosophies*. Lexington Books, 2010. (P)
+* Murthy, Viren, Fabian Schäfer, and Max Ward. *Confronting Capital and Empire: Rethinking Kyoto School Philosophy*. BRILL, 2017. (P)
+* Murthy, Viren, and Axel Schneider, eds. *The Challenge of Linear Time: Nationhood and the Politics of History in East Asia*. BRILL, 2013. (P)
+* Muto, Kazuo, Martin Repp, and Jan van Bragt. *Christianity and the Notion of Nothingness: Contributions to Buddhist-Christian Dialogue from the Kyoto School*. BRILL, 2012. (P)
+* Nagami, Isamu. “The Ontological Foundation in Tetsurō Watsuji’s Philosophy: Kū and Human Existence.” *Philosophy East and West* 31, no. 3 (1981): 279–96. 
+* Nara, Hiroshi. *The Structure of Detachment: The Aesthetic Vision of Kuki Shuzo*. University of Hawaii Press, 2004. (P)
 * Nishida, Kitaro. *An Inquiry Into the Good*. Yale University Press, 1992.
 * Nishida, Kitarō. *Place and Dialectic: Two Essays by Nishida Kitaro*. Oxford University Press, USA, 2012.
 * Nishitani, Keiji. *Religion and Nothingness*. University of California Press, 1983.
+* Olson, Lawrence. “Takeuchi Yoshimi and the Vision of a Protest Society in Japan.” *Journal of Japanese Studies* 7, no. 2 (1981): 319–48. 
+* Park, Sunyoung. “Everyday Life as Critique in Late Colonial Korea: Kim Namch’ŏn’s Literary Experiments, 1934-43.” *The Journal of Asian Studies* 68, no. 3 (2009): 861–93.
 * Peerenboom, R.p. “The Religious Foundations of Nishida’s Philosophy.” *Asian Philosophy* 1, no. 2 (October 1991): 161.
-* Pincus, Leslie. *Authenticating Culture in Imperial Japan: Kuki Shuzo and the Rise of National Aesthetics*. University of California Press, 1996.
+* Pincus, Leslie. *Authenticating Culture in Imperial Japan: Kuki Shuzo and the Rise of National Aesthetics*. University of California Press, 1996. (P)
+* ———. “In a Labyrinth of Western Desire: Kuki Shuzo and the Discovery of Japanese Being.” *Boundary 2* 18, no. 3 (1991): 142–56. 
 * Piovesana, Gino K. *Recent Japanese Philosophical Thought 1862-1994: A Survey*. Routledge, 2013.
+* Sakai, Naoki. *Translation and Subjectivity: On “Japan” and Cultural Nationalism*. University of Minnesota Press, 1997. (P)
+* Shigemi, INAGA. “Kuki Shūzō and the Idea of Metempsychosis: Recontextualizing Kuki’s Lecture on Time in the Intellectual Milieu Between the Two World Wars.” *Japan Review*, no. 31 (2017): 105–22.
 * Smith, Joel R. “Nishitani and Nietzsche on the Selfless Self.” *Asian Philosophy* 4, no. 2 (October 1994): 165.
 * Takeuchi, Yoshimi. *What Is Modernity?: Writings of Takeuchi Yoshimi*. Columbia University Press, 2005.
 * Tansman, Alan. *The Culture of Japanese Fascism*. Duke University Press, 2010.
 * Tosaka, Jun. *Tosaka Jun: A Critical Reader*. East Asia Program, Cornell University, 2013.
-* Townsend, Susan C. *Miki Kiyoshi, 1897-1945: Japan’s Itinerant Philosopher*. BRILL, 2009.
-* Unno, Taitetsu. *The Religious Philosophy of Nishitani Keiji: Encounter with Emptiness*. Jain Publishing Company, 1989.
-* Unno, Taitetsu, James W. Heisig, and International Symposium on Metanoetics Smith College). *The Religious Philosophy of Tanabe Hajime: The Metanoetic Imperative*. Nanzan Studies in Religion and Culture. Berkeley, Calif.: Asian Humanities Press, 1990.
+* Townsend, Susan C. *Miki Kiyoshi, 1897-1945: Japan’s Itinerant Philosopher*. BRILL, 2009. (P)
+* Unno, Taitetsu. *The Religious Philosophy of Nishitani Keiji: Encounter with Emptiness*. Jain Publishing Company, 1989. (P)
+* Unno, Taitetsu, James W. Heisig, and International Symposium on Metanoetics Smith College). *The Religious Philosophy of Tanabe Hajime: The Metanoetic Imperative*. Nanzan Studies in Religion and Culture. Berkeley, Calif.: Asian Humanities Press, 1990. (P)
 * Walsh, Dermott J. “The Confucian Roots of Zen No Kenkyū: Nishida’s Debt to Wang Yang-Ming in the Search for a Philosophy of Praxis.” *Asian Philosophy* 21, no. 4 (November 1, 2011): 361–72. 
-* Williams, David. *Defending Japan’s Pacific War: The Kyoto School Philosophers and Post-White Power: The Kyoto Philosophers and the Idea of a Post-White World*. Routledge, 2004.
-* Yusa, Michiko. *Zen and Philosophy: An Intellectual Biography of Nishida Kitarô*. University of Hawaii Press, 2002.
-
+* Watanabe, Hiroshi, and David Noble. *A History of Japanese Political Thought, 1600-1901*. Tōkyō: Internat. House of Japan, 2012.
+* Watsuji, Tetsurō. *A Climate: A Philosophical Study, by Watsuji Tetsuro. Translated by Geoffrey Bownas, ...* Printing Bureau, Japanese Government, 1961.
+* ———. *Purifying Zen: Watsuji Tetsurō’s Shamon Dōgen*. University of Hawaiʻi Press, 2011. (P)
+* Watsuji, Tetsurō, and Watsuji Tetsuro. *Watsuji Tetsuro’s Rinrigaku: Ethics in Japan*. SUNY Press, 1996.
+* Williams, David. *Defending Japan’s Pacific War: The Kyoto School Philosophers and Post-White Power: The Kyoto Philosophers and the Idea of a Post-White World*. Routledge, 2004. (P)
+* Yusa, Michiko. *The Bloomsbury Research Handbook of Contemporary Japanese Philosophy*. Bloomsbury Publishing, 2017.
+* ———. *Zen and Philosophy: An Intellectual Biography of Nishida Kitarô*. University of Hawaii Press, 2002. (P)
 
 \pagebreak
 
@@ -681,15 +865,15 @@ Valdimir social sarwinism ch5 pp113-135
 
 * SOURCES CHINA II "The New Confucians" in Ch 39 Reopening the Debate on Chinese Tradition pp545-563 (in paper version)
 * Bell, Daniel. *China’s New Confucianism: Politics and Everyday Life in a Changing Society*. Princeton, N.J: Princeton University Press, 2008. Ch 1  From Communism to Confucianism pp3-18
-* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Introduction pp1-27; 
-* Chan, Joseph. *Confucian Perfectionism: A Political Philosophy for Modern Times*. Princeton University Press, 2015, Conclusion pp191-204.
+* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Introduction pp1-27;  (P)
+* Chan, Joseph. *Confucian Perfectionism: A Political Philosophy for Modern Times*. Princeton University Press, 2015, Conclusion pp191-204. (P)
 * Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. Cambridge University Press, 2010., Ch 2 The Pull of Cultural Conservatism, pp61-95
 
 ### Elective Reading
 
 **A) Confucianism and Fascism**
 
-* Clinton, Maggie. *Revolutionary Nativism: Fascism and Culture in China, 1925-1937*. Duke University Press, 2017. Introduction, Ch 2, Ch 4
+* Clinton, Maggie. *Revolutionary Nativism: Fascism and Culture in China, 1925-1937*. Duke University Press, 2017. Introduction, Ch 2, Ch 4 (P)
 * Paramore, Kiri. *Japanese Confucianism*. Cambridge University Press, 2016. Ch 6-7
 
 **B) Early Pioneers: Xiong Shili, Liang Shuming, Feng Youlan**
@@ -704,79 +888,80 @@ Valdimir social sarwinism ch5 pp113-135
 
 **D) Qing Jiang**
 
-* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Ch 1-3, and "Reply to My Critics"
+* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Ch 1-3, and "Reply to My Critics" (P)
 
 **E) "Boston Confucians"**
 
-* Neville, Robert Cummings. *Boston Confucianism: Portable Tradition in the Late-Modern World*. State University of New York Press, 2000. Forward, Preface, Ch 1
+* Neville, Robert Cummings. *Boston Confucianism: Portable Tradition in the Late-Modern World*. State University of New York Press, 2000. Forward, Preface, Ch 1 (P)
 * Read the [entry on Tu Weiming](https://www.iep.utm.edu/tu-weimi/) in the Internet Encyclopedia of Philosophy
 
 **F)  Ci Jiwei on China's Moral Crisis**
 
-* Ci, Jiwei. *Moral China in the Age of Reform*. Cambridge University Press, 2014. Introduction, Ch 1-5
+* Ci, Jiwei. *Moral China in the Age of Reform*. Cambridge University Press, 2014. Introduction, Ch 1-5 (P)
 
 ### General Further Reading
 
 * Adelmann, Frederick J., ed. *Contemporary Chinese Philosophy*. Boston College Studies in Philosophy, v. 6. The Hague ; London: Nijhoff, 1982.
-* Alitto, Guy, ed. *Contemporary Confucianism in Thought and Action*. Springer, 2017.
-* Bell, Daniel A. *Beyond Liberal Democracy: Political Thinking for an East Asian Context*. Princeton, N.J: Princeton University Press, 2006.
-* ———. *China’s New Confucianism: Politics and Everyday Life in a Changing Society*. Princeton, N.J: Princeton University Press, 2008.
-* ———, ed. *Confucian Political Ethics*. Princeton: Princeton University Press, 2007.
+* Alitto, Guy, ed. *Contemporary Confucianism in Thought and Action*. Springer, 2017. (P)
+* Bell, Daniel A. *Beyond Liberal Democracy: Political Thinking for an East Asian Context*. Princeton, N.J: Princeton University Press, 2006. (P)
+* ———. *China’s New Confucianism: Politics and Everyday Life in a Changing Society*. Princeton, N.J: Princeton University Press, 2008. (P)
+* ———, ed. *Confucian Political Ethics*. Princeton: Princeton University Press, 2007. 
 * ———. *East Meets West: Human Rights and Democracy in East Asia*. Princeton, N.J: Princeton University Press, 2000.
 * ———. *The China Model: Political Meritocracy and the Limits of Democracy*. Princeton: Princeton University Press, 2015.
 * ———. *The East Asian Challenge for Democracy: Political Meritocracy In Comparative Perspective*. New York: Cambridge University Press, 2013.
 * Black, Antony, Brett Bowden, Bruce Buchan, Joseph Chan, Fred R. Dallmayr, Nelly Lahoud, and Philip Nel. *Western Political Thought in Dialogue with Asia*. Edited by Takashi Shogimen and Cary J. Nederman. Lanham, MD: Lexington Books, 2008.
-* Chaibong, Hahm. *Confucianism for the Modern World*. Edited by Daniel A. Bell. Cambridge, UK ; New York: Cambridge University Press, 1999.
-* Chan, Joseph. *Confucian Perfectionism: A Political Philosophy for Modern Times*. Princeton University Press, 2015.
-* Chan, N. Serina. *The Thought of Mou Zongsan*. BRILL, 2011.
+* Chaibong, Hahm. *Confucianism for the Modern World*. Edited by Daniel A. Bell. Cambridge, UK ; New York: Cambridge University Press, 1999. (P)
+* Chan, Joseph. *Confucian Perfectionism: A Political Philosophy for Modern Times*. Princeton University Press, 2015. (P)
+* Chan, N. Serina. *The Thought of Mou Zongsan*. BRILL, 2011. (P)
 * Chang, Wonsuk, ed. *Confucianism in Context: Classic Philosophy and Contemporary Issues, East Asia and Beyond*. Albany: State University of New York Press, 2011.
-* Chen, Derong. *Metaphorical Metaphysics in Chinese Philosophy: Illustrated with Feng Youlan’s New Metaphysics*. Lexington Books, 2011.
+* Chen, Derong. *Metaphorical Metaphysics in Chinese Philosophy: Illustrated with Feng Youlan’s New Metaphysics*. Lexington Books, 2011. (P)
 * Cheng, Chung-Ying, and Nicholas Bunnin. *Contemporary Chinese Philosophy*. John Wiley &amp; Sons, 2008.
 * Choi, Yeonsik. “Yu Kil-Chun’s Moral Idea of Civilization and Project to Make All People Gentlemen.” *Asian Philosophy* 24, no. 2 (April 3, 2014): 103–20. 
 * Chou, Chih-P’ing, ed. *English Writings of Hu Shih*. Springer, 2015.
-* Ci, Jiwei. *Moral China in the Age of Reform*. Cambridge University Press, 2014.
-* Clinton, Maggie. *Revolutionary Nativism: Fascism and Culture in China, 1925-1937*. Duke University Press, 2017.
-* Clower, Jason. *The Unlikely Buddhologist: Tiantai Buddhism in Mou Zongsan’s New Confucianism*. Leiden: Brill, 2010.
+* Ci, Jiwei. *Moral China in the Age of Reform*. Cambridge University Press, 2014. (P)
+* Clinton, Maggie. *Revolutionary Nativism: Fascism and Culture in China, 1925-1937*. Duke University Press, 2017. (P)
+* Clower, Jason. *The Unlikely Buddhologist: Tiantai Buddhism in Mou Zongsan’s New Confucianism*. Leiden: Brill, 2010. (P)
 * Dallmayr, Fred R., Tingyang Zhao, and MyiLibrary, eds. *Contemporary Chinese Political Thought: Debates and Perspectives*. Asia in the New Millennium. Lexington: University Press of Kentucky, 2012.
 * De Bary, William Theodore. *Asian Values and Human Rights: A Confucian Communitarian Perspective*. Cambridge, Mass. ; London: Harvard University Press, 1998.
 * Dirlik, Arif. “Confucius in the Borderlands: Global Capitalism and the Reinvention of Confucianism.” *Boundary 2* 22, no. 3 (October 1, 1995): 229–73. 
 * Elman, Benjamin A., John B. Duncan, and Herman Ooms, eds. *Rethinking Confucianism: Past and Present in China, Japan, Korea, and Vietnam*. Los Angeles: Univ of California Los Angeles, 2002.
 * Fan, Ruiping. *Reconstructionist Confucianism: Rethinking Morality after the West*. 2010 edition. Springer, 2012.
-* ———. *The Renaissance of Confucianism in Contemporary China*. Springer Science &amp; Business Media, 2011.
+* ———. *The Renaissance of Confucianism in Contemporary China*. Springer Science &amp; Business Media, 2011. (P)
 * Feng, Huiyun. *Chinese Strategic Culture and Foreign Policy Decision-Making*. London; New York: Routledge, 2009.
 * Feng, Youlan. *A History of Chinese Philosophy*. Princeton University Press, 1983.
 * ———. *The Hall of Three Pines: An Account of My Life*. University of Hawaii Press, 2000.
-* Formoso, Bernard. *De Jiao - A Religious Movement in Contemporary China and Overseas: Purple Qi from the East*. NUS Press, 2010.
+* Formoso, Bernard. *De Jiao - A Religious Movement in Contemporary China and Overseas: Purple Qi from the East*. NUS Press, 2010. (P)
 * Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. Cambridge University Press, 2010.
 * Hammond, Kenneth J., and Jeffrey L. Richey, eds. *Sage Returns, The: Confucian Revival in Contemporary China*. Albany, NY: State University of New York Press, 2015.
 * Hang, Lin. “Traditional Confucianism and Its Contemporary Relevance.” *Asian Philosophy* 21, no. 4 (November 1, 2011): 437–45. 
 * Herr, Ranjoo Seodu. “Confucian Democracy and Equality.” *Asian Philosophy* 20, no. 3 (November 1, 2010): 261–82. 
-* Hui, Wang, and Rebecca Karl. *The End of the Revolution: China and the Limits of Modernity*. Verso, 2011.
+* Hui, Wang, and Rebecca Karl. *The End of the Revolution: China and the Limits of Modernity*. Verso, 2011. (P)
 * Kim, Sungmoon. *Confucian Democracy in East Asia: Theory And Practice*. New York, NY: Cambridge University Press, 2014.
 * ———. “Filiality, Compassion, and Confucian Democracy.” *Asian Philosophy* 18, no. 3 (November 1, 2008): 279–98. 
 * Li, Chenyang. “Does Confucian Ethics Integrate Care Ethics and Justice Ethics? The Case of Mencius.” *Asian Philosophy* 18, no. 1 (March 1, 2008): 69–82. 
 * Lin, Xiaoqing Diana. “Creating Modern Chinese Metaphysics: Feng Youlan and New Realism.” *Modern China* 40, no. 1 (2014): 40–73.
-* ———. *Feng Youlan and Twentieth Century China: An Intellectual Biography*. BRILL, 2016.
+* ———. *Feng Youlan and Twentieth Century China: An Intellectual Biography*. BRILL, 2016. (P)
 * Lomanov, Alexander V. “Religion and Rationalism in the Philosophy of Feng Youlan.” *Monumenta Serica* 46 (1998): 323–41.
-* Makeham, J. *New Confucianism: A Critical Examination*. Springer, 2003.
-* Neville, Robert Cummings. *Boston Confucianism: Portable Tradition in the Late-Modern World*. State University of New York Press, n.d.
+* Makeham, J. *New Confucianism: A Critical Examination*. Springer, 2003. (P)
+* Min, Anselm K., ed. *Korean Religions in Relation: Buddhism, Confucianism, Christianity*. Reprint edition. Place of publication not identified: State University of New York Press, 2017. Ch 8 "Resurgence of Asian Values: Confucian Comeback and Its Embodiment in Christianity", Ch 9 "Korean Confucianism and Women's Subjectivity in the Twenty-First Century", Ch 10 "Confucianism at a Crossroads: Confucianism and Democracy in Korea"
+* Neville, Robert Cummings. *Boston Confucianism: Portable Tradition in the Late-Modern World*. State University of New York Press, n.d. (P)
 * Paramore, Kiri. “‘Civil Religion’ and Confucianism: Japan’s Past, China’s Present, and the Current Boom in Scholarship on Confucianism.” *The Journal of Asian Studies* 74, no. 02 (May 2015): 269–282. 
 * ———. *Japanese Confucianism*. Cambridge University Press, 2016.
-* Puett, Michael J, and Christine Gross-Loh. *The Path: What Chinese Philosophers Can Teach Us About the Good Life*, 2017.
-* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012.
-* Rošker, Jana S. *The Rebirth of the Moral Self: The Second Generation of Modern Confucians and Their Modernization Discourses*. Chinese University Press, 2015.
+* Puett, Michael J, and Christine Gross-Loh. *The Path: What Chinese Philosophers Can Teach Us About the Good Life*, 2017. (P)
+* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. (P)
+* Rošker, Jana S. *The Rebirth of the Moral Self: The Second Generation of Modern Confucians and Their Modernization Discourses*. Chinese University Press, 2015. (P)
 * ———. “The Subject’s New Clothes: Immanent Transcendence and the Moral Self in the Modern Confucian Discourses.” *Asian Philosophy* 24, no. 4 (October 2, 2014): 346–62. 
 * Shin, Doh Chull. *Confucianism and Democratization in East Asia*. New York: Cambridge University Press, 2012.
 * Song, Zhiming, and Huang Deyuan. “Achievements, Predicaments and Trend of Moral Confucianism.” *Frontiers of Philosophy in China* 2, no. 4 (2007): 503–16.
-* Sun, Anna Xiao Dong. *Confucianism as a World Religion: Contested Histories and Contemporary Realities*. Princeton University Press, 2013.
+* Sun, Anna Xiao Dong. *Confucianism as a World Religion: Contested Histories and Contemporary Realities*. Princeton University Press, 2013. (P)
 * Tiwald, Justin, and Bryan W. Van Norden. *Readings in Later Chinese Philosophy: Han to the 20th Century*. Indianapolis: Hackett Publishing Company, 2014.
 * Tu, Wei-ming. *Confucian Traditions in East Asian Modernity: Moral Education and Economic Culture in Japan and the Four Mini-Dragons*. Harvard University Press, 1996.
-* Tu, Weiming, Tu (Wei-ming), Weiming Du, and Harvard-Yenching Professor of Chinese History Philosophy and Confucian Studies Tu Wei-Ming. *Confucian Thought: Selfhood as Creative Transformation*. SUNY Press, 1985.
+* Tu, Weiming, Tu (Wei-ming) *Confucian Thought: Selfhood as Creative Transformation*. SUNY Press, 1985. (P)
 * Wang, Ban, ed. *Chinese Visions of World Order: Tianxia, Culture, and World Politics*. 2 edition. Durham ; London: Duke University Press Books, 2017.
-* Wang, Robin R., ed. *Chinese Philosophy in an Era of Globalization*. Albany: State University of New York Press, 2004.
-* Wei-ming, Tu. *Centrality and Commonality: An Essay on Confucian Religiousness A Revised and Enlarged Edition of Centrality and Commonality: An Essay on Chung-Yung*. A Rev. and Enl. Ed. of Centrality and Commonality : an Essay on Chung-yung Edition. Albany, N.Y: State University of New York Press, 1989.
-* Xiao, Yang, and Yong Huang, eds. *Moral Relativism and Chinese Philosophy: David Wong and His Critics*. State University of New York Press, 2015.
-* Yu, Kam-por, ed. *Taking Confucian Ethics Seriously: Contemporary Theories and Applications*. Albany: State University of New York Press, 2011.
+* Wang, Robin R., ed. *Chinese Philosophy in an Era of Globalization*. Albany: State University of New York Press, 2004. (P)
+* Wei-ming, Tu. *Centrality and Commonality: An Essay on Confucian Religiousness A Revised and Enlarged Edition of Centrality and Commonality: An Essay on Chung-Yung*. A Rev. and Enl. Ed. of Centrality and Commonality : an Essay on Chung-yung Edition. Albany, N.Y: State University of New York Press, 1989. (P)
+* Xiao, Yang, and Yong Huang, eds. *Moral Relativism and Chinese Philosophy: David Wong and His Critics*. State University of New York Press, 2015. (P)
+* Yu, Kam-por, ed. *Taking Confucian Ethics Seriously: Contemporary Theories and Applications*. Albany: State University of New York Press, 2011. (P)
 
 
 \pagebreak
@@ -787,20 +972,20 @@ Valdimir social sarwinism ch5 pp113-135
 
 * Lawson, Konrad. “Reimagining the Postwar International Order: The World Federalism of Ozaki Yukio and Kagawa Toyohiko.” In *The Institution of International Order: From the League of Nations to the United Nations*, edited by Alanna O’Malley and Simon Jackson. Routledge, 2018, 
 * SOURCES JAPAN II "Kita Ikki and the Reform Wing of Ultranationalism" in Ch 42 (pp271-276 in paper version)
-* Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Part III Ideology for an Empire; Conclusion pp127-16
+* Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Part III Ideology for an Empire and Conclusion  (P)
 
 ### Elective Reading
 
 **A) Kagawa Toyohiko**
 
 * Bikle, George. “Utopianism and Social Planning in the Thought of Kagawa Toyohiko.” *Monumenta Nipponica* 25, no. 3/4 (January 1, 1970): 447–53. 
-* Bikle, George B, and Association for Asian Studies. *The New Jerusalem: Aspects of Utopianism in the Thought of Kagawa Toyohiko*. Tucson: Published for the Association for Asian Studies by the University of Arizona Press, 1976. Ch 16 "The New Jerusalem", pp211-234
+* Bikle, George B, and Association for Asian Studies. *The New Jerusalem: Aspects of Utopianism in the Thought of Kagawa Toyohiko*. Tucson: Published for the Association for Asian Studies by the University of Arizona Press, 1976. Ch 16 "The New Jerusalem", pp211-234 (P)
 * Fisher, Galen M. “The Cooperative Movement in Japan.” *Pacific Affairs* 11, no. 4 (1938): 478–91. 
-* Kagawa, Toyohiko *Brotherhood Economics* New York: Harper and Brothers, 1936. Ch 8-9.
+* Kagawa, Toyohiko *Brotherhood Economics* New York: Harper and Brothers, 1936. Ch 8-9. (P)
 
 **B) Kita Ikki**
 
-* Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Ch 2-5
+* Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Ch 2-5 (P)
 * Wilson, George M. “Kita Ikki’s Theory of Revolution.” *The Journal of Asian Studies* 26, no. 1 (1966): 89–99. 
 
 **C) Japanese Utopian Literature and Science Fiction**
@@ -815,36 +1000,35 @@ Valdimir social sarwinism ch5 pp113-135
 * Ho, Koon-ki T. “Several Thousand Years in Search of Happiness: The Utopian Tradition in China.” *Oriens Extremus* 30 (1983): 19–35.
 * Song, Mingwei. “Variations on Utopia in Contemporary Chinese Science Fiction.” *Science Fiction Studies* 40, no. 1 (2013): 86–102. 
 * Song, Han. “Chinese Science Fiction: A Response to Modernization.” *Science Fiction Studies* 40, no. 1 (2013): 15–21. 
-* Consider reading some of the novel Liu, Cixin. *The Three-Body Problem*. Translated by Ken Liu. London: Head of Zeus, 2015.
+* Consider reading some of the novel Liu, Cixin. *The Three-Body Problem*. Translated by Ken Liu. London: Head of Zeus, 2015. (P)
 
 ### General Further Reading
 
-* [Kagawa Archives & Resource Center - English Collection Digital Archives](http://zaidan.unchusha.com/archives/index_e.html)
 * Abe, Kobo. *Inter Ice Age 4*. [1st American ed.] edition. Knopf, 1970.
 * Bare, Joshua La. “The Future: ‘Wrapped... in That Mysterious Japanese Way.’” *Science Fiction Studies* 27, no. 1 (2000): 22–48.
 * Bolton, Christopher. *Sublime Voices: The Fictional Science and Scientific Fiction of Abe Kōbō*. Harvard University Asia Center, 2009.
-* Chiaki, Kawamata. *Death Sentences*. Translated by Thomas Lamarre. Translation edition. Minneapolis: University of Minnesota Press, 2012.
+* Chiaki, Kawamata. *Death Sentences*. Translated by Thomas Lamarre. Translation edition. Minneapolis: University of Minnesota Press, 2012. (P)
 * Collins, Samuel Gerald. “Train to Pyongyang:: Imagination, Utopia, and Korean Unification.” *Utopian Studies* 24, no. 1 (2013): 119–43. 
 * Dumas, Raechel. “Monstrous Motherhood and Evolutionary Horror in Contemporary Japanese Science Fiction.” *Science Fiction Studies* 45, no. 1 (2018): 24–47.
 * Fokkema, Douwe Wessel. *Perfect Worlds: Utopian Fiction in China and the West*. Amsterdam University Press, 2011.
-* Isaacson, Nathaniel. *Celestial Empire: The Emergence of Chinese Science Fiction*. Middletown, Connecticut: Wesleyan University Press, 2017.
+* Isaacson, Nathaniel. *Celestial Empire: The Emergence of Chinese Science Fiction*. Middletown, Connecticut: Wesleyan University Press, 2017. (P)
 * Jiang, Qian. “Translation and the Development of Science Fiction in Twentieth-Century China.” *Science Fiction Studies* 40, no. 1 (2013): 116–32. 
 * Langer, Jessica. “Three Versions of Komatsu Saykō’s Nihon Chinbotsu (Japan Sinks).” *Science Fiction Film and Television* 2, no. 1 (July 1, 2009): 45–57.
 * Lee, Sung-Ae. “Adaptations of Time Travel Narratives in Japanese Multimedia: Nurturing Eudaimonia across Time and Space.” *International Research in Children’s Literature* 7, no. 2 (November 25, 2014): 136–51. 
-* Leheny, David. *Empire of Hope: The Sentimental Politics of Japanese Decline*. Cornell University Press, 2018.
+* Leheny, David. *Empire of Hope: The Sentimental Politics of Japanese Decline*. Cornell University Press, 2018. (P)
 * Li, Guangyi. “‘New Year’s Dream’:: A Chinese Anarcho-Cosmopolitan Utopia.” *Utopian Studies* 24, no. 1 (2013): 89–104. 
 * ———. “Peace under Heaven: The (Re)Making of an Ideal World Order in Chinese Utopianism (1902-1911).” UCLA, 2013. 
 * Li, Hua. “The Political Imagination in Liu Cixin’s Critical Utopia: China 2185.” *Science Fiction Studies* 42, no. 3 (2015): 519–40. 
-* Liu, Cixin. *The Three-Body Problem*. Translated by Ken Liu. London: Head of Zeus, 2015.
+* Liu, Cixin. *The Three-Body Problem*. Translated by Ken Liu. London: Head of Zeus, 2015. (P)
 * ———. [“The Worst of All Possible Universes and the Best of All Possible Earths: Three Body and Chinese Science Fiction.”](https://www.tor.com/2014/10/30/repost-the-worst-of-all-possible-universes-and-the-best-of-all-possible-earths-three-body-and-chinese-science-fiction/) Tor.com, October 30, 2014.  
 * Liyuan, Jia, and Translated by Joel Martinsen. “Gloomy China: China’s Image in Han Song’s Science Fiction.” *Science Fiction Studies* 40, no. 1 (2013): 103–15. 
 * Mari, Kotani, and Miri Nakamura. “Space, Body, and Aliens in Japanese Women’s Science Fiction.” *Science Fiction Studies* 29, no. 3 (2002): 397–417.
-* Matthew, Robert. *Japanese Science Fiction: A View of a Changing Society*. Routledge, 2003.
-* Mizuno, Hiromi. *Science for the Empire: Scientific Nationalism in Modern Japan*. Stanford University Press, 2008.
-* Napier, Susan. *The Fantastic in Modern Japanese Literature: The Subversion of Modernity*. Routledge, 2005.
+* Matthew, Robert. *Japanese Science Fiction: A View of a Changing Society*. Routledge, 2003. (P)
+* Mizuno, Hiromi. *Science for the Empire: Scientific Nationalism in Modern Japan*. Stanford University Press, 2008. (P)
+* Napier, Susan. *The Fantastic in Modern Japanese Literature: The Subversion of Modernity*. Routledge, 2005. (P)
 * Napier, Susan J. “Panic Sites: The Japanese Imagination of Disaster from Godzilla to Akira.” *Journal of Japanese Studies* 19, no. 2 (1993): 327–51. 
-* Ohara, Mariko. *Hybrid Child*. Translated by Jodie Beck. Minneapolis: Univ Of Minnesota Press, 2018.
-* Parrinder, Patrick. *Learning from Other Worlds: Estrangement, Cognition, and the Politics of Science Fiction and Utopia*. Liverpool University Press, 2000.
+* Ohara, Mariko. *Hybrid Child*. Translated by Jodie Beck. Minneapolis: Univ Of Minnesota Press, 2018. (P)
+* Parrinder, Patrick. *Learning from Other Worlds: Estrangement, Cognition, and the Politics of Science Fiction and Utopia*. Liverpool University Press, 2000. (P)
 * Penney, Matthew. “A Nation Restored: The Utopian Future of Japan’s Far Right.” *Mechademia* 10 (2015): 98–112. 
 * Peyton, Will. “Sinicizing Science Fiction.” Edited by Nathaniel Isaacson. *Science Fiction Studies* 44, no. 3 (2017): 614–17. 
 * Plath, David W. “The Fate of Utopia: Adaptive Tactics in Four Japanese Groups.” *American Anthropologist* 68, no. 5 (1966): 1152–62.
@@ -856,21 +1040,13 @@ Valdimir social sarwinism ch5 pp113-135
 * Tanaka, M. *Apocalypse in Contemporary Japanese Science Fiction*. Springer, 2014.
 * Tatsumi, Takayuki. “Generations and Controversies: An Overview of Japanese Science Fiction, 1957-1997.” *Science Fiction Studies* 27, no. 1 (2000): 105–14.
 * Troyer, Gene Van, and Grania Davis. *Speculative Japan: Outstanding Tales of Japanese Science Fiction and Fantasy*. Kurodahan Press, 2007.
-* Wilson, George M. *Radical Nationalist in Japan: Kita Ikki, 1883-1937*. Harvard University Press, 1969.
+* Wilson, George M. *Radical Nationalist in Japan: Kita Ikki, 1883-1937*. Harvard University Press, 1969. (P)
 * Yan, Wu, Yao Jianbin, and Andrea Lingenfelter. “A Very Brief History of Chinese Science Fiction.” *Chinese Literature Today* 7, no. 1 (January 2, 2018): 44–53. 
 * Yiu, Angela. “From Utopia to Empire: Atarashikimura and A Personal View of the Greater East Asia War (1942).” *Utopian Studies* 19, no. 2 (2008): 213–32.
 * Yoshio, Aramaki. *The Sacred Era*. Translated by Baryon Tensor Posadas. Minneapolis: Univ Of Minnesota Press, 2017.
 * Zhao, Henry Y. H. “A Fearful Symmetry: The Novel of the Future in Twentieth-Century China.” *Bulletin of the School of Oriental and African Studies, University of London* 66, no. 3 (2003): 456–71.
 * Zur, Dafna. “Let’s Go to the Moon: Science Fiction in the North Korean Children’s Magazine ‘Adong Munhak’, 1956-1965.” *The Journal of Asian Studies* 73, no. 2 (2014): 327–51.
-
-
-- add to family order: Intellectual Foundations of Chinese Modernity
-- adam bronson book
-- - koschmann
-- tosaka jun critical reader
-- Cultural Practices of Modern Chinese Buddhism:
-- w2 culture and the state in late chosŏn korea
-
+* [Kagawa Archives & Resource Center - English Collection Digital Archives](http://zaidan.unchusha.com/archives/index_e.html)
 
 # Other Relevant Topics For Research Essay
 
