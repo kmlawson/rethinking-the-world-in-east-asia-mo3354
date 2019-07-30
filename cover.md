@@ -1,6 +1,6 @@
 % MO3354 Rethinking the World in East Asia
 % Tutor: Konrad M. Lawson
-% Spring, 2019
+% Fall, 2019
 
 \begin{center}
 

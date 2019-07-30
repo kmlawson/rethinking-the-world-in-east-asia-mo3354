@@ -31,7 +31,7 @@ P = Text is a candidate for presentations
 
 ### Elective Reading
 
-Each week you will be *required* to do additional reading but have a choice from a selection. In future weeks this will also provide the selection for material to be presented on, about which you bring an overview handout, and be the subject of your blog postings. In our first week, come prepared to introduce the texts you read if called upon, and describe them to fellow students who made a different selection, tying it, when you can, to the required reading.
+Each week you will be *required* to do additional reading but have a choice from a selection. You should provide an overview of this reading in the form of a supplementary handout (see above for instructions). We will try to maximise coverage of elective reading from week to week.  
 
 Choose one of these categories: A1, A2 (Pure Land), B (Nichiren), C1, C2 (Ch’an/Zen)  and read only the material labelled with your category.
 
@@ -123,6 +123,10 @@ You are not required to do any particular further reading on any given week. How
 
 ## Week 2 - Introduction to Confucianism
 
+### Preparation
+
+* Why not get one of your blog entries out of the way by posting something on one of the elective readings you did for last week or this week? Or one of the further readings?
+
 ### Required Reading
 
 (~105)
@@ -134,11 +138,11 @@ These readings will give you some basic exposure to the Analects, Mengzi, and a 
 
 ### Bonus Challenge
 
-Complete text adventure game, with translation exercise "The Hall of Sages," that I designed for my nephew as a Christmas puzzle: [http://huginn.net/projects/hall-of-sages/](http://huginn.net/projects/hall-of-sages/)
+Complete text adventure game, with translation exercise "The Hall of Sages," that I designed for my nephew as a Christmas puzzle: [http://huginn.net/projects/hall-of-sages/](http://huginn.net/projects/hall-of-sages/) 
 
 ### Elective Reading
 
-Complete the reading for one of the sections below from A-D:
+Choose one of the categories below for your elective reading. Remember to bring a handout with an overview of the readings in your category and that you may be asked to speak about these readings in class.
 
 **A) Gender and Confucianism**
 
@@ -261,6 +265,13 @@ Complete the reading for one of the sections below from A-D:
 
 ## Week 3 - Taiping and Tonghak
 
+### Preparation
+
+* Primary Source Exercise*: Please connect to one of the two following English language newspapers from China and Japan that we have. Browse a few issues of the newspaper and bring a printed copy of one of the articles you found interesting to share:
+    * [North China Herald](http://library.st-andrews.ac.uk/record=b2088752~S5)
+    * [Japan Chronicle](http://library.st-andrews.ac.uk/record=b2089101~S5)
+* Your abstract is due next week. Make sure you are making good progress at exploring potential topics and primary sources.
+
 ### Required Reading
 
 (~115)  
@@ -272,11 +283,21 @@ Complete the reading for one of the sections below from A-D:
 
 ### Elective Reading
 
-Read A or B:
+Read one of the following categories:
 
-**A) Taiping Rebellion** Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. University of Washington Press, 2011. Ch 2-4  (P)
+A) Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. University of Washington Press, 2011. Ch 2-4  (P)
 
-**B) Tonghak Rebellion** Young, Carl F. *Eastern Learning and the Heavenly Way: The Tonghak and Ch’ŏndogyo Movements and the Twilight of Korean Independence*. University of Hawaiʻi Press, 2014. Ch 1-3  (P)
+B) Young, Carl F. *Eastern Learning and the Heavenly Way: The Tonghak and Ch’ŏndogyo Movements and the Twilight of Korean Independence*. University of Hawaiʻi Press, 2014. Ch 1-3  (P)
+
+C) Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64.* Springer, 2016. Ch 1 "Introduction", Ch 3 "The Taiping Mission of World Salvation" Ch 5 "A Confucianized Christian Ethic"
+
+D) Kallander, George L. *Salvation Through Dissent: Tonghak Heterodoxy and Early Modern Korea*. University of Hawaiʻi Press, 2013. Introduction, Ch 2-3. (P)
+
+E) Anderson, Emily. *Belief and Practice in Imperial Japan and Colonial Korea.* Springer, 2016 Ch 5 "Eastern Learning Divided: The Split in the Tonghak Religion and the Japanese Annexation of Korea, 1904–1910" AND Moon, Yumi. ‘Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910’. The American Historical Review 118, no. 1 (2 January 2013): 20–44. 
+
+*Essays on Taiping Rebellion*
+
+If you are interested in working on the Taiping Rebellion see me for a copy of the excellent primary sources available in *The Taiping Rebellion: History and Documents*. For essays on this topic there are also many interesting Western missionary and other English language sources that may be of interest.
 
 *Further Reading: Boxer Rebellion*
 
@@ -295,7 +316,7 @@ Read A or B:
 - Perry, Elizabeth J. “When Peasants Speak: Sources for the Study of Chinese Rebellions.” *Modern China* 6, no. 1 (1980): 72–85.
 - Shin, Susan S. 1978-79. “The Tonghak Movement: From Enlightenment to Revolution” *Korean Studies* Forum 5: 1—79.
 - Bell, Kirsten. “Cheondogyo and the Donghak Revolution: The (Un)Making of a Religion.” *Korea Jounral* 44, no. 2 (n.d.).
-- Cheng, J. Chester. *Chinese Sources for the Taiping Rebellion, 1850-1864*. Hong Kong: [New York: Hong Kong University Press ; Oxford University Press, 1963.
+- Cheng, J. Chester. *Chinese Sources for the Taiping Rebellion, 1850-1864*. Hong Kong: New York: Hong Kong University Press ; Oxford University Press, 1963.
 - Beirne, Em Prof Paul. *Su-Un and His World of Symbols: The Founder of Korea’s First Indigenous Religion*. Ashgate Publishing, Ltd., 2013.
 - Daye, Zhang. *The World of a Tiny Insect: A Memoir of the Taiping Rebellion and Its Aftermath*. University of Washington Press, 2013.
 - Gregory, J. S, and Prescott Clarke. *Western Reports on the Taiping: A Selection of Documents*. London: Croom Helm, 1982.
@@ -305,7 +326,7 @@ Read A or B:
 - Kallander, George L. *Salvation Through Dissent: Tonghak Heterodoxy and Early Modern Korea*. University of Hawaiʻi Press, 2013. (P)
 - Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64*. Springer, 2016. (P)
 - Lee, Sang Taek. *Religion and Social Formation in Korea: Minjung and Millenarianism*. Walter de Gruyter, 2012. (P)
-- Lew, Young Ick. “The Conservative Character of the 1894 Tonghak Peasant Uprising: A Reappraisal with Emphasis on Chŏn Pong-Jun’s Background and Motivation.” *The Journal of Korean Studies (1979-)* 7 (1990): 149–80.
+* Lew, Young Ick. “The Conservative Character of the 1894 Tonghak Peasant Uprising: A Reappraisal with Emphasis on Chŏn Pong-Jun’s Background and Motivation.” *The Journal of Korean Studies (1979-)* 7 (1990): 149–80.
 - Li, Hsiu-ch’eng, and Charles A. Curwen. *Taiping Rebel: The Deposition of Li Hsiu-Ch’eng*. Cambridge University Press, 1977.
 - Liu, Chang. *Peasants and Revolution in Rural China: Rural Political Change in the North China Plain and the Yangzi Delta, 1850-1949*. Routledge, 2007.
 - Meyer-Fong, Tobie S. *What Remains: Coming to Terms with Civil War in 19th Century China*, 2013. (P)
@@ -328,10 +349,14 @@ Read A or B:
 
 ## Week 4 - Revolutionary Internationalism
 
+### Preparation
+
+* Your abstract and annotated bibliography are due this week. You may have come across readings in your research for this that would make good topics for a blog entry, why not post a blog entry on something you read while preparing your abstract?
+
 ### Required Reading
 
 - Hane, Mikiso. *Reflections on the Way to the Gallows: Rebel Women in Prewar Japan*. University of California Press, 1988. from Ch 3 pp51-58,  from Ch 4 pp75-80, 109-124 (short loan)
-- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 1, 3 (short loan) (P)
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 1 but only pp1-26, and also Ch 3 (short loan) (P)
 
 ### Elective Reading
 
@@ -351,6 +376,18 @@ Read A or B:
 **D) Kōtoku Shūsui**
 
 - Tierney, Robert Thomas, and Kotoku Shusui. *Monster of the Twentieth Century: Kotoku Shusui and Japan’s First Anti-Imperialist Movement*. Univ of California Press, 2015. Introduction pp1-11, Ch "The Asian Solidarity Association and the High Treason Case" pp115-132, Imperialism pp135-185 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2451387)) (P)
+
+**E) Uchiyama Gudō**
+
+* Rambelli, Fabio. *Zen Anarchism: The Egalitarian Dharma of Uchiyama Gudō*. Berkeley, Calif: Institute of Buddhist Studies, 2013. Introduction, Ch 2-3 (P)
+
+**F) Ōsugi Sakae**
+
+* Stanley, Thomas A. Ōsugi Sakae, Anarchist in Taishō Japan: The Creativity of the Ego. Harvard Univ Asia Center, 1982. Ch 3-5 Socialist Beginnings, Prison, Intellectual Foundations
+
+**G) Taixu**
+
+* Ritzinger, Justin. Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism. Oxford University Press, 2017. Introduction, Part I (Ch 1-2) Taixu's Buddhist Radicalism
 
 ### General Further Reading
 
@@ -419,13 +456,16 @@ Read A or B:
 
 - Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. University of California Press, 2011. Ch 1 "Slapping Song Jiaoren", 3 "A Women's Republic". [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2059919) (P)
 
-**E) Shifting Interpretations**
+**E) Revolution of the Heart**
+
+* Lee, Haiyan. Revolution of the Heart: A Genealogy of Love in China, 1900-1950. Stanford, Calif: Stanford University Press, 2010. Introduction, Ch 7 "Revolution of the Heart" (P)
+
+**F) Shifting Interpretations**
 
 - Judge, Joan. *The Precious Raft of History: The Past, the West, and the Woman Question in China*. Stanford, Calif.: Stanford University Press, 2008. Ch 4-6 (short loan)
 
 ### General Further Reading
 
-- Zarrow, Peter. “He Zhen and Anarcho-Feminism in China.” *The Journal of Asian Studies* 47, no. 4 (1988): 796–813.
 - Bailey, Paul J. *Women and Gender in Twentieth-Century China*. Macmillan International Higher Education, 2012.
 - Barlow, Tani. *The Question of Women in Chinese Feminism*. Duke University Press, 2004. (P)
 - Batchelor, Martine, Songyong, Sŏnʼgyŏng (Sŭnim), Son’gyong Sunim, and Chonggong sunim. *Women in Korean Zen: Lives And Practices*. Syracuse University Press, 2006. (P)
@@ -464,6 +504,7 @@ Read A or B:
 - Wolf, Margery. *Women in Chinese Society*. Acls History E Book Project, 2008.
 - Yen, Hsiao-pei. “Body Politics, Modernity and National Salvation: The Modern Girl and the New Life Movement.” *Asian Studies Review* 29, no. 2 (2005): 165–86.
 - Ying, Hu. “Qiu Jin’s Nine Burials: The Making of Historical Monuments and Public Memory.” *Modern Chinese Literature and Culture* 19, no. 1 (2007): 138–91.
+- Zarrow, Peter. “He Zhen and Anarcho-Feminism in China.” *The Journal of Asian Studies* 47, no. 4 (1988): 796–813.
 
 \pagebreak
 
@@ -472,11 +513,11 @@ Read A or B:
 ### Required Reading
 
 - Saaler, Sven, and Christopher W. A. Szpilman. *Pan-Asianism: A Documentary History, 1850–1920*. Vol 1 Rowman &amp; Littlefield Publishers, 2011. ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2022220)) Introduction
-- Saaler, Sven, and Christopher W. A. Szpilman. *Pan-Asianism: A Documentary History, 1920–Present*. Vol 2 Rowman &amp; Littlefield Publishers, 2011. ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2022223)) Introduction
+- Weber, Torsten. *Embracing ‘Asia’ in China and Japan: Asianism Discourse and the Contest for Hegemony, 1912-1933*. Springer, 2017. Introduction, Ch 3-4. (P)
 
 ### Elective Reading
 
-Read 8 of the following 17 chapters on individual pan-asianist perspectives.
+Read 4 of the following 17 chapters on individual pan-asianist perspectives:
 
 - *Pan-Asianism: A Documentary History, 1850–1920*. (Vol 1)
 	- Ch 7-8 Okakura Tenshin pp93-112
@@ -497,6 +538,14 @@ Read 8 of the following 17 chapters on individual pan-asianist perspectives.
 	- Ch 30 Hirano Yoshitarō
 	- Ch 35 Takeuchi Yoshimi
 	- Ch 41 Wang Yi
+
+Then read one of the following:
+
+A) Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*. Columbia Studies in International and Global History. New York: Columbia University Press, 2007. Ch 4, 7. (P)
+
+B) Hotta, Eri. *Pan-Asianism and Japan’s War 1931-1945.* New York: Palgrave Macmillan, 2007. Introduction, Ch 3. (P)
+
+C) Saaler, Sven, and J. Victor Koschmann. *Pan-Asianism in Modern Japanese History: Colonialism, Regionalism and Borders*. Routledge, 2007. Part IV Pan Asianism Adjusted: Wartime to Postwar. (P)
 
 ### General Further Reading
 
@@ -537,21 +586,16 @@ Read 8 of the following 17 chapters on individual pan-asianist perspectives.
 
 * Sponberg, Alan, ed. *Maitreya, the Future Buddha*. Reissue edition. Cambridge: Cambridge University Press, 2011. Ch 1-2, pp7-36 (P)
 * Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Introduction. 1-16 (P)
-* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975., Ch 10, Twilight of a Theory 1945-1949, pp339-364. (P)
 * Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity*. Brill, 2010. Ch 5 Survival, God, Buddha: Social Darwinism in a Buddhist Context, pp113-135 (P)
 * Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. Ch 3 Asianism and the New Discourse of Civilization, only pp103-122. (P)
+* Sun, Jiang. ‘The Predicament of a Redemptive Religion: The Red Swastika Society Under the Rule of Manchukuo’. Journal of Modern Chinese History 7, no. 1 (1 June 2013): 108–26. https://doi.org/10.1080/17535654.2013.772358.
 
 ### Elective Reading
 
 **A) Pure Land**
 
 * Unno, Mark. “Modern Pure Land Thinkers.” *The Oxford Handbook of Japanese Philosophy*, September 2, 2014. 
-
-Either of the following:
-
-* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Ch 1-3, Epilogue. (the fourth chapter on Miki Kiyoshi comes up in two weeks) (P)
-
-* Ritzinger, Justin. *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism*. Oxford University Press, 2017. Introduction, Ch 1-2 (P)
+* Ckiurley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Ch 1-3, Epilogue. (the fourth chapter on Miki Kiyoshi comes up in two weeks) (P)
 
 **B) Zen**
 
@@ -573,7 +617,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 
 **E) Ishiwara Kanji**
 
-* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975., Ch 6-9
+* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975., Ch 6-10 (but skim where necessary)
 * Godart, G. Clinton. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
  
 **F) Buddhism and Empire**
@@ -607,6 +651,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Garon, Sheldon M. *Molding Japanese Minds: The State in Everyday Life*. Princeton, N.J.: Princeton University Press, 1997.
 * Godart, G. Clinton. *Darwin, Dharma, and the Divine: Evolutionary Theory and Religion in Modern Japan*. University of Hawaiʻi Press, 2017. (P)
 * ———. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
+* Gildow, Douglas. ‘Cai Yuanpei (1868–1940), Religion, and His Plan to Save China through Buddhism’. *Asia Major* 31, no. 2 (2018): 107–48.
 * Han, Yong-un. *Selected Writings of Han Yongun: From Social Darwinism to Socialism with a Buddhist Face*. Global Oriental, 2008. (P)
 * Hardacre, Helen. *Lay Buddhism in Contemporary Japan: Reiyukai Kyodan*. Princeton University Press, 2014. (P)
 * Heine, Steven, and Charles S. Prebish, eds. *Buddhism in the Modern World : Adaptations of an Ancient Tradition*. Oxford University Press, USA, 2003.
@@ -627,9 +672,11 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Pittman, Don Alvin. *Toward a Modern Chinese Buddhism: Taixu’s Reforms*. University of Hawaii Press, 2001. (P)
 * Queen, Christopher S., and Sallie B. King. *Engaged Buddhism: Buddhist Liberation Movements in Asia*. SUNY Press, 1996. (P)
 * Ritzinger, Justin. *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism*. Oxford University Press, 2017. (P)
+* Scott, Gregory Adam. ‘The Buddhist Nationalism of Dai Jitao’. *Journal of Chinese Religions* 39, no. 1 (1 June 2011): 55–81. 
 * Seager, Richard Hughes. *Encountering the Dharma: Daisaku Ikeda, Soka Gakkai, and the Globalization of Buddhist Humanism*. University of California Press, 2006. (P)
 * Sharf, Robert H. “The Zen of Japanese Nationalism.” *History of Religions* 33, no. 1 (1993): 1–43.
 * Shields, James. “A Blueprint for Buddhist Revolution: The Radical Buddhism of Seno’o Girō (1889–1961) and the Youth League for Revitalizing Buddhism.” *Japanese Journal of Religious Studies* 39 (November 1, 2012): 333–51. 
+* Shields, James Mark. *Against Harmony: Progressive and Radical Buddhism in Modern Japan*. Oxford University Press, 2017. (P)
 * Snodgrass, Judith. *Presenting Japanese Buddhism to the West: Orientalism, Occidentalism, and the Columbian Exposition*. Univ of North Carolina Press, 2003. (P)
 * Sponberg, Alan, ed. *Maitreya, the Future Buddha*. Reissue edition. Cambridge: Cambridge University Press, 2011. (P)
 * Stone, Jacqueline. “Japanese Lotus Millennialism: From Militant Nationalism to Contemporary Peace Movements.” In *Millennialism, Persecution, and Violence: Historical Cases*, edited by Catherine Wessinger. Syracuse University Press, 2000.
@@ -645,6 +692,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Wilson, Bryan R., Reader in Sociology and Fellow Bryan R. Wilson, Karel Dobbelaere, Professor of Sociology and Sociology of Religion Catholic University of Leuven Professor of Sociological Research Karel Dobbelaere, and Formerly Reader Emeritus in Sociology Bryan Wilson. *A Time to Chant: The Sōka Gakkai Buddhists in Britain*. Clarendon Press, 1994. (P)
 * Wright, Dale S. *The Zen Canon: Understanding the Classic Texts*. Edited by Steven Heine. New York: Oxford University Press, USA, 2004.
 * Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. Translated by Earl Hartman. Reprint edition. Chicago, Ill.; Bristol: University of Chicago Press, 2011. (P)
+* Yu, Xue. Buddhism, War, and Nationalism: Chinese Monks in the Struggle Against Japanese Aggression 1931-1945. Routledge, 2013.
 
 \pagebreak
 
@@ -692,7 +740,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Boli, John, George M Thomas, and Young S. Kim, eds. “Constructing a Global Identity: The Role of Esperanto.” In *Constructing World Culture International Nongovernmental Organizations Since 1875*. Stanford, Calif.: Stanford University Press, 1999.  (P)
 * Burkman, Thomas W. *Japan and the League of Nations: Empire and World Order, 1914-1938*. University of Hawaii Press, 2008. (P)
 * Chan, Gerald. “China and the Esperanto Movement.” *The Australian Journal of Chinese Affairs*, no. 15 (1986): 1–18. 
-* Chan, Kwok Bun. *Chinese Identities, Ethnicity and Cosmopolitanism*. London [u.a.: Routledge, 2009. (P)
+* Chan, Kwok Bun. *Chinese Identities, Ethnicity and Cosmopolitanism*. London: Routledge, 2009. (P)
 * Chapelier, Émile, and Gassy Marin. *Anarchists and the International Language, Esperanto*. Freedom Office, 1908.
 * Chen, Jian. “Bridging Revolution and Decolonization: The ‘Bandung Discourse’ in China’s Early Cold War Experience.” In *Connected Histories: Decolonization and the Cold War in Southeast Asia, 1945-1962*. Stanford University Press, 2009.
 * Dore, Ronald Philip. *Japan, Internationalism and the UN*. Psychology Press, 1997.
@@ -972,7 +1020,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 
 * Lawson, Konrad. “Reimagining the Postwar International Order: The World Federalism of Ozaki Yukio and Kagawa Toyohiko.” In *The Institution of International Order: From the League of Nations to the United Nations*, edited by Alanna O’Malley and Simon Jackson. Routledge, 2018, 
 * SOURCES JAPAN II "Kita Ikki and the Reform Wing of Ultranationalism" in Ch 42 (pp271-276 in paper version)
-* Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Part III Ideology for an Empire and Conclusion  (P)
+* Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Ch 6, Conclusion (P)
 
 ### Elective Reading
 
@@ -1093,7 +1141,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Clarke, J. J. *The Tao of the West: Western Tranformations of Taoist Thought*. Routledge, 2002.
 * Clart, Philip, and Charles Brewer Jones. *Religion in Modern Taiwan: Tradition and Innovation in a Changing Society*. University of Hawaii Press, 2003.
 * Cook, Scott. *Hiding the World in the World: Uneven Discourses on the Zhuangzi*. SUNY Press, 2003.
-* Cooper, David E. “Is Daoism `green’?” *Asian Philosophy* 4, no. 2 (October 1994): 119.
+* Cooper, David E. “Is Daoism 'green’?” *Asian Philosophy* 4, no. 2 (October 1994): 119.
 * Davis, Edward L. *Society and the Supernatural in Song China*. University of Hawaii Press, 2001.
 * Dean, Kenneth. *Taoist Ritual and Popular Cults of Southeast China*. Princeton University Press, 2014.
 * Eskildsen, Stephen. *Asceticism in Early Taoist Religion*. SUNY Press, 1998.
@@ -1263,6 +1311,10 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Volpp, Sophie. “Classifying Lust: The Seventeenth-Century Vogue for Male Love.” *Harvard Journal of Asiatic Studies* 61, no. 1 (2001): 77–117. 
 * ———. “The Discourse on Male Marriage: Li Yu’s ‘A Male Mencius’s Mother.’” *Positions: Asia Critique* 2, no. 1 (February 1, 1994): 113–32. 
 * Wu, Cuncun. *Homoerotic Sensibilities in Late Imperial China*. Psychology Press, 2004.
+
+## Acknowledgements 
+
+* Many thanks to Erik Schicketanz for his suggestions for this module. 
 
 \pagebreak
 

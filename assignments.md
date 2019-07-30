@@ -1,6 +1,6 @@
 # Assignments
 
-The assessed portion of the coursework for this module consists of one long essay, two presentations, a prospectus with an annotated bibliography, and four blog entries. In addition, students are required to come prepared each week having completed the assigned reading and ready to discuss them, and supply a handout for one of their elective readings.
+The assessed portion of the coursework for this module consists of one long essay, two presentations, a prospectus with an annotated bibliography, and four blog entries. In addition, students are required to come prepared each week having completed the assigned reading and ready to discuss it, and are required to supply a handout with an overview of their chosen elective readings.
 
 **Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Your handout for presentations should also be uploaded to the presentation section of MMS by the beginning of class on the day of the presentation, but hard copies of this for the class should be brought for distribution to everyone.
 
@@ -29,7 +29,7 @@ Please carefully read the St Andrews School of History Style Sheet:
 
 [http://www.st-andrews.ac.uk/history/infoug/stylesheet.html](http://www.st-andrews.ac.uk/history/infoug/stylesheet.html)
 
-This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully. See below for more on the simpler citation method for use in the critical review essay and in the final examination.
+This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully. See below for more on the simpler citation method for use in the critical review essay and in the final examination. 
 
 ## Prospectus and Annotated Bibliography
 
@@ -39,6 +39,7 @@ The prospectus (500-800 words) and annotated bibliography (no set word count) ar
 
 Things to include in the prospectus:
 
+* Don't forget to give your project a meaningful title suggestive of the argument you will make.
 - What is your provisional argument?
 - What are you contributing to the historiography on this? That is, how are you going beyond synthesising what is already out there?
 - What is some of the previous work on this you will engage with? Or key primary sources you will make use of?
@@ -58,7 +59,7 @@ Some class time in most weeks will be dedicated to discussing the essay. It is n
 
 ### Topics for the Essay
 
-You may write your essay on any topic related to the intellectual history of East Asia or Southeast Asia (not limited to the time period we primarily focus on). This may include history of religion, history of philosophy, history of social and political thought, history of mass movements impacted by the above, or some aspect of the the intersection between any these histories and the social and political history of East Asia. Check with me first, but I will also be generally open to approving topics on any element of the cultural history of the region as well. 
+You may write your essay on *any topic related to the intellectual history of East Asia or Southeast Asia* (not limited to the time period we primarily focus on). This may include history of religion, history of philosophy, and the history of social and political thought. Check with me first, but I will also be generally open to approving topics on any element of the cultural history of the region as well. 
 
 *Journals for Inspiration:* I would suggest browing some of the following journals, and especially note articles that fit the above description:
 
@@ -91,7 +92,7 @@ You may write your essay on any topic related to the intellectual history of Eas
 
 ### Making an Argument
 
-The academic study of history embraces change in the past as a way to explore solutions to particular problems. The object of an analytical historical research essay is not to tell us simply what happened, but to use what happened in order to make a historical argument about some problem clearly defined. For example, if an essay was written (to take an example from Chinese history) about some aspect of the Boxer Rebellion, it should not consider its task complete when the major facts of the Boxer Rebellion have been retold. That is closer to the genre of the encyclopaedia entry than of academic historical study. It should endeavour to use the Boxer Rebellion as an opportunity to tell us something, to make an argument about something: what does the rebellion reveal about the nature of Western imperialism? The rise of new religious movements in China? The weakness of the late Qing state? The rise of Japan? And so on. The possibilities are many, but in every case, they offer an answer to the question: So what? Why does this history matter? History can and should tell stories, but a research essay embeds a story within an arc of an argument - if it contains narrative elements, it must also always include an analytic element.
+The academic study of history embraces change in the past as a way to explore solutions to particular problems. The object of an analytical historical research essay is not to tell us simply what happened, but to use what happened in order to make a historical argument about some problem clearly defined. For example, if an essay was written (to take an example from Chinese history) about some aspect of the religious aspects of the Boxer Rebellion, it should not consider its task complete when the major facts of the Boxer Rebellion and its religious elements have been retold. That is closer to the genre of the encyclopaedia entry than of academic historical study. It should endeavour to use the Boxer Rebellion as an opportunity to tell us something, to make an argument about something: what does the rebellion reveal about the nature of Western imperialism? The rise of new religious movements in China? The weakness of the late Qing state? The rise of Japan? And so on. The possibilities are many, but in every case, they offer an answer to the question: So what? Why does this history matter? History can and should tell stories, but a research essay embeds a story within an arc of an argument - if it contains narrative elements, it must also always include an analytic element.
 
 The historical argument in your long essays, in particular, should be clearly and unambiguously stated in the span of 1-3 sentences somewhere in the opening third of the essay, preferably in the opening paragraph or two. It should not be obvious, trivial, or a well-known and rarely contested fact. Challenging as false an existing historian's argument that has become considered obvious and rarely contested, however, is one ambitious way to find your way to an interesting and original argument but only if your evidence is sufficient. Alternatively, if you have found evidence that supports the existing arguments of historians in a given area of research in a new set of sources, from a fresh perspective, or in greater depth, or in a comparative light, that also often yields a strong argument. If you have identified a debate in the historiography and wish to take a position on it without simply repeating all of the points made by one of the participants of the debate, that can also yield an essay with a strong argument but you should take care to acknowledge the position and evidence of the other side.
 
@@ -183,13 +184,17 @@ Feedback is generally provided directly on the mark sheet, which will be posted 
 
 ## Oral Presentations
 
-Being able to synthesise reading and present ideas orallly in class is a key skill. You will receive a mark on **two presentations**, but *may optionally offer up to three (if module ≥ 8 students) or four (if module < 8 students) presentations during the semester*. If you present three times instead of two, *your two best presentation marks will be posted* after our last meeting.
+Being able to synthesise reading and present ideas orally in class is a key skill. You have assessed and non-assessed presentations in this module. You will be formally assessed on **two presentations**, but may *optionally* offer up to three (if module ≥ 8 students) or four (if module < 8 students) assessed presentations during the semester. If you present three or more times instead of two, *your two best presentation marks will be posted* after our last meeting.
+
+The topic of your presentation should be a monograph and throughout the seminar readings provided below you will see a (P) next to appropriate texts you may present on. Many of these are found in the further reading section.Unlike your weekly handout, however, your presentation should cover the entirety of the work, not merely any assigned chapters. 
 
 Presentation skill is shown in your ability to: choose what is most useful to share, choose a quantity of information that will still allow you to speak at a measured pace, project your voice clearly, make use of effective pauses, modulate your voice effectively, make use of a spoken rather than a written register that engages the listener, give eye contact to everyone in the room, avoid exactly reproducing the content of a handout, and present in a way that, even if you are referring to a written set of notes or text, still flows naturally.
 
-The assessed presentations should be 5-7 minutes in length and not a minute longer. You will be cut off at exactly 7 minutes. The presentation should briefly summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and make 1-3 focused critiques or observations about the read material. It is *not* a detailed summary of the content: it should highlight the arguments, strengths and set the context.
+The assessed presentations should be 5-7 minutes in length and not a minute longer. You will be cut off at exactly 7 minutes. The presentation should briefly summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and make 1-3 focused critiques or observations about the read material. It should *not* a detailed summary of the content: it should highlight the arguments, strengths and set the context.
 
-A supplementary handout (one piece of paper front and back at most) should be emailed to me by Sunday night and sufficient copies brought to class. It should include some paragraphs or bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. Please bring copies of the handout to class but also add (or link) the handout text to the class collaborative notes document. When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. Slides are not needed for the presentation and not assessed, but the handout may include 1-2 images or a map if appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
+When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. Slides are not needed for the presentation and not assessed, but the handout may include 1-2 images or a map if appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
+
+For *both* assessed presentations and the weekly supplementary handout (one piece of paper front and back, at most) you should upload the handout to the module Moodle *the evening before* class to allow everyone time to view it and, if they would like to, print a copy. It should include some paragraphs or bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. You do not need to bring a paper copy of your handouts, but you must post it to the Moodle the night before.
 
 Some questions to consider as you prepare:
 
@@ -205,15 +210,17 @@ Some questions to consider as you prepare:
 * Did the presentation avoide being a reproduction of the handout, using it instead as a complement.
 * Did the presentation make an effort to connect the readings to other readings for the day or find ways to connect to the reading and discussion from previous weeks?
 
+\pagebreak
+
 ## Blog Entries
 
 We have a module website at:
 
 [http://transnationalhistory.net/world/](http://transnationalhistory.net/world/)
 
-This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings**, and these postings must be **posted across at least four different weeks**. However, there is no restriction on the content: you may post on readings from before or after the week posted, and may have more than one posting related to material from a single week. The total number of words must be a minimum of 3,000 words posted during the course of the semester (for example, four postings with 750 words, or six postings with 500, etc.). You are also asked, *each week*, to post a comment on at least one posting (by another student), though this is not assessed.
+This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings** during the semester, and these postings must be **posted across at least four different weeks**. However, there is flexibility on the content: you may post on readings from before or after the week posted, and may have more than one posting related to material from a single week. The total number of words posted across the semester must be a minimum of 3,000 words posted during the course of the semester (for example, four postings with 750 words, or six postings with 500, etc.). 
 
-At the end of the semester, you should copy and paste four selected blog postings (Note: they may total less than 3,000 overall since you could have posted more than four during the semester), including their titles, links to the online version, and the date they were posted online into a document and upload this to MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the four selected and submitted postings. Each posting will receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks)
+At the end of the semester, you should copy and paste four selected blog postings (Note: although you must have posted at least 3,000 words across the semester, your chosen four posting for submission may total less than 3,000 overall since you could have posted more than four during the semester), including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the four selected and submitted postings. Each posting will receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks)
 
 * 5 points if the posting makes a clear analytical point
 * 4 points if the posting makes concrete references to particular parts of a reading, with a footnote
@@ -222,7 +229,7 @@ At the end of the semester, you should copy and paste four selected blog posting
 * 3 points if the posting keeps a good focus throughout.
 * 2 additional points will be given for postings that are of a high quality
 
-A decent posting, with no significant flaws, should, therefore, get a score of 18. Particularly strong postings may garner 20s. *Example:* A student writes 6 postings during the semester totaling 3,200 words. They select four of these, including 1 high quality post of 500 words (20), 2 posts that meet the requirements, one 400 and one 600 words (each getting 18), and 1 post of 800 words that follows all the above but did not maintain a clear focus (18-3=15), then the overall blog mark would come to (20+18+18+15)/4 = 17.8
+A decent posting, with no significant flaws, should, therefore, get a score of 18. Particularly strong postings may garner 20s. *Example:* A student writes 6 postings during the semester totalling 3,200 words. They select 4 of these, including 1 high quality post of 500 words (20), 2 posts that meet the requirements, one 400 and one 600 words (each getting 18), and 1 post of 800 words that follows all the above but did not maintain a clear focus (18-3=15), then the overall blog mark would come to (20+18+18+15)/4 = 17.8
 
 **How to Post Blog Entries:** You will be given details for your login information late in the first week. Then to login, go to:
 
@@ -256,3 +263,5 @@ Here are some ideas of what make good postings (but you aren't limited to this):
 - Reflect on how the arguments of a text might contribute to our understanding of some other clase in another place or time
 - Write a posting on the use of language or terms in a source and why you think it is meaningful or important
 - Write a posting around a certain pattern you see across multiple texts
+
+
