@@ -14,7 +14,8 @@ On the universalist aspirations of the Taiping Rebellion (Qing), Tonghak Rebelli
 Focusing on the political imaginations of key East Asian anarchists
 5.	**New Orders for Love, Family, and the Individual**  
 Reordering domestic space and women's liberation as the first step to comprehensive social and global change at the global level
-6.  *ILW*
+6.	**Inventing Asias**  
+Comparing differing pan-asianist visions, especially with regard to how they linked to world orders
 7.	**Buddhist World Orders**  
 Nichiren, Zen, Shin and new Buddhist movements in 20th century East Asia
 8.	**Cosmopolitanism from the East**  

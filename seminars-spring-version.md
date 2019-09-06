@@ -506,10 +506,77 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 - Ying, Hu. “Qiu Jin’s Nine Burials: The Making of Historical Monuments and Public Memory.” *Modern Chinese Literature and Culture* 19, no. 1 (2007): 138–91.
 - Zarrow, Peter. “He Zhen and Anarcho-Feminism in China.” *The Journal of Asian Studies* 47, no. 4 (1988): 796–813.
 
-## Week 6 - Independent Learning Week
+\pagebreak
 
-Use this week to make good progress on your long essay research and please begin the writing process, even if it is to draft some ideas.
+## Week 6 - Inventing Asias
 
+### Required Reading
+
+- Saaler, Sven, and Christopher W. A. Szpilman. *Pan-Asianism: A Documentary History, 1850–1920*. Vol 1 Rowman &amp; Littlefield Publishers, 2011. ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2022220)) Introduction
+- Weber, Torsten. *Embracing ‘Asia’ in China and Japan: Asianism Discourse and the Contest for Hegemony, 1912-1933*. Springer, 2017. Introduction, Ch 3-4. (P)
+
+### Elective Reading
+
+Read 4 of the following 17 chapters on individual pan-asianist perspectives:
+
+- *Pan-Asianism: A Documentary History, 1850–1920*. (Vol 1)
+	- Ch 7-8 Okakura Tenshin pp93-112
+	- Ch 11 Miyazaki Tōten pp133-139
+	- Ch 15 Sŏ Chap'il pp171-176
+	- Ch 16 Zhang Taiyan pp177-184
+	- Ch 18 Sin Ch'ae-ho pp191-194
+	- Ch 20 An Chung-gŭn pp205-209
+	- Ch 22 Li Dazhao pp217-222
+	- Ch 27 Kitta Ikki pp271-277
+- *Pan-Asianism: A Documentary History, 1920–Present*. (Vol 2)
+	- Ch 4 Ōkawa Shūmei
+	- Ch 5 Sun Yat-sen
+	- Ch 9 Raja Mahendra Pratap
+	- Ch 18 Rōyama Masamichi
+	- Ch 20 Ozaki Hotsumi
+	- Ch 22 Ishiwara Kanji
+	- Ch 30 Hirano Yoshitarō
+	- Ch 35 Takeuchi Yoshimi
+	- Ch 41 Wang Yi
+
+Then read one of the following:
+
+A) Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*. Columbia Studies in International and Global History. New York: Columbia University Press, 2007. Ch 4, 7. (P)
+
+B) Hotta, Eri. *Pan-Asianism and Japan’s War 1931-1945.* New York: Palgrave Macmillan, 2007. Introduction, Ch 3. (P)
+
+C) Saaler, Sven, and J. Victor Koschmann. *Pan-Asianism in Modern Japanese History: Colonialism, Regionalism and Borders*. Routledge, 2007. Part IV Pan Asianism Adjusted: Wartime to Postwar. (P)
+
+### General Further Reading
+
+- Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015. (P)
+- Avenell, Simon. “What Is Asia for Us and Can We Be Asians? The New Asianism in Contemporary Japan.” *Modern Asian Studies* 48, no. 06 (November 2014): 1594–1636.
+- Aydin, Cemil. *The Politics of Anti-Westernism in Asia: Visions of World Order in Pan-Islamic and Pan-Asian Thought*. Columbia Studies in International and Global History. New York: Columbia University Press, 2007. (P)
+- Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. (P)
+— Duara, Prasenjit. “The Discourse of Civilization and Pan-Asianism.” *Journal of World History* 12, no. 1 (2001): 99–130.
+- Frey, Marc, and Nicola Spakowski. *Asianisms: Regionalist Interactions and Asian Integration*. NUS Press, 2015.
+- Godart, G. Clinton. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
+- Hau, Caroline S., and Takashi Shiraishi. “Daydreaming about Rizal and Tetchō On Asianism as Network and Fantasy.” *Philippine Studies* 57, no. 3 (September 1, 2009): 329–88.
+- Hotta, Eri. *Pan-Asianism and Japan’s War 1931-1945*. New York: Palgrave Macmillan, 2007. (P)
+- Huebner, Stefan. *Pan-Asian Sports and the Emergence of Modern Asia, 1913-1974*. NUS Press, 2016. (P)
+- Kishida, Yuka Hiruma. *Kenkoku University and the Experience of Pan-Asianism: Education in the Japanese Empire*. Bloomsbury Academic, 2019. (P)
+- Krämer, Hans Martin. “Pan-Asianism’s Religious Undercurrents: The Reception of Islam and Translation of the Qur’ān in Twentieth-Century Japan.” *The Journal of Asian Studies* 73, no. 03 (2014): 619–40. 
+- Lüthi, Lorenz M. “Non-Alignment, 1946–1965: Its Establishment and Struggle against Afro-Asianism.” *Humanity: An International Journal of Human Rights, Humanitarianism, and Development* 7, no. 2 (July 29, 2016): 201–23. 
+- Matthiessen, Sven. *Japanese Pan-Asianism and the Philippines from the Late Nineteenth Century to the End of World War II: Going to the Philippines Is Like Coming Home?* BRILL, 2015. (P)
+- Moon, Yumi. *Populist Collaborators: The Ilchinhoe and the Japanese Colonization of Korea, 1896–1910*. Ithaca, NY: Cornell University Press, 2013. (P)
+- Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975. (P)
+- Saaler, Sven. *Pan-Asianism in Modern Japanese History Colonialism, Regionalism and Borders*. London; New York: Routledge, 2007.  (P)
+— Saaler, Sven. “The Construction of Regionalism in Modern Japan: Kodera Kenkichi and His ‘Treatise on Greater Asianism’ (1916).” *Modern Asian Studies* 41, no. 6 (2007): 1261–94.
+- Saaler, Sven, and Christopher W. A. Szpilman. *Pan-Asianism: A Documentary History, 1850–1920*. Rowman &amp; Littlefield Publishers, 2011.
+— Saaler, Sven. *Pan-Asianism: A Documentary History, 1920–Present*. Rowman &amp; Littlefield Publishers, 2011.
+- Stegewerns, Dick. *Nationalism and Internationalism in Imperial Japan: Autonomy, Asian Brotherhood, or World Citizenship?* London: Routledge, 2003.
+- Stolte, Carolien. “‘Enough of the Great Napoleons!’ Raja Mahendra Pratap’s Pan-Asian Projects (1929–1939).” *Modern Asian Studies* 46, no. Special Issue 02 (2012): 403–23. 
+- Tankha, Brij. *Okakura Tenshin and Pan-Asianism: Shadows of the Past*. Global Oriental, 2008. (P)
+- Tankha, Brij, and Ikki Kita. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006. (P)
+- Tansman, Alan, ed. *The Culture of Japanese Fascism*. Duke University Press Books, 2009.
+- Tikhonov, Vladimir. “Korea’s First Encounters with Pan-Asianism Ideology in the Early 1880s.” *The Review of Korean Studies* 5, no. 2 (2002): 195–232.
+- Weber, Torsten. *Embracing “Asia” in China and Japan: Asianism Discourse and the Contest for Hegemony, 1912-1933*. Springer, 2017. (P)
+- Xiong, Ying. *Representing Empire: Japanese Colonial Literature in Taiwan and Manchuria*. BRILL, 2014.
 
 \pagebreak
 
@@ -709,7 +776,8 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 ### Required Reading
 
 * Davis, Bret W. "The Kyoto School" entry *The Stanford Encyclopedia of Philosophy* [online](https://plato.stanford.edu/entries/kyoto-school/)
-* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 4-5, and Conclusion - 72-145.
+* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 5 Nishida's Shadow pp104-133
+* Watanabe, Hiroshi, and David Noble. *A History of Japanese Political Thought, 1600-1901*. Tōkyō: Internat. House of Japan, 2012. Ch 5 but only pp231-272.
 
 ### Elective Reading
 
@@ -768,7 +836,6 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 ### General Further Reading
 
 * Abe, Masao. *Zen and Western Thought*. University of Hawaii Press, 1989. (P)
-* Watanabe, Hiroshi, and David Noble. *A History of Japanese Political Thought, 1600-1901*. Tōkyō: Internat. House of Japan, 2012.
 * Bellah, Robert N. “Japan’s Cultural Identity: Some Reflections on the Work of Watsuji Tetsuro.” *The Journal of Asian Studies* 24, no. 4 (1965): 573–94. 
 * Bernier, Bernard. “National Communion: Watsuji Tetsuro’s Conception of Ethics, Power, and the Japanese Imperial State.” *Philosophy East and West* 56, no. 1 (2006): 84–105.
 * Berque, Augustin. “Offspring of Watsuji’s Theory of Milieu (Fûdo).” *GeoJournal* 60, no. 4 (2004): 389–96.
