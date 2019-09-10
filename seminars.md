@@ -2,6 +2,8 @@
 
 # Seminars
 
+**Please Note**: We have an [online reading list](https://rl.talis.com/3/sta/lists/558C5D14-5777-E5FC-CE67-319B7907CB61.html?lang=en-GB) for the module for your convenience but it is harder to read, is sometimes missing texts, and does not include specific tasks that I set for your preparation. Always work from the handbook as you prepare your readings but you can check for ebook versions etc. with the digital reading list. Again: this handbook is the canonical version of your preparation guidelines, not the sometimes incorrect online reading list.
+
 Abbreviations for readings:
 
 * GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present* (short loan)

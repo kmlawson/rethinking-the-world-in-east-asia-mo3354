@@ -33,11 +33,11 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 ## Prospectus and Annotated Bibliography
 
-The prospectus (500-800 words) and annotated bibliography (no set word count) are worth 10% of your overall grade. It is designed to give you an opportunity to demonstrate your research in progress. It does not need to represent the final choice of topic, but please get your tutor's approval on any major shifts in your essay topic after you submit the prospectus.
+The prospectus (500-800 words) and annotated bibliography (no set word count) are worth 10% of your overall grade. It is designed to give you an opportunity to demonstrate your research in progress. It does not need to represent the final choice of topic, but please get your tutor's approval on any major shifts in your essay topic after you submit the prospectus. Note that 500 words is sufficient and all that is required, but I will accept up to 800 words as the upper limit.
 
 **Prospectus** A prospectus summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay, but also says something about the sources you will use and approach you will take. Look to article, dissertation, and book abstracts as the model for this assignment. Write the prospectus as if the long essay is already written and complete and you are merely summarizing what it has accomplished. You can find these abstracts for academic presentations, for example, on the websites of annual conferences such as the AAS (Association of Asian Studies) meeting or countless other conferences. Article abstracts, another possible model, are found at the beginning of articles of many journal articles. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic clearly along with a prospective argument for your essay, then write in a bit more detail about in greater depth discussing how you will use certain sources, what new approach you will take or what existing approaches you are hoping to contest. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way. Even if you are still at a relatively early stage in your research, write confidently about a topic and argument even if you are not sure if you will actually able to follow through in the final essay or suspect you may have to change topics. Write to a reader of a publication, as if you are proposing a talk at a conference or providing an abstract to accompany an article submission, not to me as your only reader.
 
-Things to include in the prospectus:
+Things to consider including in the prospectus:
 
 * Don't forget to give your project a meaningful title suggestive of the argument you will make.
 - What is your provisional argument?
@@ -47,7 +47,7 @@ Things to include in the prospectus:
 
 **Annotated Bibliography**
 
-Below your prospectus, add an annotated bibliography of primary and secondary sources (8-20 would be a fair range at this stage) you are considering for use in the long essay. Below each source, primary and secondary sources in separate categories, add at 1-3 sentences describing the source and why you think it will be useful for your long essay.
+Below your prospectus, add an annotated bibliography of primary and secondary sources (8-20 would be a fair range at this stage) you are considering for use in the long essay. Below each source, primary and secondary sources in separate categories, add at 1-3 sentences describing the source and why you think it will be useful for your long essay. The annotated bibliography is not included in the word count.
 
 ## Long Essay
 
@@ -220,7 +220,7 @@ We have a module website at:
 
 This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings** during the semester, and these postings must be **posted across at least four different weeks**. However, there is flexibility on the content: you may post on readings from before or after the week posted, and may have more than one posting related to material from a single week. The total number of words posted across the semester must be a minimum of 3,000 words posted during the course of the semester (for example, four postings with 750 words, or six postings with 500, etc.). 
 
-At the end of the semester, you should copy and paste four selected blog postings (Note: although you must have posted at least 3,000 words across the semester, your chosen four posting for submission may total less than 3,000 overall since you could have posted more than four during the semester), including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the four selected and submitted postings. Each posting will receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks)
+At the end of the semester, you should copy and paste four selected blog postings (Note: although you must have posted at least 2,000 words across the semester, your chosen four posting for submission may total less than 2,000 overall since you could have posted more than four during the semester), including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the four selected and submitted postings. Each posting will receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks)
 
 * 5 points if the posting makes a clear analytical point
 * 4 points if the posting makes concrete references to particular parts of a reading, with a footnote
@@ -235,7 +235,7 @@ A decent posting, with no significant flaws, should, therefore, get a score of 1
 
 [http://transnationalhistory.net/world/post/](http://transnationalhistory.net/world/post/)
 
-- Use your login user name and password.
+- Use your login user name and password. You will receive this by the end of Week 1.
 - From there, on the left hand sidey ou can choose "Add New" from the "Posts" menu.
 - There, give your posting a title
 - add a few tags on the right side without any caps, for example "japan, 20th century, kyoto school, philosophy of time, nishitani" that indicate things like place, time, people, topics that are relevant to your posting (all without caps).

@@ -39,9 +39,9 @@ This intellectual history of late modern East Asia explores the ways social, pol
 
 ### Assessment Summary
 
-10% Essay Abstract and Annotated Bibliography – 800 words  
+10% Essay Abstract and Annotated Bibliography – 500 words  
 20% Blog Entries – 4 postings, see below  
-50% Long Essay – 6,000  
+50% Long Essay – 5,000  
 20% Two Assessed Presentations   
 
 *All submissions are by MMS and due before midnight*
