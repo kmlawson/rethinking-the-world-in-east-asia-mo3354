@@ -35,7 +35,8 @@ P = Text is a candidate for presentations
 
 Each week you will be *required* to do additional reading but have a choice from a selection. You should provide an overview of this reading in the form of a supplementary handout (see above for instructions). We will try to maximise coverage of elective reading from week to week.  
 
-Choose one of these categories: A1, A2 (Pure Land), B (Nichiren), C1, C2 (Ch’an/Zen)  and read only the material labelled with your category.
+Choose one of these categories: 
+A1+A2 (Pure Land) OR B (Nichiren) OR C1+C2 (Ch’an/Zen) and read only the material labelled with your category.
 
 - SOURCES JAPAN 1 [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2381788__Ssources%20of%20japanese%20tradition__Orightresult__U__X7?lang=eng&suite=def)
 	- (A2) III.10 Amida, the Pure Land, and the Response of the Old Buddhism to the New p211-231
@@ -64,6 +65,7 @@ You are not required to do any particular further reading on any given week. How
 - Pine, Red, trans. *The Lankavatara Sutra: Translation and Commentary*. Counterpoint, 2013.
 - Ryokan. *The Great Fool: Zen Master Ryokan - Poems, Letters and Other Writings*. Translated by Ryuichi Abe and Peter Haskel. (P)
 - Stewart, Harold. *The Three Pure Land Sutras*. Translated by Hisao Inagaki. Second edition. Berkeley, Calif: Hawaii Distributed Titles, 2006. (P)
+* [The Collected Works of Shinran](http://shinranworks.com/) (P)
 - Unno, Taitetsu, trans. *Tannisho: A Shin Buddhist Classic*. Revised edition. Honolulu, Hawaii: Buddhist Study Center Pr, 1996. (P)
 - Watson, Burton. *The Lotus Sutra*. New Ed edition. New York: Columbia University Press, 1994. (P)
 - Yampolsky, Philip. *Platform Sutra of the Sixth Patriarch*. With a new foreword and updated glossary edition. New York: Columbia University Press, 2012. (P)
