@@ -8,7 +8,7 @@ Within the School of History all work is assessed on a scale of 1-20 with interv
 
 The marking scale can be found here:
 
-[https://www.st-andrews.ac.uk/history/infoug/markshons.html](https://www.st-andrews.ac.uk/history/infoug/markshons.html)
+[Honours Marking Scale](https://www.st-andrews.ac.uk/assets/university/schools/school-of-history/documents/current-students/Marking%20Scale%20Honours.pdf)
 
 **Extensions**
 
@@ -18,13 +18,13 @@ The marking scale can be found here:
 
 It is important to work consistently through the semester and work around your other commitments and deadlines. Plan ahead and don't save your work until the last minute. Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. The official School of Histories penalties for late work and short/long work are followed in this module:
 
-[http://www.st-andrews.ac.uk/history/~~infoug~~/penalties%20for%20late%20work.html](http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html)
+[Extensions, Penalties for Late, Long and Short Work](https://www.st-andrews.ac.uk/history/students/ug/assessment/extensions-and-late-work/)
 
 **Absence from Classes**
 
-Please see this document for more on Student Absence:
+Please see this website for more on Student Absence:
 
-[http://www.st-andrews.ac.uk/history/infoug/absence.html](http://www.st-andrews.ac.uk/history/infoug/absence.html)
+[Student Absence](https://www.st-andrews.ac.uk/history/students/ug/attendance/)
 
 **Emails**
 
@@ -50,6 +50,6 @@ Academic integrity is fundamental to the values promoted by the University. It i
 
 [https://www.st-andrews.ac.uk/students/rules/academicpractice/](https://www.st-andrews.ac.uk/students/rules/academicpractice/)
 
-If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CAPOD, which provides an extensive range of training on Academic Skills.
+If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CEED, which provides an extensive range of training on Academic Skills.
 
-[http://www.st-andrews.ac.uk/capod/](http://www.st-andrews.ac.uk/capod/)
+[Centre for Educational Enhancement and Development (CEED)](https://www.st-andrews.ac.uk/ceed/)

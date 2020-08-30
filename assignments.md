@@ -1,18 +1,18 @@
 # Assignments
 
-The assessed portion of the coursework for this module consists of one long essay, two presentations, a prospectus with an annotated bibliography, and four blog entries. In addition, students are required to come prepared each week having completed the assigned reading and ready to discuss it, and are required to supply a handout with an overview of their chosen elective readings.
+The assessed portion of the coursework for this module consists of one long essay, two fifteen minute presentations, and four blog entries. In addition, students are required to come prepared each week having completed the required reading plus one elective reading category and be ready to discuss it. Each week they are required to supply a 1-2 page handout in size 12 font with an overview or outline of their chosen elective readings.
 
-**Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Your handout for presentations should also be uploaded to the presentation section of MMS by the beginning of class on the day of the presentation, but hard copies of this for the class should be brought for distribution to everyone.
+**Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Your handout for presentations should also be uploaded to the presentation section of MMS by midnight the evening before class when you give your presentation. 
 
 ### Headers and Formatting
 
 At the top of all your written work or on a cover page, please include:
 
 * The date of submission
-* The assignment you are submitting (e.g. Short Essay 1, Long Essay, etc.)
+* The assignment you are submitting (e.g. Long Essay, etc.)
 * Your student number
-* A specific title describing the contents (for Prospectus write prospectus but also proposed essay title)
-* The total number of words (use the word count feature of your word processor)
+* A specific title for your essay in the case of the Long Essay
+* The total number of words (use the word count feature of your word processor, including footnotes)
 
 When formatting your assignments, please follow these guidelines:
 
@@ -31,24 +31,6 @@ Please carefully read the St Andrews School of History Style Sheet:
 
 This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully. See below for more on the simpler citation method for use in the critical review essay and in the final examination. 
 
-## Prospectus and Annotated Bibliography
-
-The prospectus (500-800 words) and annotated bibliography (no set word count) are worth 10% of your overall grade. It is designed to give you an opportunity to demonstrate your research in progress. It does not need to represent the final choice of topic, but please get your tutor's approval on any major shifts in your essay topic after you submit the prospectus. Note that 500 words is sufficient and all that is required, but I will accept up to 800 words as the upper limit.
-
-**Prospectus** A prospectus summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay, but also says something about the sources you will use and approach you will take. Look to article, dissertation, and book abstracts as the model for this assignment. Write the prospectus as if the long essay is already written and complete and you are merely summarizing what it has accomplished. You can find these abstracts for academic presentations, for example, on the websites of annual conferences such as the AAS (Association of Asian Studies) meeting or countless other conferences. Article abstracts, another possible model, are found at the beginning of articles of many journal articles. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic clearly along with a prospective argument for your essay, then write in a bit more detail about in greater depth discussing how you will use certain sources, what new approach you will take or what existing approaches you are hoping to contest. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way. Even if you are still at a relatively early stage in your research, write confidently about a topic and argument even if you are not sure if you will actually able to follow through in the final essay or suspect you may have to change topics. Write to a reader of a publication, as if you are proposing a talk at a conference or providing an abstract to accompany an article submission, not to me as your only reader.
-
-Things to consider including in the prospectus:
-
-* Don't forget to give your project a meaningful title suggestive of the argument you will make.
-- What is your provisional argument?
-- What are you contributing to the historiography on this? That is, how are you going beyond synthesising what is already out there?
-- What is some of the previous work on this you will engage with? Or key primary sources you will make use of?
-- What is the "so what" of your project?
-
-**Annotated Bibliography**
-
-Below your prospectus, add an annotated bibliography of primary and secondary sources (8-20 would be a fair range at this stage) you are considering for use in the long essay. Below each source, primary and secondary sources in separate categories, add at 1-3 sentences describing the source and why you think it will be useful for your long essay. The annotated bibliography is not included in the word count.
-
 ## Long Essay
 
 The essay for the course is worth 50% of the total coursework and has a limit of 6,000 words including footnotes. The process of composing an essay of this length is made far easier if you make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument.
@@ -59,7 +41,7 @@ Some class time in most weeks will be dedicated to discussing the essay. It is n
 
 ### Topics for the Essay
 
-You may write your essay on *any topic related to the intellectual history of East Asia or Southeast Asia* (not limited to the time period we primarily focus on). This may include history of religion, history of philosophy, and the history of social and political thought. Check with me first, but I will also be generally open to approving topics on any element of the cultural history of the region as well. 
+Your essay should be an argument driven analytic research essay. You may write your essay on *any topic related to the intellectual history of East Asia or Southeast Asia* (not limited to the time period we primarily focus on). This may include history of religion, history of philosophy, and the history of social and political thought. Check with me first, but I will also be generally open to approving topics on any element of the cultural history of the region as well. 
 
 *Journals for Inspiration:* I would suggest browing some of the following journals, and especially note articles that fit the above description:
 
@@ -180,34 +162,35 @@ Unless otherwise indicated, work will considered submitted by the date the docum
 
 ### Feedback
 
-Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within 10 work days (2 weeks). Presentation feedback is provided towards the end of the semester. Some assessments may have additional handwritten feedback provided in the margins.
+Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within 10 work days (2 weeks). Presentation feedback is provided at two points in the semester so they may be marked in groups. 
 
 ## Oral Presentations
 
-Being able to synthesise reading and present ideas orally in class is a key skill. You have assessed and non-assessed presentations in this module. You will be formally assessed on **two presentations**, but may *optionally* offer up to three (if module ≥ 8 students) or four (if module < 8 students) assessed presentations during the semester. If you present three or more times instead of two, *your two best presentation marks will be posted* after our last meeting.
+Being able to synthesise reading and present ideas orally in class is a key skill. You have assessed and non-assessed presentations in this module. You will be formally assessed on **two presentations**.
 
-The topic of your presentation should be a monograph and throughout the seminar readings provided below you will see a (P) next to appropriate texts you may present on. Many of these are found in the further reading section.Unlike your weekly handout, however, your presentation should cover the entirety of the work, not merely any assigned chapters. 
+This semester, the delivery of assessed presentations will be through a recorded presentation accompanied by slides. You can record your voice over slides in both Apple Keynote and in Powerpoint and export the result as a movie. You are welcome to use other movie editing software if you wish. This should be uploaded to the class files in Microsoft Teams together with your handout no later than 24 hours before class session related to the text you are presenting on. All students should watch the presentations before class and we will make time for Q&A in class. Please name the video file you upload the week number, your name, and a title of the text your presentation is about. For example: W5 - Sara - The Book
 
-Presentation skill is shown in your ability to: choose what is most useful to share, choose a quantity of information that will still allow you to speak at a measured pace, project your voice clearly, make use of effective pauses, modulate your voice effectively, make use of a spoken rather than a written register that engages the listener, give eye contact to everyone in the room, avoid exactly reproducing the content of a handout, and present in a way that, even if you are referring to a written set of notes or text, still flows naturally.
+Unless you secure permission for a special topic from me, the topic of your presentation should be a single author monograph and throughout the seminar readings provided below you will see a (P) next to appropriate texts you may present on. Many of these are found in the further reading section. Unlike your weekly elective reading handout, however, your presentation should cover the entirety of the work, not merely any assigned chapters. 
 
-The assessed presentations should be 5-7 minutes in length and not a minute longer. You will be cut off at exactly 7 minutes. The presentation should briefly summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and make 1-3 focused critiques or observations about the read material. It should *not* a detailed summary of the content: it should highlight the arguments, strengths and set the context.
+Presentation skill is shown in your ability to: choose what is most useful to share, choose a quantity of information that will still allow you to speak at a measured pace, project your voice clearly, make use of effective pauses, modulate your voice effectively, make use of a spoken rather than a written register that engages the listener, avoid exactly reproducing the content of a handout, and present in a way that, even if you are referring to a written set of notes or text, still flows naturally.
 
-When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. Slides are not needed for the presentation and not assessed, but the handout may include 1-2 images or a map if appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
+The assessed presentations should be 15 minutes in length and not a minute longer. The presentation should summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and make 1-3 focused critiques or observations about the read material. It should *not* a detailed and exhaustive retelling of the content: it should highlight the arguments, strengths and set the context. Part (but not all) of the presentation may offer greater detail on a particularly important section.
 
-For *both* assessed presentations and the weekly supplementary handout (one piece of paper front and back, at most) you should upload the handout to the module Moodle *the evening before* class to allow everyone time to view it and, if they would like to, print a copy. It should include some paragraphs or bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. You do not need to bring a paper copy of your handouts, but you must post it to the Moodle the night before.
+When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. The handout may include 1-2 images, a timeline, list of names or a map, as appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
+
+For *both* assessed presentations and the weekly elective reading handout (one piece of paper front and back, at most) you should upload the recording and/or handout to the module Moodle at least 24 hours before class to allow everyone time to view it. It should include some paragraphs or bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. 
 
 Some questions to consider as you prepare:
 
-* Did the student give eye contact to everyone in the room and not merely the tutor?
 * Did the student project their voice clearly, modulate their voice appropriately, make effective use of pauses, and speak at an appropriate speed?
 * Did the distributed handout of one or at most two sides of a piece of paper accurately summarize the general points to be made in the presentation in the form of concise bullet points
 * Did the handout include any important dates, sources, or a map that serves as a useful reference?
-* Was the 7 minute limit very strictly observed in the presentation?
-* Did the presentation briefly provide the context of the work, and introduce the author *very briefly*?
+* Was the 15 minute limit very strictly observed in the presentation?
+* Did the presentation provide the context of the work, and introduce the author?
 * Was the presentation well-structured, organized, and focus on a only a few key points?
 * Was there a good balance of arguments, examples to support them, and critique?
 * Did the presentation avoid being a presentation of a series of bullet-point style facts?
-* Did the presentation avoide being a reproduction of the handout, using it instead as a complement.
+* Did the presentation avoid being a reproduction of the handout, using it instead as a complement.
 * Did the presentation make an effort to connect the readings to other readings for the day or find ways to connect to the reading and discussion from previous weeks?
 
 \pagebreak
@@ -218,18 +201,20 @@ We have a module website at:
 
 [http://transnationalhistory.net/world/](http://transnationalhistory.net/world/)
 
-This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings** during the semester, and these postings must be **posted across at least four different weeks**. However, there is flexibility on the content: you may post on readings from before or after the week posted, and may have more than one posting related to material from a single week. The total number of words posted across the semester must be a minimum of 3,000 words posted during the course of the semester (for example, four postings with 750 words, or six postings with 500, etc.). 
+This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings** during the semester and these postings must be **posted across at least four different weeks** (that is they must be online and visible). However, there is flexibility on the content: you may post on readings from before or after the week it relates to, and may have more than one posting related to material from a single week. The total number of words posted across the semester must be a minimum of 2,400 words posted during the course of the semester. You may have some short postings (say, 300 words) or longer postings (I would suggest not going over 1,500), and you are free to post more than four postings during the semester, or exceed the word limit. 
 
-At the end of the semester, you should copy and paste four selected blog postings (Note: although you must have posted at least 2,000 words across the semester, your chosen four posting for submission may total less than 2,000 overall since you could have posted more than four during the semester), including their titles, links to the online version, and the date they were posted online into a document and upload this document to the MMS. The postings must already be on the blog, and cannot be new postings produced for the submission. Points for the overall mark will be the average of the mark on the four selected and submitted postings. Each posting will receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks)
+By the Friday of Week 11, you should choose four of your online blog postings (minimum 2,400 words) and copy and paste them into a document, including their word count, titles, links to the online version, and, importantly, the date they were posted online into a document and upload this document to the MMS. The postings *must already be on the blog, and cannot be new postings produced for the submission*. Points for the overall mark will be the average of the mark on the four selected and submitted postings. Each posting will receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks)
 
-* 5 points if the posting makes a clear analytical point
+* 4 points if the posting makes a clear analytical point
 * 4 points if the posting makes concrete references to particular parts of a reading, with a footnote
 * 3 points if the posting was well-written in terms of language
 * 3 points if the posting was relevant to assigned readings or further readings
 * 3 points if the posting keeps a good focus throughout.
-* 2 additional points will be given for postings that are of a high quality
+* 3 additional points will be given for postings that are of especially high quality
 
-A decent posting, with no significant flaws, should, therefore, get a score of 18. Particularly strong postings may garner 20s. *Example:* A student writes 6 postings during the semester totalling 3,200 words. They select 4 of these, including 1 high quality post of 500 words (20), 2 posts that meet the requirements, one 400 and one 600 words (each getting 18), and 1 post of 800 words that follows all the above but did not maintain a clear focus (18-3=15), then the overall blog mark would come to (20+18+18+15)/4 = 17.8
+A decent posting, with no significant flaws, should, therefore, get a score of 17. Particularly strong postings may garner 20s. 
+
+*Example:* A student writes 6 postings during the semester totalling 3,200 words. They select 4 of these, including 1 high quality post of 500 words (20), 2 posts that meet the requirements but were not exceptional, one 500 and one 600 words (each getting 17), and 1 post of 800 words that follows all the above but did not maintain a clear focus (17-3=14), then the overall blog mark would come to (20+17+17+14)/4 = 17
 
 **How to Post Blog Entries:** You will be given details for your login information late in the first week. Then to login, go to:
 

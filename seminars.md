@@ -2,7 +2,7 @@
 
 # Seminars
 
-**Please Note**: We have an [online reading list](https://rl.talis.com/3/sta/lists/558C5D14-5777-E5FC-CE67-319B7907CB61.html?lang=en-GB) for the module for your convenience but it is harder to read, is sometimes missing texts, and does not include specific tasks that I set for your preparation. Always work from the handbook as you prepare your readings but you can check for ebook versions etc. with the digital reading list. Again: this handbook is the canonical version of your preparation guidelines, not the sometimes incorrect online reading list.
+**Please Note**: We have an [online reading list](https://rl.talis.com/3/sta/lists/ACDDAD47-14D3-F1F6-0333-B8469BD83568.html) for the module for your convenience but it is harder to read, is sometimes missing texts, and does not include specific tasks that I set for your preparation. Always work from the handbook as you prepare your readings but you can check for ebook versions etc. with the digital reading list. Again: this **handbook is the canonical version** of your preparation guidelines, not the sometimes incorrect online reading list.
 
 Abbreviations for readings:
 
@@ -19,6 +19,16 @@ P = Text is a candidate for presentations
 
 ## Week 1 - Introduction to Buddhism
 
+### Preparation
+
+- We will try use only the first 30 minutes for introductions, and overview of the semester. During this time, we'll get everyone's name and I'll explain the main forms of assessment briefly.
+- Please come having read or at least skimmed over the handbook sections on assessment. 
+- Sign up for your two assessed presentation weeks, maximum of two people per week. (Teams)
+- Consider reviewing the topics for each week and ask yourself what topics strike your interest. That is the first step in formulating a long essay topic, which should be something you work on every single week of the semester.
+- Consider signing up for any elective reading categories you already know you are interested in (Teams)
+- We will hit the ground running so please come having done the reading. 
+- Elective reading is required, but you will not be penalized if you don't submit an elective handout this week. It would be nice if you did, however.
+
 ### Required Reading
 
 - *The Foundations of Buddhism* by Rubert Gethin (77 pp)
@@ -33,7 +43,7 @@ P = Text is a candidate for presentations
 
 ### Elective Reading
 
-Each week you will be *required* to do additional reading but have a choice from a selection. You should provide an overview of this reading in the form of a supplementary handout (see above for instructions). We will try to maximise coverage of elective reading from week to week.  
+Each week you will be *required* to do additional reading but have a choice from a selection. You should provide an overview of this reading in the form of a supplementary handout (see above in handbook for instructions). We will try to maximise coverage of elective reading from week to week.  
 
 Choose one of these categories: 
 A1+A2 (Pure Land) OR B (Nichiren) OR C1+C2 (Ch’an/Zen) and read only the material labelled with your category.
@@ -129,6 +139,8 @@ You are not required to do any particular further reading on any given week. How
 
 ### Preparation
 
+- Please make sure you have already signed up for your presentation weeks (maximum two per week)
+- I strongly advise you to begin reading around the areas of your potential interest to settle on a general area for your long essay. This is not an essay that one researches and writes in the week or two before the deadline but a semester long work. 
 * Why not get one of your blog entries out of the way by posting something on one of the elective readings you did for last week or this week? Or one of the further readings?
 
 ### Required Reading
@@ -137,6 +149,7 @@ You are not required to do any particular further reading on any given week. How
   
 These readings will give you some basic exposure to the Analects, Mengzi, and a little bit from Xunzi.
 
+- Consider watching this [introductory video](https://ed.ted.com/lessons/who-was-confucius-bryan-w-van-norden) by Bryan W. Van Norden on Confucius.
 * Bryan W. Van Norden *Introduction to Classical Chinese Philosophy*, pp10-31 (Ch 1 III The Period of the Philosophers, Ch 2), pp84-100 (Ch 6 Mengzi and Human Nature)  (short loan)
 * Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp1-25 (from Ch 1 The Analects), pp116-151 (Ch 3 Mengzi), pp298-306 (Ch 6 Xunzi) 
 
@@ -274,7 +287,7 @@ Choose one of the categories below for your elective reading. Remember to bring 
 * Primary Source Exercise*: Please connect to one of the two following English language newspapers from China and Japan that we have. Browse a few issues of the newspaper and bring a printed copy of one of the articles you found interesting to share:
     * [North China Herald](http://library.st-andrews.ac.uk/record=b2088752~S5)
     * [Japan Chronicle](http://library.st-andrews.ac.uk/record=b2089101~S5)
-* Your abstract is due next week. Make sure you are making good progress at exploring potential topics and primary sources.
+- Please ensure that you are setting aside enough time to narrow down your topic for your long essay. Aim to have a clear idea of your essay topic and hopefully a potential argument by Week 5 so you can use independent learning week to make good progress on assembling what you need for the long essay.
 
 ### Required Reading
 
@@ -355,7 +368,8 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 ### Preparation
 
-* Your abstract and annotated bibliography are due this week. You may have come across readings in your research for this that would make good topics for a blog entry, why not post a blog entry on something you read while preparing your abstract?
+* You may have come across readings in your research for this that would make good topics for a blog entry, why not post a blog entry on something you read?
+- Consider meeting with me in office hours this week or next week before ILW. Email me or at least bring with you a prospectus of your essay and a preliminary bibliography in terms of primary and secondary sources. In the prospectus, just one paragraph, write an abstract of your essay as if it was already written and include a sentence on what it argued, and why you think your contribution is original and interesting.
 
 ### Required Reading
 
@@ -375,6 +389,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 **C) Anarchist Cooperatism**
 
 - Konishi, Sho. *Anarchist Modernity: Cooperatism and Japanese-Russian Intellectual Relations in Modern Japan*. Cambridge: Harvard University Press, 2013. Introduction, Ch 1 (short loan) (P)
+	- C19: Ch 1 may not be scanned.
 - Konishi, Sho “Ordinary Farmers Living Anarchist Time: Arishima Cooperative Farm in Hokkaido.” *Modern Asian Studies* 47, no. 6 (November 2013): 1845–87. ([online](https://doi.org/10.1017/S0026749X11000953))
 
 **D) Kōtoku Shūsui**
@@ -384,6 +399,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 **E) Uchiyama Gudō**
 
 * Rambelli, Fabio. *Zen Anarchism: The Egalitarian Dharma of Uchiyama Gudō*. Berkeley, Calif: Institute of Buddhist Studies, 2013. Introduction, Ch 2-3 (P)
+	- C19: No scan 
 
 **F) Ōsugi Sakae**
 
@@ -435,6 +451,10 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 ## Week 5 - New Orders for Love, Family, and the Liberation of Women
 
+### Preparation
+
+- This week consider coming to office hours with a prospectus (see preparation last week) to show me with your essay tentative argument and a preliminary bibliography. This allows me to give you early feedback on your idea and have a discussion with you about possible directions and sources.
+
 ### Required Reading
 
 (~110)
@@ -467,6 +487,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 **F) Shifting Interpretations**
 
 - Judge, Joan. *The Precious Raft of History: The Past, the West, and the Woman Question in China*. Stanford, Calif.: Stanford University Press, 2008. Ch 4-6 (short loan)
+	- C19: No library scan, see Konrad
 
 ### General Further Reading
 
@@ -512,12 +533,16 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 ## Week 6 - Independent Learning Week
 
-Use this week to make good progress on your long essay research and please begin the writing process, even if it is to draft some ideas.
+- Use this week to make good progress on your long essay research and please begin the writing process, even if it is to draft some ideas. If you don't have a clear idea of your essay topic and a tentative argument, as well as the majority of your sources in hand, then this week is absolutely critical to make progress for a high quality essay.
 
 
 \pagebreak
 
 ## Week 7 - Buddhist World Orders
+
+### Preparation
+
+- If you didn't yet submit a prospectus to me with a bibliography in W5, I will also have some extra office hour time available for a discussion along those lines and is the last week for prospectus feedback sessions. If you changed topics over ILW, that is fine, and you are welcome to come with a new prospectus. Many of the best essays involved a first deep dive, and then a change of direction.
 
 ### Required Reading
 
@@ -635,9 +660,15 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 
 ## Week 8 - Cosmopolitanism from the East
 
+### Preparation
+
+- You should have completed the majority of your research for the long essay, have a clear idea of what you want to argue, or in some cases, have abandoned one earlier approach and pivoted to a related topic. After this week, I don't suggest changing topic in any radical way but at most shift your perspective, argument, or introduce a comparative element if you struggling with your existing argument. 
+- Why not finish off the last blog entries this week and next to leave the remaining weeks for your long essay work.
+
 ### Required Reading
 
 * Yan, Xishan. *How to Prevent Warfare and Establish Foundation of World Unity*, pamphlet, pp1-41
+	- on Teams
 * Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. Ch 2-3, pp26-57, Pt II Ch 1 pp79-104. (P)
 * Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. Ch 5 Paradoxical Internationalism? Oomoto in the World, pp142-169 (P)
 
@@ -659,6 +690,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015. Introduction, Ch 3 Cultural Diplomacy for Peace and War, pp81-107 (P)
 * Akami, Tomoko. *Internationalizing the Pacific: The United States, Japan and the Institute of Pacific Relations, 1919-1945*. Routledge, 2003. Introduction pp1-16, Ch 8 The IPR and the Sino-Japanese War, 1936-9,  pp200-239 (P)
 * Lincicome, Mark. *Imperial Subjects as Global Citizens: Nationalism, Internationalism, and Education in Japan*. Lexington Books, 2009. Ch 3-4 (P)
+	- C19: no library scan
 
 **D) Esperanto**
 
@@ -709,6 +741,11 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 \pagebreak
 
 ## Week 9 - New Directions in Japanese Thought and Overcoming Modernity
+
+### Preparation
+
+- If you haven't started writing your long essay yet, I suggest that at this point you at least begin some free writing, or tackling an easy section such as the historiography section of your essay, or an interesting sub-argument based on evidence you have already taken good notes on. 
+- If you have started writing your essay, consider getting feedback from your peers on your writing. If you know of classmates who have come roughly equally far along in their work, consider forming a writing group to encourage you to spend dedicated time to the writing process.
 
 ### Required Reading
 
@@ -772,7 +809,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 ### General Further Reading
 
 * Abe, Masao. *Zen and Western Thought*. University of Hawaii Press, 1989. (P)
-* Watanabe, Hiroshi, and David Noble. *A History of Japanese Political Thought, 1600-1901*. Tōkyō: Internat. House of Japan, 2012.
+- Blocker, Gene. *Japanese Philosophy*. State University of New York, 2001.
 * Bellah, Robert N. “Japan’s Cultural Identity: Some Reflections on the Work of Watsuji Tetsuro.” *The Journal of Asian Studies* 24, no. 4 (1965): 573–94. 
 * Bernier, Bernard. “National Communion: Watsuji Tetsuro’s Conception of Ethics, Power, and the Japanese Imperial State.” *Philosophy East and West* 56, no. 1 (2006): 84–105.
 * Berque, Augustin. “Offspring of Watsuji’s Theory of Milieu (Fûdo).” *GeoJournal* 60, no. 4 (2004): 389–96.
@@ -845,6 +882,12 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 \pagebreak
 
 ## Week 10 - Confucian Renewals
+
+### Preparation
+
+- As you continue work on your long essay, consider bringing an outline of the work so far to office hours and talking through your progress and challenges with me. 
+- All students should have reached the writing point for their essay at this point to allow for revision of drafts of their work after identifying any weak areas in the argument and returning to evidence as needed.
+- When you have completed a first draft of your long essay, read with a critical eye: is the argument clearly stated in the introduction. Have you answered the "so what?" question and established what original contribution your essay is making rather than merely summarising the existing state of the field? Do all the pieces of your essay work together to support the main argument or are there areas that lose focus or are not relevant? Do you have sub-arguments that need strengthening with further evidence? Do you need to tweak the argument or rebalance it?
 
 ### Required Reading
 
@@ -953,11 +996,16 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 
 ## Week 11 - Imagining Alternate Futures
 
+### Preparation
+
+- You should be in the final push with your long essay. 
+
 ### Required Reading
 
 * Lawson, Konrad. “Reimagining the Postwar International Order: The World Federalism of Ozaki Yukio and Kagawa Toyohiko.” In *The Institution of International Order: From the League of Nations to the United Nations*, edited by Alanna O’Malley and Simon Jackson. Routledge, 2018, 
 * SOURCES JAPAN II "Kita Ikki and the Reform Wing of Ultranationalism" in Ch 42 (pp271-276 in paper version)
 * Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Ch 6, Conclusion (P)
+	- C19: No library scan.
 
 ### Elective Reading
 
