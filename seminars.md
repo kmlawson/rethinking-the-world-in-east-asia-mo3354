@@ -35,7 +35,6 @@ P = Text is a candidate for presentations
 	- Ch 2 The Word of the Buddha pp35-58
 	- Ch 3 Four Truths pp59-84
 	- Ch 9 The Mahāyāna pp224-252
-	- (F) Ch 4 The Buddhist Community; Ch 5 The Buddhist Cosmos; Ch 6 No Self; Ch 10 The Evolving Traditions of Buddhism
 
 - *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp)
 	- p15-36 (from Ch 2.I Religious Foundations of Late Imperial China)
@@ -45,27 +44,29 @@ P = Text is a candidate for presentations
 
 Each week you will be *required* to do additional reading but have a choice from a selection. You should provide an overview of this reading in the form of a supplementary handout (see above in handbook for instructions). We will try to maximise coverage of elective reading from week to week.  
 
-Choose one of these categories: 
-A1+A2 (Pure Land) OR B (Nichiren) OR C1+C2 (Ch’an/Zen) and read only the material labelled with your category.
+Choose one of these categories: A (Pure Land) OR B (Nichiren) OR C (Ch’an/Zen) and read only the material labelled with your category from each text.
 
 - SOURCES JAPAN 1 [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2381788__Ssources%20of%20japanese%20tradition__Orightresult__U__X7?lang=eng&suite=def)
-	- (A2) III.10 Amida, the Pure Land, and the Response of the Old Buddhism to the New p211-231
+	- (A) III.10 Amida, the Pure Land, and the Response of the Old Buddhism to the New p211-231
 	- (B) III.13 Nichiren: The Sun and the Lotus 292-306
-	- (C2) III.14 Zen Buddhism 306-335
+	- (C) III.14 Zen Buddhism 306-335
 - *Japanese Philosophy: A Sourcebook*: 
-	- (A2) Hōnen; Shinran pp235-262
+	- (A) Hōnen; Shinran pp235-262
 	- (B) Nichiren: Buddhist Views on Current Issues pp86-91
-	- (C2) Dōgen pp141-162
+	- (C) Dōgen pp141-162
 - SOURCES CHINA 1: 
-	- (A1) Huiyuan: A Monk Does Not Bow Down Before a King pp280-286 (1st ed)
-	- (A1) The Pure Land School pp334-345 (1st ed)
-	- (C1) The Meditation School pp346-368 (1st ed)
+	- (A) The Pure Land School pp334-345 (1st ed)
+	- (C) The Meditation School pp346-368 (1st ed)
 - *Readings of the Lotus Sutra*: 
 	- (B) Interpreting the Lotus Sutra pp1-60 + pp195-205
 
 ### Further Reading
 
 You are not required to do any particular further reading on any given week. However, this section in each week will be useful for you as you think about the topic for your long essay and provide you with additional sources that can serve as the starting place for your research.
+
+**General**
+
+- *The Foundations of Buddhism* by Rubert Gethin Ch 4 The Buddhist Community; Ch 5 The Buddhist Cosmos; Ch 6 No Self; Ch 10 The Evolving Traditions of Buddhism
 
 **Primary Sources**
 
@@ -143,15 +144,13 @@ You are not required to do any particular further reading on any given week. How
 - I strongly advise you to begin reading around the areas of your potential interest to settle on a general area for your long essay. This is not an essay that one researches and writes in the week or two before the deadline but a semester long work. 
 * Why not get one of your blog entries out of the way by posting something on one of the elective readings you did for last week or this week? Or one of the further readings?
 
-### Required Reading
-
-(~105)
+### Required Reading (~90)
   
-These readings will give you some basic exposure to the Analects, Mengzi, and a little bit from Xunzi.
+These readings will give you some basic exposure to the Analects, and Mengzi
 
 - Consider watching this [introductory video](https://ed.ted.com/lessons/who-was-confucius-bryan-w-van-norden) by Bryan W. Van Norden on Confucius.
-* Bryan W. Van Norden *Introduction to Classical Chinese Philosophy*, pp10-31 (Ch 1 III The Period of the Philosophers, Ch 2), pp84-100 (Ch 6 Mengzi and Human Nature)  (short loan)
-* Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp1-25 (from Ch 1 The Analects), pp116-151 (Ch 3 Mengzi), pp298-306 (Ch 6 Xunzi) 
+* Bryan W. Van Norden *Introduction to Classical Chinese Philosophy*, pp10-31 (Ch 1 III The Period of the Philosophers, Ch 2), and from Ch 6 Mengzi and Human Nature read only sections 1A1, 1A7, 2A6, 3A3, 6A1-3  (short loan)
+* Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp1-25 (from Ch 1 The Analects), pp116-151 (Ch 3 Mengzi) 
 
 ### Bonus Challenge
 
@@ -212,11 +211,12 @@ Choose one of the categories below for your elective reading. Remember to bring 
 **C) Confucianism in Japan**
 
 - SOURCES JAPAN 2 - "Ogyū Sorai and the Return to the Classics," comprising several texts in Ch 24
-- Olof G. Lidin "Ogyū Sorai: Confucian Conservative Reformer: From Journey to Kai to Discourse on Government" in Huang, Chun-chieh, John Allen Tucker, and SpringerLink (Online service), eds. *Dao Companion to Japanese Confucian Philosophy*. Dao Companions to Chinese Philosophy 5. Heidelberg: Springer, 2014, pp165-192 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2102172)) (P)
+- Thomas P. Kasulis *Engaging Japanese Philosophy: A Short History* (2018), Ch 9 Ogyū Sorai (1666-1728), pp346-370
 
 *Further Reading*
 
 - HEISIG: Confucian Traditions section
+- Olof G. Lidin "Ogyū Sorai: Confucian Conservative Reformer: From Journey to Kai to Discourse on Government" in Huang, Chun-chieh, John Allen Tucker, and SpringerLink (Online service), eds. *Dao Companion to Japanese Confucian Philosophy*. Dao Companions to Chinese Philosophy 5. Heidelberg: Springer, 2014, pp165-192 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2102172)) (P)
 - Ansart, Olivier. “Making Sense of Sorai: How to Deal with the Contradictions in Ogyū Sorai’s Political Theory.” *Asian Philosophy* 19, no. 1 (March 1, 2009): 11–30.
 - Ogyū, Sorai. *Tokugawa Political Writings.* Cambridge University Press, 1998.
 - Ogyū Sorai, *Discourse on Government (Seidan): An Annotated Translation*, trans. Olof G. Lidin (Weisbaden: Harrossowitz Verlag, 1999) (P)
@@ -258,6 +258,11 @@ Choose one of the categories below for your elective reading. Remember to bring 
 - Tucker, Mary Evelyn. *Moral and Spiritual Cultivation in Japanese Neo-Confucianism: The Life and Thought of Kaibara Ekken (1630-1714)*. SUNY Press, 1989. (P)
 - Watanabe, Hiroshi, and David Noble. *A History of Japanese Political Thought, 1600-1901*. Tōkyō: Internat. House of Japan, 2012.
 
+**E) Xunzi**
+
+- Bryan Van Norden *Introduction to classical Chinese Philosophy* (2011), Ch 10 Xunzi's Confucian Naturalism, pp164-183.
+- Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp298-310 (from Ch 6 Xunzi)
+
 ### Reference
 
 - Confucius, and Edward Slingerland. *Analects: With Selections from Traditional Commentaries*. Hackett Publishing, 2003.
@@ -289,12 +294,10 @@ Choose one of the categories below for your elective reading. Remember to bring 
     * [Japan Chronicle](http://library.st-andrews.ac.uk/record=b2089101~S5)
 - Please ensure that you are setting aside enough time to narrow down your topic for your long essay. Aim to have a clear idea of your essay topic and hopefully a potential argument by Week 5 so you can use independent learning week to make good progress on assembling what you need for the long essay.
 
-### Required Reading
-
-(~115)  
+### Required Reading (~115)  
 
 - SOURCES CHINA 2: Ch 29 - "The Heavenly Kingdom of the Taipings" pp213-230
-- SOURCES KOREA 2: Ch 20 - "The Tonghak Uprisings and the Kabo Reforms" pp261-276
+- SOURCES KOREA 2: Ch 20 - "The Tonghak Uprisings and the Kabo Reforms" pp261-273
 - Philip A. Kuhn. "The Taiping Rebellion" in *Cambridge History of China* v10 Late Qing Part 1, pp264-317.
 - Lew, Young Ick. “The Conservative Character of the 1894 Tonghak Peasant Uprising: A Reappraisal with Emphasis on Chŏn Pong-Jun’s Background and Motivation.” *The Journal of Korean Studies (1979-)* 7 (1990): 149–80. ([jstor](https://www.jstor.org/stable/44000397))
 
@@ -371,7 +374,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 * You may have come across readings in your research for this that would make good topics for a blog entry, why not post a blog entry on something you read?
 - Consider meeting with me in office hours this week or next week before ILW. Email me or at least bring with you a prospectus of your essay and a preliminary bibliography in terms of primary and secondary sources. In the prospectus, just one paragraph, write an abstract of your essay as if it was already written and include a sentence on what it argued, and why you think your contribution is original and interesting.
 
-### Required Reading
+### Required Reading (~85)
 
 - Hane, Mikiso. *Reflections on the Way to the Gallows: Rebel Women in Prewar Japan*. University of California Press, 1988. from Ch 3 pp51-58,  from Ch 4 pp75-80, 109-124 (short loan)
 - Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 1 but only pp1-26, and also Ch 3 (short loan) (P)
@@ -455,9 +458,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 - This week consider coming to office hours with a prospectus (see preparation last week) to show me with your essay tentative argument and a preliminary bibliography. This allows me to give you early feedback on your idea and have a discussion with you about possible directions and sources.
 
-### Required Reading
-
-(~110)
+### Required Reading (~110)
 
 - Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. Columbia University Press, 2013, Introduction pp1-26; "The Historical Context: Chinese Feminist Worlds at the Turn of the Twentieth Century" pp27-50; "On the Revenge of Women" 105-168. [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2521707)
 
@@ -482,7 +483,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 **E) Revolution of the Heart**
 
-* Lee, Haiyan. Revolution of the Heart: A Genealogy of Love in China, 1900-1950. Stanford, Calif: Stanford University Press, 2010. Introduction, Ch 7 "Revolution of the Heart" (P)
+* Lee, Haiyan. *Revolution of the Heart: A Genealogy of Love in China, 1900-1950*. Stanford, Calif: Stanford University Press, 2010. Introduction, Ch 7 "Revolution of the Heart" (P)
 
 **F) Shifting Interpretations**
 
@@ -544,13 +545,11 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 - If you didn't yet submit a prospectus to me with a bibliography in W5, I will also have some extra office hour time available for a discussion along those lines and is the last week for prospectus feedback sessions. If you changed topics over ILW, that is fine, and you are welcome to come with a new prospectus. Many of the best essays involved a first deep dive, and then a change of direction.
 
-### Required Reading
+### Required Reading (~70)
 
 * Sponberg, Alan, ed. *Maitreya, the Future Buddha*. Reissue edition. Cambridge: Cambridge University Press, 2011. Ch 1-2, pp7-36 (P)
 * Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Introduction. 1-16 (P)
 * Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity*. Brill, 2010. Ch 5 Survival, God, Buddha: Social Darwinism in a Buddhist Context, pp113-135 (P)
-* Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. Ch 3 Asianism and the New Discourse of Civilization, only pp103-122. (P)
-* Sun, Jiang. ‘The Predicament of a Redemptive Religion: The Red Swastika Society Under the Rule of Manchukuo’. Journal of Modern Chinese History 7, no. 1 (1 June 2013): 108–26. https://doi.org/10.1080/17535654.2013.772358.
 
 ### Elective Reading
 
@@ -562,6 +561,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 **B) Zen**
 
 * Victoria, Daizen. *Zen at War*. Lanham, Md.: Rowman &amp; Littlefield Publishers, 2006. 5 pp57-65, 10 pp147-182 and either i) Ch 2-3 pp12-48 on radical Zen or ii) 7-9 pp79-144 on wartime Zen (P)
+* Chistopher Ives *Imperial-Way Zen: Ichikawa Hakugen's Critique and Lingering Questions for Buddhist Ethics* (2009). Ch 4 Modern Buddhism for the Protection of the Realm pp101-127.
 
 **C) Nichiren**
 
@@ -593,6 +593,12 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Tweed, Thomas A. *The American Encounter with Buddhism, 1844-1912: Victorian Culture and the Limits of Dissent*. UNC Press Books, 2005. Ch 2 Shall We All Become Buddhists? pp26-47. (P)
 * Snodgrass, Judith. *Presenting Japanese Buddhism to the West: Orientalism, Occidentalism, and the Columbian Exposition*. Univ of North Carolina Press, 2003,  Introduction pp1-15, Ch 4 Alterity: Buddhism as the "Other" of Christianity pp85-114 (P)
 * Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. Translated by Earl Hartman. Reprint edition. Chicago, Ill.; Bristol: University of Chicago Press, 2011. The Kitschy World of 'Zen in/and the art of...' pp10-27, Ch 2-3 The Mystery of *Zen in the Art of Archery*, Dissecting the Myth, pp28-72 (P)
+
+**H) Buddhism in Japanese Manchuria**
+
+* Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. Rowman &amp; Littlefield Publishers, 2004. Ch 3 Asianism and the New Discourse of Civilization, only pp103-122. (P)
+* Thomas David DuBois *Empire and the Meaning of Religion in Northeast Asia* (2017). Ch 4 Piety in Print pp85-107.
+* Sun, Jiang. ‘The Predicament of a Redemptive Religion: The Red Swastika Society Under the Rule of Manchukuo’. Journal of Modern Chinese History 7, no. 1 (1 June 2013): 108–26. 
 
 ### General Further Reading
 
@@ -665,7 +671,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 - You should have completed the majority of your research for the long essay, have a clear idea of what you want to argue, or in some cases, have abandoned one earlier approach and pivoted to a related topic. After this week, I don't suggest changing topic in any radical way but at most shift your perspective, argument, or introduce a comparative element if you struggling with your existing argument. 
 - Why not finish off the last blog entries this week and next to leave the remaining weeks for your long essay work.
 
-### Required Reading
+### Required Reading (~80)
 
 * Yan, Xishan. *How to Prevent Warfare and Establish Foundation of World Unity*, pamphlet, pp1-41
 	- on Teams
@@ -698,6 +704,10 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 * Chan, Gerald. “China and the Esperanto Movement.” *The Australian Journal of Chinese Affairs*, no. 15 (1986): 1–18. 
 * Konishi, Sho. “Translingual World Order: Language without Culture in Post-Russo-Japanese War Japan.” *The Journal of Asian Studies* 72, no. 1 (February 2013): 91–114. 
 * Boli, John, George M Thomas, and Young S. Kim, eds. “Constructing a Global Identity: The Role of Esperanto.” In *Constructing World Culture International Nongovernmental Organizations Since 1875*. Stanford, Calif.: Stanford University Press, 1999. 
+
+**E) Li Yujie and Zhang Tianran**
+
+* David Ownby, Vincent Goossaert, and Ji Zhe eds. *Making Saints in Modern China* (2017). Introduction p1-20; Ch 7 Sainthood, Science, and Politics: The Life of Li Yujie, Founder of the Tiandijiao by David Ownby pp241-271; Ch 6 Yiguandao’s Patriarch Zhang Tianran by Sébastien Billioud pp210-240.
 
 ### General Further Reading
 
@@ -747,10 +757,11 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 - If you haven't started writing your long essay yet, I suggest that at this point you at least begin some free writing, or tackling an easy section such as the historiography section of your essay, or an interesting sub-argument based on evidence you have already taken good notes on. 
 - If you have started writing your essay, consider getting feedback from your peers on your writing. If you know of classmates who have come roughly equally far along in their work, consider forming a writing group to encourage you to spend dedicated time to the writing process.
 
-### Required Reading
+### Required Reading (~110)
 
-* Davis, Bret W. "The Kyoto School" entry *The Stanford Encyclopedia of Philosophy* [online](https://plato.stanford.edu/entries/kyoto-school/)
-* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 4-5, and Conclusion - 72-145.
+* Davis, Bret W. "The Kyoto School" entry *The Stanford Encyclopedia of Philosophy* [online](https://plato.stanford.edu/entries/kyoto-school/) Read sections 1 Introduction, 2 Identity and Membership: Who Belongs to What?, and 4 Political Ventures and Misadventures.
+* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 4-5
+* Sven Saaler, Pan-Asianism in Modern Japanese History Colonialism, Regionalism and Borders (London; New York: Routledge, 2007). Ch 10 The Temporality of Empire: The Imperial Cosmopolitanism of Miki Kiyoshi and Tanabe Hajime by John Namjun Kim
 
 ### Elective Reading
 
@@ -889,7 +900,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 - All students should have reached the writing point for their essay at this point to allow for revision of drafts of their work after identifying any weak areas in the argument and returning to evidence as needed.
 - When you have completed a first draft of your long essay, read with a critical eye: is the argument clearly stated in the introduction. Have you answered the "so what?" question and established what original contribution your essay is making rather than merely summarising the existing state of the field? Do all the pieces of your essay work together to support the main argument or are there areas that lose focus or are not relevant? Do you have sub-arguments that need strengthening with further evidence? Do you need to tweak the argument or rebalance it?
 
-### Required Reading
+### Required Reading (~100)
 
 * SOURCES CHINA II "The New Confucians" in Ch 39 Reopening the Debate on Chinese Tradition pp545-563 (in paper version)
 * Bell, Daniel. *China’s New Confucianism: Politics and Everyday Life in a Changing Society*. Princeton, N.J: Princeton University Press, 2008. Ch 1  From Communism to Confucianism pp3-18
@@ -1003,7 +1014,7 @@ Manhae Han Yongun’s Doctrinal Reinterpretation for His Reformist Thought pp19-
 ### Required Reading
 
 * Lawson, Konrad. “Reimagining the Postwar International Order: The World Federalism of Ozaki Yukio and Kagawa Toyohiko.” In *The Institution of International Order: From the League of Nations to the United Nations*, edited by Alanna O’Malley and Simon Jackson. Routledge, 2018, 
-* SOURCES JAPAN II "Kita Ikki and the Reform Wing of Ultranationalism" in Ch 42 (pp271-276 in paper version)
+* SOURCES JAPAN II "Kita Ikki and the Reform Wing of Ultranationalism" in Ch 44 The Rise of Revolutionary Nationalism 
 * Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006, Ch 6, Conclusion (P)
 	- C19: No library scan.
 
