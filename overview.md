@@ -29,9 +29,9 @@ Utopian visions of Kita Ikki and Kagawa Toyohiko; alternative futures in Japanes
 ### Key Details
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Fall, 2019 - Thu 9:00-11:00  
-**Location:** School II or Microsoft Teams (Covid Permitting)
-**Office:** St. Katharine's Lodge B3  **Office Hours (Online):** Tue 9-10am 
+**Meets:** Fall, 2021 - Thu 11:00-13:00  
+**Location:** Arts Seminar 9
+**Office:** St. Katharine's Lodge B3  **Office Hours (Online):** Tue 9-12am Sign up for a [time here](https://goo.gl/Rh19wj)
 
 ### Description
 
@@ -39,9 +39,9 @@ This intellectual history of late modern East Asia explores the ways social, pol
 
 ### Assessment Summary
 
-20% Blog Entries – 4 postings, min 2400 words total - 27 November, 2020   
-50% Long Essay – 5,000 words - 7 December, 2020  
-30% Two Assessed Presentations with Handout, 15m each.   
+20% Blog Entries – 4 postings, min 2400 words total - 29 October, 2021 (W7, Friday)   
+50% Long Essay – 5,000 words - 6 December, 2021 (Exam Week 1, Monday)  
+30% Two Assessed Presentations with Handout, 15m each. One before W6, one after.   
 
 *All submissions are by MMS and due before midnight*
 

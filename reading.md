@@ -8,6 +8,8 @@ This module, which has no final exam, is designed to provide you flexibility in 
 2) Additional required 'elective' reading that is selected by the student from several options provided. Choose one category of readings to prepare. (4-7 hours)
 3) Further reading in the general area of your long essay, specific research towards the long essay, or work on your blog entries and presentation preparation. (3-8 hours)
 
+The assigned readings are all below under the overview for each week. They are the only reliable source of your assigned readings. There is a [Talis Reading List](https://sta.rl.talis.com/modules/mo3354.html) created and hosted by the library. However, this should only be a convenient supplement and may not be entirely accurate: use the handbook first and refer to the handbook as you click through items on Talis. 
+
 **Elective Reading Handout**
 
 Each week, you are required post a handout (Word, Txt, RTF, Markdown, or ODT - not PDF, no more than one page front and back; see above under presentation section) relating to the category of *elective readings* you have done to the class files on Teams each week by noon the day before class. This is to allow other students, and myself, to review the handouts the evening before class. The handout *should not be raw notes* on the text. Compose a notes-on-notes approach which highlights key arguments, an overview of the text structure, perhaps listing some key people, events, or historiography mentioned in the text, and consider including one or more full sentence bullet points with your reflection/critique/evaluation of the work. If the elective reading consisted of multiple chapters, you must include an overview of arguments/structure of all chapters, but may optionally focus the majority of your handout on one chapter or section if you want to go into more detail. If the elective reading involves separate texts, you may focus the handout on one text.
@@ -20,6 +22,7 @@ Although you are not given an assessed mark, please note that your weekly electi
 - No more than two pages
 - Please put the title of the text/s at the top of the handout
 - Please include your name under the title
+- Important: For consistency, please name the file that you submit in the following manner: Week number - Your first name - category name or short title of first reading in category. For example: W2 - Konrad - Gender and Confucianism
 
 **Introducing Elective Readings and your Essay Progress to Your Classmates**
 

@@ -2,7 +2,16 @@
 
 ## Primary Sources on East and Southeast Asia
 
-Below are a selection of potential starting points for primary sources relevant for historical research on East and Southeast Asia. Many of these are available through our library electronic resources. Others you can contact me about if you are having trouble finding them. Not all of these sources are in English and I have included some sources here for use by students who are able to read Chinese, Japanese, and Korean.
+Below are a selection of potential starting points for primary sources relevant for historical research on East and Southeast Asia. Only a subset of them are relevant for this module. Many of these are available through our library electronic resources. Others you can contact me about if you are having trouble finding them. Not all of these sources are in English and I have included some sources here for use by students who are able to read Chinese, Japanese, and Korean.
+
+### Frog in a Well Primary Source Guides
+
+See these guides on Frog in a Well for many useful resources:
+
+- [Primary Sources: Modern Korean History](https://www.froginawell.net/frog/sources/primary-sources-modern-korean-history/)
+- [Primary Sources: History of Taiwan](https://www.froginawell.net/frog/sources/primary-sources-history-of-taiwan/)
+- [Primary Sources: Missionary Perspectives on China](https://www.froginawell.net/frog/primary-sources-missionary-perspectives-on-china/)
+- [Primary Sources: History of Burma](https://www.froginawell.net/frog/primary-sources-history-of-burma/)
 
 ### Newspapers and Periodicals:
 
