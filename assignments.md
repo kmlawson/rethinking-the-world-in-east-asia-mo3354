@@ -31,6 +31,10 @@ Please carefully read the St Andrews School of History Style Sheet:
 
 This document, sections 1-4, contains extremely valuable information on how to compose your essay, including how to format your footnotes and bibliography. In particular, please follow the instructions for footnotes carefully. You will be penalized in your long essay mark if you do not follow the style guide. Note that blog entries don't need any bibliography.
 
+In your bibliography, please have separate sections for your secondary sources and the primary sources you used.
+
+If you prefer **and do so consistently**, you may use the Chicago Style (Notes and Bibliography) over the St Andrews note formatting. I encourage you to manage your sources in a referencing tool such as [Zotero](https://www.zotero.org/) which makes it easy to automatically generate formatted notes and bibliography if you have the correct information for each source.
+
 \pagebreak
 
 ## Long Essay
