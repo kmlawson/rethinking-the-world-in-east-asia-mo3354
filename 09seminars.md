@@ -31,12 +31,12 @@ P = Text is a candidate for presentations
 
 ### Required Reading
 
-- *The Foundations of Buddhism* by Rubert Gethin (77 pp)
+- *The Foundations of Buddhism* by Rubert Gethin (77 pp) [Ebook](https://library.st-andrews.ac.uk/record=b3064583~S5)
 	- Ch 2 The Word of the Buddha pp35-58
 	- Ch 3 Four Truths pp59-84
 	- Ch 9 The Mahāyāna pp224-252
 
-- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp)
+- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp) [Ebook](https://library.st-andrews.ac.uk/record=b3043301~S5)
 	- p15-36 (from Ch 2.I Religious Foundations of Late Imperial China)
 	- p53-66 (from Ch 3.I Religious Foundations of Medieval Japan)
 
@@ -46,11 +46,11 @@ Each week you will be *required* to do additional reading but have a choice from
 
 Choose one of these categories: A (Pure Land) OR B (Nichiren) OR C (Ch’an/Zen) and read only the material labelled with your category from each text.
 
-- SOURCES JAPAN 1 [ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2381788__Ssources%20of%20japanese%20tradition__Orightresult__U__X7?lang=eng&suite=def)
+- SOURCES JAPAN 1 [Ebook](https://library.st-andrews.ac.uk/record=b2381788~S5)
 	- (A) III.10 Amida, the Pure Land, and the Response of the Old Buddhism to the New p211-231
 	- (B) III.13 Nichiren: The Sun and the Lotus 292-306
 	- (C) III.14 Zen Buddhism 306-335
-- *Japanese Philosophy: A Sourcebook*: 
+- *Japanese Philosophy: A Sourcebook* [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
 	- (A) Hōnen; Shinran pp235-262
 	- (B) Nichiren: Buddhist Views on Current Issues pp86-91
 	- (C) Dōgen pp141-162

@@ -4,46 +4,57 @@
 
 ## Overview
 
-1.	**Introduction to Buddhism**  
+1.	[**Introduction to Buddhism**](#buddhism)  
 Introduction to Buddhism and to some schools in China and Japan that are most relevant to discussion in later weeks
-2.	**Introduction to Confucianism**  
+2.	[**Introduction to Confucianism**](#confucianism)  
 Introduction to some of the basic Confucian classics and its monumental impact on East Asian history
-3.	**Taiping and Tonghak**  
+3.	[**Taiping and Tonghak**](#taiping)  
 On the universalist aspirations of the Taiping Rebellion (Qing), Tonghak Rebellion (Chosŏn)
-4.	**Revolutionary Internationalism**  
+4.	[**Revolutionary Internationalism**](#rev)  
 Focusing on the political imaginations of key East Asian anarchists
-5.	**New Orders for Love, Family, and the Individual**  
+5.	[**New Orders for Love, Family, and the Individual**](#love)  
 Reordering domestic space and women's liberation as the first step to comprehensive social and global change at the global level
-6.  *ILW*
-7.	**Buddhist World Orders**  
+6.  [*Independent Learning Week*](#ilw)  
+7.	[**Buddhist World Orders**](#world)  
 Nichiren, Zen, Shin and new Buddhist movements in 20th century East Asia
-8.	**Cosmopolitanism from the East**  
+8.	[**Cosmopolitanism from the East**](#cosmo)  
 Chinese world redemptive movements, Esperantists, and some utopian visionaries
-9.	**New Directions in Japanese Thought and Overcoming Modernity**  
+9.	[**New Directions in Japanese Thought and Overcoming Modernity**](#new)  
 The universal and the particular in Japan’s most influential philosophical school
-10.	**Confucian Renewals**  
+10.	[**Confucian Renewals**](#renewals)   
 The development of new Confucianism in a variety of forms focusing on China and Korea
-11.	**Imagining Alternate Futures**  
+11.	[**Imagining Alternate Futures**](#imagining)  
 Utopian visions of Kita Ikki and Kagawa Toyohiko; alternative futures in Japanese and Chinese science fiction
 
 ### Key Details
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Fall, 2021 - Thu 11:00-13:00  
-**Location:** Arts Seminar 9
-**Office:** St. Katharine's Lodge B3  **Office Hours (Online):** Tue 9-12am Sign up for a [time here](https://goo.gl/Rh19wj)
+**Meets:** Fall, 2024 - Thu 11:00-13:00  
+**Location:** St. Katharine's Lodge 0.01  
+**Office:** St. Katharine's Lodge B3   
+**Office Hours (Online):** Thu 13:00-14:00. Sign up for a [time here](https://goo.gl/Rh19wj)
 
 ### Description
 
 This intellectual history of late modern East Asia explores the ways social, political and religious movements, as well as the evolving ideas of key individuals in Korea, Japan, and China hoped to transform or reimagine the social and political order of their times Literary and visual sources as well as philosophical or religious texts, debates, and the political tracts of various movements will be at the core of the module and offer opportunities to explore the multiplicity of inspirations and dynamic nature of the intellectual history of the region that challenges some common depictions of the relationship between tradition and modernity, as well as assumptions about the simplistic adaptation of Western ideologies in East Asian history.
 
+\newpage
+
 ### Assessment Summary
 
-20% Blog Entries – 4 postings, min 2400 words total - 29 October, 2021 (W7, Friday)   
-50% Long Essay – 5,000 words - 6 December, 2021 (Exam Week 1, Monday)  
-30% Two Assessed Presentations with Handout, 15m each. One before W6, one after.   
+**Summative** (100% coursework)
 
-*All submissions are by MMS and due before midnight*
+- 50% [Long Essay](#longessay) (4,000 Words) **10 December, 5pm**
+- 20% [Four Reading Analysis Blog Posts](#posts) (2,500) **29 November, 5pm**
+- 15% [Essay Prospectus](#prospectus) (500 words) **1 November, 5pm**
+- 15% [Presentation](#presentation) (10 minutes)
+
+**Formative** (Required to pass the module, but no grade given) 
+ 
+- [Five Elective Reading Handouts](#handouts)
+- [Essay Outline](#outline)
+- *Optional*: [Formative Presentation](#formativepres); [Draft Prospectus](#formative)
+
 
 ### Learning Outcomes
 

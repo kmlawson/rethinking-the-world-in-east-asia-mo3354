@@ -1,20 +1,35 @@
 \pagebreak
 
-## Primary Sources on East and Southeast Asia
+# Primary Sources on East and Southeast Asia
 
-Below are a selection of potential starting points for primary sources relevant for historical research on East and Southeast Asia. Only a subset of them are relevant for this module. Many of these are available through our library electronic resources. Others you can contact me about if you are having trouble finding them. Not all of these sources are in English and I have included some sources here for use by students who are able to read Chinese, Japanese, and Korean.
+Below are a selection of potential starting points for primary sources relevant for historical research on East and Southeast Asia. Many of these are available through our library electronic resources. Others you can contact me about if you are having trouble finding them. Not all of these sources are in English and I have included some sources here for use by students who are able to read Chinese, Japanese, and Korean.
 
-### Frog in a Well Primary Source Guides
+**SCONUL**: St Andrews students may get a [SCONUL](https://www.sconul.ac.uk/page/about-sconul-access-0) card which allows them to access libraries elsewhere in Scotland, including the University of Edinburgh, which has a very extensive East Asia collection of books and resources.
+
+## Frog in a Well Primary Source Guides
 
 See these guides on Frog in a Well for many useful resources:
 
-- [Primary Sources: Modern Korean History](https://www.froginawell.net/frog/sources/primary-sources-modern-korean-history/)
-- [Primary Sources: History of Taiwan](https://www.froginawell.net/frog/sources/primary-sources-history-of-taiwan/)
-- [Primary Sources: Missionary Perspectives on China](https://www.froginawell.net/frog/primary-sources-missionary-perspectives-on-china/)
-- [Primary Sources: History of Burma](https://www.froginawell.net/frog/primary-sources-history-of-burma/)
+* [History of Modern Shanghai](https://froginawell.net/frog/primary-sources-history-of-modern-shanghai/)
+* [Missionary Perspectives on China](https://froginawell.net/frog/sources/primary-sources-missionary-perspectives-on-china/)
+* [History of Taiwan](https://www.froginawell.net/frog/sources/primary-sources-history-of-taiwan/)
+* [Modern Korean History](https://www.froginawell.net/frog/sources/primary-sources-modern-korean-history/)
+* [History of Burma](https://www.froginawell.net/frog/sources/primary-sources-history-of-burma/)
+* [History of the Philippines](https://www.froginawell.net/frog/primary-sources-history-of-the-philippines/) (under construction)
+* [History of the Malay World](https://froginawell.net/frog/primary-sources-the-malay-world/)
+* [Primary Source Nuggets](https://www.froginawell.net/frog/sources/primary-source-nuggets/)
 
-### Newspapers and Periodicals:
+## Newspapers and Periodicals:
 
+* [East Asian Newspapers and Periodicals 1850-1950](https://archive.org/details/eastasia-periodicals) - A very large collection of newspapers on the Internet Archive. Most in Chinese but also several important newspapers in Japanese, Korean, and English languages
+
+* [Southeast Asian Newspapers](https://gpa.eastview.com/crl/sean/)
+* [Late Qing and Republican-Era Chinese Newspapers](https://gpa.eastview.com/crl/lqrcn/)
+* [Korea Times 1950-2016](http://library.st-andrews.ac.uk/record=b3185646~S5)
+* [Korea Times](http://library.st-andrews.ac.uk/record=b2574600~S5) - This is for 1998 to present.
+* [Chinese Newspaper Collection](http://ezproxy.st-andrews.ac.uk/login?url=https://www.proquest.com/hnpchinesecollection?accountid=8312) 
+* [Historical Newspapers: Communist Historical Newspaper Collection](http://ezproxy.st-andrews.ac.uk/login?url=https://www.proquest.com/hnpcommunistcollection?accountid=8312)
+* [South China Morning Post 1903-1941](http://ezproxy.st-andrews.ac.uk/login?url=https://www.proquest.com/hnpsouthchinamorningpost?accountid=8312)
 * [The Times](http://find.galegroup.com/ttda/start.do?prodId=TTDA&userGroupName=stand)
 * [Japan Chronicle](http://primarysources.brillonline.com/browse/japan-chronicle)
 * [19th Century British Newspapers](http://find.galegroup.com/bncn/start.do?prodId=BNCN&userGroupName=stand)
@@ -24,7 +39,7 @@ See these guides on Frog in a Well for many useful resources:
 * [Historic American Newspapers](http://chroniclingamerica.loc.gov/)
 * [Irish Times](http://search.proquest.com/hnpirishtimes?accountid=8312)
 * [Los Angeles Times](http://search.proquest.com/hnplatimes?accountid=8312)
-* [North China Herald](http://primarysources.brillonline.com/browse/north-china-herald-online)
+* [North China Herald](http://primarysources.brillonline.com/browse/north-china-herald-online) - Also see Internet Archive
 * [Guardian & Observer](http://search.proquest.com/hnpguardianobserver?accountid=8312)
 * [Periodical Archives Online](http://search.proquest.com/pao/socialsciences/fromBasicHomePage?accountid=8312)
 * [Times of India](http://search.proquest.com/hnptimesofindia/news/fromDatabasesLayer?accountid=8312)
@@ -41,10 +56,10 @@ See these guides on Frog in a Well for many useful resources:
 * [Singapore Newspaper Archive 1831-2009](http://eresources.nlb.gov.sg/newspapers/)
     * Large collection of newspapers, but not all viewable off site.
     * [Syonan Shimbun](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=syonantimes&tvw=DG#browseStart) (1942-1945), [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=straitstimes) (1845-2018), [*Malaya Tribune*](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=maltribune) (1914-1951), [*The Singapore Free Pressand Mercantile Advertiser*](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=singfreepressb) (1884-1942), *The Singapore Free Press*, [*Morning Tribune*](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=morningtribune) (1936-1949), [南洋商报](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=nysp) (1923-1983), [*Indian Daily Mail*](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=indiandailymail) (1946-1956), [*The Daily Advertiser*](http://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=dailyadvertiser) (1890-1894)  
-* [XXth Century 1941-1945](http://library.manoa.hawaii.edu/departments/russian/xxth.php)
+* [XXth Century 1941-1945](https://manoa.hawaii.edu/library/research/collections/russia/russian-northeast-asia-collection/the-xxth-century-shanghai-1941-1945-a-guide/)
     * unusual magazine from Japanese occupied Shanghai
 * [Australian Historical Newspaper Archive](http://trove.nla.gov.au/newspaper)
-* [明六雑誌 1874-5](http://db3.ninjal.ac.jp/ninjaldl/bunken.php?title=meirokuzassi) 
+* [明六雑誌 1874-5](http://db3.ninjal.ac.jp/ninjaldl/bunken.php?title=meirokuzassi)
     * Digitized version of the famous Meiji period journal (Japanese)
 * [国民之友 1887-8](http://dglb01.ninjal.ac.jp/ninjaldl/bunken.php?title=kokuminnotomo)
 * [満州技術協会誌](http://www.aij.or.jp/da1/senzen/senzen.html)
@@ -60,16 +75,18 @@ See these guides on Frog in a Well for many useful resources:
     * Digital collection of historical journals and other materials related to women's university education in Japan. (Japanese)
 * [Puka Puka Parade](http://evols.library.manoa.hawaii.edu/handle/10524/11835)
     * Post 1945 Newsletter of 100th Infantry Battalion of Japanese-American veterans
-* [Japan Times 1998-](http://www.nexis.com/api/version1/sf?sfi=GB00NBGenSrch&csi=169018&shr=t) 
+* [Japan Times 1998-](http://www.nexis.com/api/version1/sf?sfi=GB00NBGenSrch&csi=169018&shr=t)
 * [Press Translations, Japan 1945-1946](http://www.dartmouth.edu/~library/digital/collections/manuscripts/jpt/index.html?mswitch-redir=classic)
 * [Kobe University Newspaper Clippings Archive (Japanese)](http://www.lib.kobe-u.ac.jp/sinbun/e-index.html)
 * [Hsinhua News Agency 1977-Present (Nexis UK)](http://library.st-andrews.ac.uk/record=b1670850~S5)
 
-### Government Documents
+## Government Documents
 
 * [Wilson Center Digital Archive](http://digitalarchive.wilsoncenter.org/)
     * Massive collection of Cold War period documents, many of them translated and transcribed
 * [Wilson Center Chinese Foreign Policy Database](http://digitalarchive.wilsoncenter.org/theme/chinese-foreign-policy-database)
+* [Foreign Office Files for China 1919-1980](http://ezproxy.st-andrews.ac.uk/login?url=http://www.archivesdirect.amdigital.co.uk//FO_China)
+* [Foreign Office Files for Japan 1919-1952](http://ezproxy.st-andrews.ac.uk/login?url=http://www.archivesdirect.amdigital.co.uk/FO_Japan)
 * [British Documents on the End of Empire](http://bdeep.org/)
 * [Cabinet Papers 1915-1984](http://www.nationalarchives.gov.uk/cabinetpapers/)
 * [Parliamentary Papers](http://parlipapers.chadwyck.co.uk/home.do)
@@ -99,7 +116,7 @@ See these guides on Frog in a Well for many useful resources:
     * Missionary Correspondence and Journals
 * *Annual Report of the Minister of State for Education* - Japanese education ministry reports volumes often on Archive.org
 * *Japan in the Beginning of the 20th Century* - Government reports available in several volumes on Archive.org
-* *An Official Guide to Eastern Asia* - Japanese railroads office produced guides going back to early 20th century. Volumes available on Archive.org
+* *An Official Guide to Eastern Asia* - Five volumes. Japanese railroads office produced guides going back to early 20th century. Volumes available on Archive.org
 * *Annual report on reforms and progress in Chosen* - Japanese colonial reports on Korea 1911-1923. Search for this title on [HeinOnline](https://heinonline.org/HOL/Index?collection=cow), some years available on Archive.org.
 * *Annual Reports to the League of Nations on the Administration of the South Sea Islands under Japanese Mandate* - Japanese reports to the League on its rule over former German controlled territories in the Pacific. Many volumes of these reports available on Archive.org but the titles are not accurately produced, search for Annual Reports, League, Micronesia, etc. to get more hits.
 * Burma, *The Struggle for Independence, 1944-1948: Documents from Official and Private Sources*
@@ -109,7 +126,7 @@ See these guides on Frog in a Well for many useful resources:
 * *The Transfer of Power 1942-7*
     * Many British documents on India from this time
 
-### Missionary Reports and Publications
+## Missionary Reports and Publications
 
 * *Chinese Recorder and Missionary Journal* - Many issues available at Archive.org
 * [Missionary Research Library pamphlets](https://archive.org/details/columbiamrlpamphlets) Columbia University - digitized pamphlets available on Archive.org with many East Asia related pamphlets
@@ -119,7 +136,7 @@ See these guides on Frog in a Well for many useful resources:
 * *Presbyterian Church of England : report of the Foreign Missions China, Formosa, the Straits Settlements, and India* - Many volumes on Archive.org
 * [*China and Formosa : the story of the Presbyterian Church of England*](https://archive.org/details/chinaformosastor00john) (1897)
 
-### Memoirs, Diaries, Digitised Books etc.
+## Memoirs, Diaries, Digitised Books etc.
 
 * [Archive.org](http://archive.org/) - Huge and fantastic resource for published works before 1920s
 * [Google Books](https://books.google.com/) - If there is only snippet view on old works, try archive.org
@@ -133,7 +150,7 @@ See these guides on Frog in a Well for many useful resources:
     * http://digitalcollections.qub.ac.uk/site/hart-diaries/diaries/show_vol.php?v=31
     * http://gis.rchss.sinica.edu.tw/cmcs/collections-at-academia-sinica/the-diaries-of-sir-robert-hart
     * http://cdm15979.contentdm.oclc.org/cdm/landingpage/collection/p15979coll2
-* [Joseph Berry Keenan Digital Collection](http://www.law.harvard.edu/library/digital/keenan-digital-collection.html) - Important primary sources from war crimes trials and early postwar Japan. 
+* [Joseph Berry Keenan Digital Collection](http://www.law.harvard.edu/library/digital/keenan-digital-collection.html) - Important primary sources from war crimes trials and early postwar Japan.
 * [Ming Qing Women's Writings](http://digital.library.mcgill.ca/mingqing/chinese/)
     * Digitised Chinese works by women from Ming and Qing dynasties (Chinese)
 * [National Taiwan University Open Access Books](http://ebooks.lib.ntu.edu.tw/Home/ListBooks) (Chinese)
@@ -145,7 +162,7 @@ See these guides on Frog in a Well for many useful resources:
     * National Library of France has digitised a huge amount of materials, including a wide range of materials, memoirs, books, images, related to East Asia and Indochina.
 
 
-### Propaganda, Posters, and Pamphlets
+## Propaganda, Posters, and Pamphlets
 
 * [Chinese Propaganda Poster Collection](http://chineseposters.net/index.php)
 * [Chinese Pamphlets](http://ecollections.crl.edu/cdm4/index_hunters.php?CISOROOT=/hunters)
@@ -156,7 +173,7 @@ See these guides on Frog in a Well for many useful resources:
     * [American Propaganda in Japan](http://cdm16099.contentdm.oclc.org/cdm/landingpage/collection/p16099coll2)
     * [Japanese Propaganda in the Philippines](http://cdm16099.contentdm.oclc.org/cdm/landingpage/collection/p16099coll3)
 
-### Photographs, Postcards, Films
+## Photographs, Postcards, Films
 
 * [Showa Period Photo Archive from Shashin Shūhō 1938-1944](http://www.jacar.go.jp/shuhou/home.html)(Japanese)
 * [National Archives UK on Flickr](https://www.flickr.com/photos/nationalarchives/)
@@ -197,13 +214,13 @@ See these guides on Frog in a Well for many useful resources:
     * Includes full length Korean historical movies from earlier decades
     * see more at http://www.kmdb.or.kr/
 
-### Recordings and Sound
+## Recordings and Sound
 
 * [1900-1950 Japanese Sound Archive (Japanese)](http://rekion.dl.ndl.go.jp/)
 * [NHK Japanese Oral History Testimony Archive (Japanese)](http://www.nhk.or.jp/shogenarchives/)
     * Also contains historical news clips and other footage
 
-### Maps and GIS
+## Maps and GIS
 
 * [David Rumsey Map Library](http://www.davidrumsey.com/)
 * [Japanese Historical Maps - David Rumsey](http://www.davidrumsey.com/japan/)
@@ -226,14 +243,14 @@ See these guides on Frog in a Well for many useful resources:
     * can download shapefiles for creating historical maps of China
 * [Collection of Colonial Period Maps of Taipei](http://gis.rchss.sinica.edu.tw/mapdap/?p=5652) and [more maps from Academia Sinica Map Club](http://gis.rchss.sinica.edu.tw/mapdap/?cat=20&lang=en)
 
-### Old Books Related to East and Southeast Asian Region
+## Old Books Related to East and Southeast Asian Region
 
 * [*The War in the East*](http://www.gutenberg.org/ebooks/55608) by Trumbull White (1895)
 * [*Travels in the Far East*](http://www.gutenberg.org/ebooks/24971) by Ellen Mary Hayes Peck (1909)
 
-### Other
+## Other
 
-* [Voices of Civil Internment: WWII Singapore](https://cudl.lib.cam.ac.uk/collections/civilianinternment) - The Royal Commonwealth Society Collection at Cambridge University Library has digitised the archives of two Second World War civilian internment camps 
+* [Voices of Civil Internment: WWII Singapore](https://cudl.lib.cam.ac.uk/collections/civilianinternment) - The Royal Commonwealth Society Collection at Cambridge University Library has digitised the archives of two Second World War civilian internment camps
 * [Public Library of India](https://archive.org/details/digitallibraryindia) - Archive.org hosted collection of scanned materials, includes many scanned books related to East Asia
 * [Digital Bodleian](http://digital.bodleian.ox.ac.uk/)
 * [Atlas of Mutual Heritage](http://www.atlasofmutualheritage.nl/en/)
@@ -242,7 +259,7 @@ See these guides on Frog in a Well for many useful resources:
 * [Digital Vatican Library](http://digi.vatlib.it/)
 * [California Digital Library](https://archive.org/details/cdl) - Many scanned historical works related to East Asia, hosted by Archive.org.
 
-#### Japan
+## Japan
 
 * [Selection of Scanned Open Access Harvard-Yenching Books from Japan on Google Books](http://books.google.com/books?uid=112335248006826328631&as_coll=1001&hl=ja&source=gbs_lp_bookshelf_list)
 * [Japan Air Raids Bilingual Historical Archive](http://www.japanairraids.org/)
@@ -288,6 +305,7 @@ See these guides on Frog in a Well for many useful resources:
 * [*My Japanese Wife*](http://www.gutenberg.org/ebooks/57167) by Clive Holland (1895)
 * [*The Gist of Japan: The Islands, Their People, and Missions*](http://www.gutenberg.org/ebooks/42304) by R. B. Peery
 * [*Japanese Girls and Women*](http://www.gutenberg.org/ebooks/32449) by Alice Mabel Bacon (1891)
+* [*Things Japanese: Being Notes on Various Subjects Connected with Japan for the Use of Travellers and Others*](https://archive.org/details/in.ernet.dli.2015.100137) by Basil Hall Chamberlain (1902)
 * [*Kobo: A Story of the Russo-Japanese War*](http://www.gutenberg.org/ebooks/44316) by Herbert Strang (1905)
 * [*A Journal from Japan: A Daily Record of Life as Seen by a Scientist*](http://www.gutenberg.org/ebooks/44475) by Marie Stopes (1910)
 * [*The Shinto Cult: A Christian Study of the Ancient Religion of Japan*](http://www.gutenberg.org/ebooks/42747) by Milton Terry (1910)
@@ -298,8 +316,11 @@ See these guides on Frog in a Well for many useful resources:
 * This is a wonderful series of volumes in our library containing books on Japan, thus serving as contemporary primary sources of a sort, and a separate series of books with pamphlets and press articles from 1906-1948:
     * O’Connor, Peter, ed. *Critical Readings on Japan, 1906-1948: Countering Japan’s Agenda in East Asia. Series 1, Books* ; a Collection in Ten Volumes. Folkestone, Kent : Tokyo, Japan: Global Orient ; Edition Synapse, 2008.
     * O’Connor, Peter, ed. *Critical Readings on Japan, 1906-1948: Countering Japan’s Agenda and the Communist Menace in East Asia. Series 2, Pamphlets and Press*: A Collection in 10 Volumes. Folkestone, Kent : Tokyo: Global Oriental ; Edition Synapse, 2011.
+* [Pocket Guide to Japan (1926)](https://ndlonline.ndl.go.jp/#!/detail/R300000001-I000007403832-00)
+* [Pocket Guide to Japan (1935)](https://archive.org/details/in.ernet.dli.2015.142604)
 
-#### Korea
+
+## Korea
 
 * [Korean National Archives (Korean)](http://www.archives.go.kr/next/viewMain.do)
     * some documents can only be viewed within Korean libraries
@@ -322,8 +343,9 @@ See these guides on Frog in a Well for many useful resources:
 * [*Our Little Korean Cousin*](http://www.gutenberg.org/ebooks/12048) by H. Lee M. Pike (1905)
 * [*Korea's Fight for Freedom*](http://www.gutenberg.org/ebooks/13368) by Fred A. McKenzie (1920)
 * [*Quaint Korea*](http://www.gutenberg.org/ebooks/56623) by Louise Jordan Miln (1895)
+* [*The Case of Korea: A Collection of Evidence on the Japanese Domination of Korea*](https://archive.org/details/caseofkoreacolle00chun) by Henry Chung (1921)
 
-#### Taiwan
+## Taiwan
 
 * [Taiwan Postwar National Historical Archive (Chinese)](http://nhd.drnh.gov.tw/AHDPortal/index.jsp)
 * [National Taiwan University Digital Projects Home (Chinese)](http://www.digital.ntu.edu.tw/en/achievements.jsp)
@@ -339,21 +361,23 @@ See these guides on Frog in a Well for many useful resources:
     * historical records related to NTU
     * chief prosecutor in the Tokyo war crimes trials
 * [*Japanese Rule in Formosa*](https://archive.org/details/in.ernet.dli.2015.180113) by Yosaburo Takekoshi (1907)
-* *From far Formosa the island: The island, its people and missions*](https://archive.org/details/fromfarformosai00macdgoog) George Mackay (1896)
+* [*From far Formosa the island: The island, its people and missions*](https://archive.org/details/fromfarformosai00macdgoog) George Mackay (1896)
 * [*Glimpses of Japan and Formosa*](https://archive.org/details/in.ernet.dli.2015.167601) by Harry A. Franck
 * [*The island of Formosa : historical view from 1430 to 1900: history, people, resources and commercial prospects*](https://hdl.handle.net/2027/uc1.c106632912) James Davidson (1903)
 * [*The Statistical Summary of Taiwan*](https://archive.org/details/cu31924023931680) Japanese Government General in Japan.
 * [*Sketches from Formosa*](https://archive.org/details/sketchesfromtaiw00camprich) by W. Campbell (1915)
 * [*Among the head-hunters of Formosa*](https://archive.org/details/amongtheheadhunt53746gut) by Janet McGovern (1922) - raw text on [Project Gutenberg](http://www.gutenberg.org/ebooks/53746)
 * [*The call of the East; a romance of far Formosa*](https://babel.hathitrust.org/cgi/pt?id=nyp.33433074854641;view=1up;seq=11) by James Davidson (1902) also on [PG](http://www.gutenberg.org/ebooks/45061)
- by Thurlow Fraser 
+ by Thurlow Fraser
 * *Formosa Today: An Analysis of the Economic Development and Strategic Importance of Japan's Tropical Colony* Andrew J. Grajdanzev (1943)
 * *Fireproof moth : a missionary in Taiwan's white terror* (in library)
 * [The heathen heart : an account of the reception of the gospel among the Chinese of Formosa](https://babel.hathitrust.org/cgi/pt?id=mdp.39015024219779) by Campbell N. Moody (1907)
 * [*The Black-Bearded Barbarian : The Life of George Leslie Mackay of Formosa*](http://www.gutenberg.org/ebooks/1759) (1912)
 
-#### China
+## China
 
+* [Chinese Cultural Revolution Database](http://ezproxy.st-andrews.ac.uk/login?url=http://ccrd.usc.cuhk.edu.hk/)
+* [Chinese Anti-Rightist Campaign Database](http://ezproxy.st-andrews.ac.uk/login?url=http://ccrd.usc.cuhk.edu.hk/)
 * [Chinese maritime digitization project](http://lms01.harvard.edu/F/V56MPVPFVL95L9E7PM2EHV8B8D6IJBVHCHMFDRMTGEPK18E5GS-00588?func=find-acc&amp=&acc_sequence=083196078&pds_handle=GUEST)
 * [Bibliothèque Numérique Asiatique / Asian Digital Library](http://www.bnasie.eu/) - many digitized materials from Asia, especially China
     * [Shanghai Municipal Council Minutes](http://www.bnasie.eu/BN/Periodiques)
@@ -387,14 +411,14 @@ See these guides on Frog in a Well for many useful resources:
 * Kuo Sung-t’ao, Liu Hsi-hung, Chang Te-yi, and John David Frodsham, eds. *The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi*. Oxford: Clarendon Press, 1974.
 * The works of Mao Zedong: When citing his writings avoid the occasionally problematic [online marxists.org version](https://www.marxists.org/chinese/maozedong/index.htm) and use the series collection of his works found in the library: Mao, Tse-tung, and Stuart R. Schram. *Mao’s Road to Power:  Revolutionary Writings, 1912-1949* Armonk NY: M.E. Sharpe, 1992.
 
-#### Hong Kong
+## Hong Kong
 
 * [Hong Kong Government Reports Online 1842-1941](http://sunzi1.lib.hku.hk/hkgro/index.jsp)
 * [Hong Kong and the West Until 1860](http://digital.lib.hku.hk/hkwest/) - database of historical sources, over 400 volumes and hundreds of images.
 * [Hong Kong Image Database](http://digital.lib.hku.hk/hkimage/)
 * [Hong Kong's War Crimes Trials Collection](http://hkwctc.lib.hku.hk/exhibits/show/hkwctc/home)
 
-#### Southeast Asia
+## Southeast Asia
 
 * [*The Former Philippines thru Foreign Eyes*](http://www.gutenberg.org/ebooks/10770) by Comyn, Jagor, Virchow, and Wilkes (1912)
 * [Inside Indonesia](http://nla.gov.au/nla.obj-88227234) - bulletin of the Indonesia Resources and Information Programme, Australia, 1983-2007
@@ -419,28 +443,20 @@ See these guides on Frog in a Well for many useful resources:
     * [Colonial Era Sources on Southeast Asia](https://asia.library.cornell.edu/collections/echols/research-guides/colonial-era-resources)
     * [Travel Literature on Southeast Asia](https://asia.library.cornell.edu/collections/echols/research-guides/travel-literature)
 
-### See Me
+## See Me
 
-* Some of these databases may be accessible in Edinburgh or elsewhere. Please see me for more information:
+* Some of these databases may be accessible in Edinburgh or elsewhere. Please see me for more information - I may have suggestions or have copies of some other collections, including:
 
 * Shanghai Municipal Police Archives
 * US State Department Records on Japan
 * US Intelligence Files on East Asia (mostly post-WWII)
 * Chinese Recorder and Missionary Journal - missionary journal from China
 
-* 申報 (Chinese newspaper Shanghai)
-* 人民日报 (Communist newspaper)
-* 台湾日日新聞 (Taiwanese colonial newspaper in Japanese)
-* 京城日報 (Korean colonial newspaper in Japanese)
-* 朝鮮日報 (Korean newspaper)
-* 東亞日報 (Korean newspaper)
-* 民報 (Taiwan newspaper, early postwar)
-
-### Some Key Secondary Source Databases
+## Some Key Secondary Source Databases
 
 * [CiNii Japanese Article Database](http://ci.nii.ac.jp/) - the "Google Scholar" of Japan. Often has links to PDFs of Japanese language scholarship
 
-### Some Good LibGuides and Link Collections for East Asia Related Sources
+## Some Good LibGuides and Link Collections for East Asia Related Sources
 
 * These will include links to many resources available only to students of that university
 * [Harvard Korea Research Guide](http://guides.library.harvard.edu/c.php?g=310159)
@@ -457,4 +473,3 @@ See these guides on Frog in a Well for many useful resources:
 
 
 * Please get in touch if you find that this list contains any dead links, or you wish to suggest an addition
-
