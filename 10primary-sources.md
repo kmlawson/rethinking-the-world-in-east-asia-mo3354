@@ -4,7 +4,7 @@
 
 Below are a selection of potential starting points for primary sources relevant for historical research on East and Southeast Asia. Many of these are available through our library electronic resources. Others you can contact me about if you are having trouble finding them. Not all of these sources are in English and I have included some sources here for use by students who are able to read Chinese, Japanese, and Korean.
 
-**SCONUL**: St Andrews students may get a [SCONUL](https://www.sconul.ac.uk/page/about-sconul-access-0) card which allows them to access libraries elsewhere in Scotland, including the University of Edinburgh, which has a very extensive East Asia collection of books and resources.
+**SCONUL**: St Andrews students may get a [SCONUL](https://www.st-andrews.ac.uk/library/using-library/other-libraries/) card which allows them to access libraries elsewhere in Scotland, including the University of Edinburgh, which has a very extensive East Asia collection of books and resources.
 
 ## Frog in a Well Primary Source Guides
 
