@@ -6,7 +6,7 @@
 
 Abbreviations for readings:
 
-* GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present* (short loan)
+* GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present* (In Library)
 * SOURCES JAPAN 1 *Sources of Japanese Tradition: From Earliest Times to 1600* ([Ebook](https://library.st-andrews.ac.uk/record=b2381788~S5))
 * SOURCES JAPAN 2: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* ([Ebook](https://library.st-andrews.ac.uk/record=b2198917~S5))
 * SOURCES CHINA 1: *Sources of Chinese Tradition: Volume 1* 
@@ -390,7 +390,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 **B) Development of Chinese Anarchism**
 
-- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 2, 4, 5 (short loan) (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064591~S5)
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 2, 4, 5 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064591~S5)
 
 
 **C) Anarchist Cooperatism**
@@ -489,7 +489,7 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 **F) Shifting Interpretations**
 
-- Judge, Joan. *The Precious Raft of History: The Past, the West, and the Woman Question in China*. Stanford, Calif.: Stanford University Press, 2008. Ch 4-6 (short loan)
+- Judge, Joan. *The Precious Raft of History: The Past, the West, and the Woman Question in China*. Stanford, Calif.: Stanford University Press, 2008. Ch 4-6 (In Library)
 	- C19: No library scan, see Konrad
 
 **G) In the Event of Women**
