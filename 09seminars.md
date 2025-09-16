@@ -6,13 +6,13 @@
 
 Abbreviations for readings:
 
-* GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present* (In Library)
-* SOURCES JAPAN 1 *Sources of Japanese Tradition: From Earliest Times to 1600* ([Ebook](https://library.st-andrews.ac.uk/record=b2381788~S5))
-* SOURCES JAPAN 2: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* ([Ebook](https://library.st-andrews.ac.uk/record=b2198917~S5))
-* SOURCES CHINA 1: *Sources of Chinese Tradition: Volume 1* 
+* GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991017261495908966))
+* SOURCES JAPAN 1 *Sources of Japanese Tradition: From Earliest Times to 1600* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991015919349708966))
+* SOURCES JAPAN 2: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017085429608966))
+* SOURCES CHINA 1: *Sources of Chinese Tradition: Volume 1* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/11j7ek/cdi_nii_cinii_1130000795433192576))
 * SOURCES CHINA 2: *Sources of Chinese Tradition: Volume 2* ([Ebook](https://library.st-andrews.ac.uk/record=b2005711~S5))
-* SOURCES KOREA 2: *Sources of Korean Tradition: Volume 2* 
-* HEISIG: Heisig, James W., Thomas P. Kasulis, and John C. Maraldo, eds. *Japanese Philosophy: A Sourcebook*. 2011. [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
+* SOURCES KOREA 2: *Sources of Korean Tradition: Volume 2* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991010308879708966)) 
+* HEISIG: Heisig, James W., Thomas P. Kasulis, and John C. Maraldo, eds. *Japanese Philosophy: A Sourcebook*. 2011. ()[Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014902239708966))
 
 F = optional further reading  
 P = Text is a candidate for presentations
@@ -30,12 +30,12 @@ P = Text is a candidate for presentations
 
 ### Required Reading
 
-- *The Foundations of Buddhism* by Rubert Gethin (77 pp) [Ebook](https://library.st-andrews.ac.uk/record=b3064583~S5)
+- *The Foundations of Buddhism* by Rubert Gethin (77 pp) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/11j7ek/cdi_askewsholts_vlebooks_9780191606717)
 	- Ch 2 The Word of the Buddha pp35-58
 	- Ch 3 Four Truths pp59-84
 	- Ch 9 The Mahāyāna pp224-252
 
-- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp) [Ebook](https://library.st-andrews.ac.uk/record=b3043301~S5)
+- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014063589708966)
 	- p15-36 (from Ch 2.I Religious Foundations of Late Imperial China)
 	- p53-66 (from Ch 3.I Religious Foundations of Medieval Japan)
 
@@ -45,17 +45,17 @@ Each week you will be *required* to do additional reading but have a choice from
 
 Choose one of these categories: A (Pure Land) OR B (Nichiren) OR C (Ch’an/Zen) and read only the material labelled with your category from each text.
 
-- SOURCES JAPAN 1 [Ebook](https://library.st-andrews.ac.uk/record=b2381788~S5)
+- SOURCES JAPAN 1 [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991015919349708966)
 	- (A) III.10 Amida, the Pure Land, and the Response of the Old Buddhism to the New p211-231
 	- (B) III.13 Nichiren: The Sun and the Lotus 292-306
 	- (C) III.14 Zen Buddhism 306-335
-- *Japanese Philosophy: A Sourcebook* [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
+- *Japanese Philosophy: A Sourcebook* [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014902239708966)
 	- (A) Hōnen; Shinran pp235-262
 	- (B) Nichiren: Buddhist Views on Current Issues pp86-91
 	- (C) Dōgen pp141-162
-- SOURCES CHINA 1: (Teams)
+- SOURCES CHINA 1: 
 	- (A) The Pure Land School pp334-345 (1st ed)
-	- (B) Interpreting the Lotus Sutra pp1-60 + pp195-205 [Ebook]( https://library.st-andrews.ac.uk/record=b3109344~S5)
+	- (B) Interpreting the Lotus Sutra pp1-60 + pp195-205 
 	- (C) The Meditation School pp346-368 (1st ed)
 - *Readings of the Lotus Sutra*: 
 
@@ -68,7 +68,7 @@ IMPORTANT: You are not required to do any particular further reading on any give
 - *The Foundations of Buddhism* by Rubert Gethin Ch 4 The Buddhist Community; Ch 5 The Buddhist Cosmos; Ch 6 No Self; Ch 10 The Evolving Traditions of Buddhism
 - Joachim Gentz, *Understanding Chinese Religions* (Dunedin Academic Press, 2013), Ch 6 Chinese Buddhism.
 - "Buddhism in China" in *Encyclopedia of Chinese Philosophy*
-- Keown, Damien. *Buddhism: A Very Short Introduction*. 2 edition. Oxford: Oxford University Press, 2013.
+- Keown, Damien. *Buddhism: A Very Short Introduction*. 2 edition. Oxford: Oxford University Press, 2013. [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017085185808966)
 - Mario Poceski, *Introducing Chinese Religions* (Routledge, 2009), Ch 5-6.
 
 **Primary Sources**
@@ -168,8 +168,8 @@ IMPORTANT: You are not required to do any particular further reading on any give
 These readings will give you some basic exposure to the Analects, and Mengzi
 
 - Consider watching this [introductory video](https://ed.ted.com/lessons/who-was-confucius-bryan-w-van-norden) by Bryan W. Van Norden on Confucius.
-* Bryan W. Van Norden *Introduction to Classical Chinese Philosophy*, pp10-31 (Ch 1 III The Period of the Philosophers, Ch 2), and from Ch 6 Mengzi and Human Nature read only sections 1A1, 1A7, 2A6, 3A3, 6A1-3 [Ebook](https://library.st-andrews.ac.uk/record=b3064595~S5)
-* Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp1-25 (from Ch 1 The Analects), pp116-151 (Ch 3 Mengzi) [Ebook](https://library.st-andrews.ac.uk/record=b3064596~S5)
+* Bryan W. Van Norden *Introduction to Classical Chinese Philosophy*, pp10-31 (Ch 1 III The Period of the Philosophers, Ch 2), and from Ch 6 Mengzi and Human Nature read only sections 1A1, 1A7, 2A6, 3A3, 6A1-3 [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017086820608966)
+* Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp1-25 (from Ch 1 The Analects), pp116-151 (Ch 3 Mengzi) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014902889708966)
 
 ### Elective Reading
 
@@ -177,7 +177,7 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 **A) Gender and Confucianism**
 
-* Ko, Dorothy, JaHyun Kim Haboush, and Joan R. Piggott. *Women and Confucian Cultures in Premodern China, Korea, and Japan*. [Ebook](https://library.st-andrews.ac.uk/record=b2897197~S5) (P)
+* Ko, Dorothy, JaHyun Kim Haboush, and Joan R. Piggott. *Women and Confucian Cultures in Premodern China, Korea, and Japan*. [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991013017269708966) (P)
 	* Choose one from Ch 4, 5, or 6
 	* Choose one from Ch 8, 9
 
@@ -225,13 +225,13 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 **C) Confucianism in Japan**
 
-- SOURCES JAPAN 2 - "Ogyū Sorai and the Return to the Classics," comprising several texts in Ch 24 [Ebook](https://library.st-andrews.ac.uk/record=b2198917~S5)
-- Thomas P. Kasulis *Engaging Japanese Philosophy: A Short History* (2018), Ch 9 Ogyū Sorai (1666-1728), pp346-370 [Ebook](https://library.st-andrews.ac.uk/record=b3157755~S5)
+- SOURCES JAPAN 2 - "Ogyū Sorai and the Return to the Classics," comprising several texts in Ch 24 
+- Thomas P. Kasulis *Engaging Japanese Philosophy: A Short History* (2018), Ch 9 Ogyū Sorai (1666-1728), pp346-370 [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991002004399708966)
 
 *Further Reading*
 
 - HEISIG: Confucian Traditions section
-- Olof G. Lidin "Ogyū Sorai: Confucian Conservative Reformer: From Journey to Kai to Discourse on Government" in Huang, Chun-chieh, John Allen Tucker, and SpringerLink (Online service), eds. *Dao Companion to Japanese Confucian Philosophy*. Dao Companions to Chinese Philosophy 5. Heidelberg: Springer, 2014, pp165-192 ([ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2102172)) (P)
+- Olof G. Lidin "Ogyū Sorai: Confucian Conservative Reformer: From Journey to Kai to Discourse on Government" in Huang, Chun-chieh, John Allen Tucker, and SpringerLink (Online service), eds. *Dao Companion to Japanese Confucian Philosophy*. Dao Companions to Chinese Philosophy 5. Heidelberg: Springer, 2014, pp165-192 
 - Ansart, Olivier. “Making Sense of Sorai: How to Deal with the Contradictions in Ogyū Sorai’s Political Theory.” *Asian Philosophy* 19, no. 1 (March 1, 2009): 11–30.
 - Ogyū, Sorai. *Tokugawa Political Writings.* Cambridge University Press, 1998.
 - Ogyū Sorai, *Discourse on Government (Seidan): An Annotated Translation*, trans. Olof G. Lidin (Weisbaden: Harrossowitz Verlag, 1999) (P)
@@ -249,8 +249,8 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 **D) Neo-Confucianism**
 
-- Gardner, Daniel K. *Four Books: The Basic Teachings of the Later Confucian Tradition*. Indianapolis: Hackett Publishing Co, Inc, 2006. (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064601~S5) Introduction + Conclusion
-- (P) Bol, Peter K. *Neo-Confucianism in History*. Reprint edition. Cambridge, Mass.; London: Harvard University Press, 2010. Ch 4, pp 128-152, Ch 6 Belief, pp  194-217 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064581~S5)
+- Gardner, Daniel K. *Four Books: The Basic Teachings of the Later Confucian Tradition*. Indianapolis: Hackett Publishing Co, Inc, 2006. (P) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991017086649108966) Introduction + Conclusion
+- (P) Bol, Peter K. *Neo-Confucianism in History*. Reprint edition. Cambridge, Mass.; London: Harvard University Press, 2010. Ch 4, pp 128-152, Ch 6 Belief, pp  194-217 (P) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991014902199708966)
 
 *Further Reading*
 
@@ -276,8 +276,8 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 **E) Xunzi**
 
-- Bryan Van Norden *Introduction to classical Chinese Philosophy* (2011), Ch 10 Xunzi's Confucian Naturalism, pp164-183. [Ebook](https://library.st-andrews.ac.uk/record=b3064595~S5)
-- Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp298-310 (from Ch 6 Xunzi) [Ebook](https://library.st-andrews.ac.uk/record=b3064596~S5)
+- Bryan Van Norden *Introduction to classical Chinese Philosophy* (2011), Ch 10 Xunzi's Confucian Naturalism, pp164-183. [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017086820608966)
+- Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp298-310 (from Ch 6 Xunzi) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991014902889708966)
 
 ### Reference
 

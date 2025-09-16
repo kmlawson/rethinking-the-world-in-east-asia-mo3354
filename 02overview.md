@@ -24,15 +24,15 @@ The universal and the particular in Japan’s most influential philosophical sch
 10.	[**Confucian Renewals**](#renewals)   
 The development of new Confucianism in a variety of forms focusing on China and Korea
 11.	[**Imagining Alternate Futures**](#imagining)  
-Utopian visions of Kita Ikki and Kagawa Toyohiko; alternative futures in Japanese and Chinese science fiction
+Alternative futures in Japanese and Chinese science fiction
 
 ### Key Details
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Fall, 2024 - Thu 11:00-13:00  
+**Meets:** Fall, 2025 - Thu 15:00-17:00  
 **Location:** St. Katharine's Lodge 0.01  
 **Office:** St. Katharine's Lodge B3   
-**Office Hours (Online):** Thu 13:00-14:00. Sign up for a [time here](https://goo.gl/Rh19wj)
+**Office Hours (Online):** Sign up for a [time here](https://goo.gl/Rh19wj)
 
 ### Description
 
@@ -44,16 +44,16 @@ This intellectual history of late modern East Asia explores the ways social, pol
 
 **Summative** (100% coursework)
 
-- 50% [Long Essay](#longessay) (4,000 Words) **10 December, 5pm**
-- 20% [Four Reading Analysis Blog Posts](#posts) (2,500) **29 November, 5pm**
-- 15% [Essay Prospectus](#prospectus) (500 words) **1 November, 5pm**
-- 15% [Presentation](#presentation) (10 minutes)
+- 60% [Long Essay](#longessay) (4,000 Words) **8 December, 5pm**
+- 20% [Four Reading Analysis Blog Posts](#posts) (2,500) **21 November, 5pm**
+- 20% [Presentation](#presentation) (10 minutes)
 
 **Formative** (Required to pass the module, but no grade given) 
  
+- [Essay Prospectus](#prospectus) (500 words) **27 October, 5pm**
 - [Five Elective Reading Handouts](#handouts)
 - [Essay Outline](#outline)
-- *Optional*: [Formative Presentation](#formativepres); [Draft Prospectus](#formative)
+- *Optional*: [Formative Presentation](#formativepres)
 
 
 ### Learning Outcomes

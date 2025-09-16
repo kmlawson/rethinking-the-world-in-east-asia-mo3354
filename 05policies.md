@@ -8,9 +8,19 @@ The marking scale can be found here:
 
 [https://www.st-andrews.ac.uk/history/students/ug/assessment/](https://www.st-andrews.ac.uk/history/students/ug/assessment/)
 
+**Undergraduate Student Handbook**
+
+Many school policies and recommendations for undergraduate students may be found in the school handbook, which is available here:
+
+[https://www.st-andrews.ac.uk/history/students/ug/](https://www.st-andrews.ac.uk/history/students/ug/)
+
 **Extensions**
 
-**Prior** permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control.
+**Prior** permissions for late submission of work ("Extensions") to make fair allowance for adverse circumstances affecting a student's ability to submit the work on time will be considered on a case by case basis. Normally such permissions will only be granted for circumstances that are both unforeseen and beyond the student's control. Extensions of up to three days may be requested via the use of this School of History form and evaluated by the school administration:
+
+[https://forms.office.com/e/F6zY0rL8Qt](https://forms.office.com/e/F6zY0rL8Qt)
+
+Extensions of a longer period due to extraordinary circumstances will be evaluated by the module coordinator and may need approval from the Director of Teaching.
 
 **Word Limits and Late Work**
 
@@ -27,6 +37,9 @@ The official School of Histories penalties for late work and short/long work are
 Please see this page for more on our attendance policy:
 
 [https://www.st-andrews.ac.uk/history/students/ug/attendance/](https://www.st-andrews.ac.uk/history/students/ug/attendance/)
+
+Note that three missed tutorials, regardless of self-certification or circumstances, will receive a "FINAL" academic alert and may result in a 0X fail mark unless an exception is approved by the Director of Teaching. The Director of Teaching must be contacted within seven days of receiving a final academic alert (histdot@st-andrews.ac.uk).
+
 
 **Emails**
 
@@ -46,9 +59,11 @@ There will a number of occasions during the seminar when full undivided attentio
 
 Academic integrity is fundamental to the values promoted by the University. It is important that all students are judged on their ability, and that no student is allowed unfairly to take an advantage over others, to affect the security and integrity of the assessment process, or to diminish the reliability and quality of a St Andrews degree. For more information on university policies see:
 
-[https://www.st-andrews.ac.uk/students/rules/academicpractice/](https://www.st-andrews.ac.uk/students/rules/academicpractice/)
+[https://www.st-andrews.ac.uk/education/staff/assessment/good-academic-practice/](https://www.st-andrews.ac.uk/education/staff/assessment/good-academic-practice/)
 
-I have a separate document where I outline the ways in which LLMs (generative AI) may be used in the course of your research and writing in ways that will not constitute academic misconduct. This will be distributed separately.
+**Large Language Models**
+
+Students are permitted to use Large Language Models (LLMs, or generative AI) in this module, as they see fit, but it is imperative that they understand the limitations of the technology. If you decide to use them (to assist in research, editing your writing, etc.), you, as the student, are fully responsible for your submissions. Fake or hallucinated citations or other content will be significantly penalised in your mark as an expression of poor research skills. I have a separate document where I outline the ways in which LLMs (generative AI) *may* be potentially useful in the course of your research and writing. Summative assessments should include a declaration of what LLM models where used and a brief description of how they were used.
 
 If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CEED, which provides an extensive range of training on Academic Skills.
 
@@ -59,3 +74,4 @@ If you are unsure about the correct presentation of academic material, you shoul
 The School of History is committed to supporting equality of opportunity and inclusion at every level, irrespective of age, gender, maternity, disability, race, faith, sex and sexual orientation, through the enactment of fair policies and practices. The School seeks to provide a place of welcome, tolerance and inclusivity in which to study, work and research. For more information, please visit the Equality, Diversity and Inclusion section of the School's website, on 
 
 [https://www.st-andrews.ac.uk/history/about/equality-diversity-inclusion/](https://www.st-andrews.ac.uk/history/about/equality-diversity-inclusion/)
+
