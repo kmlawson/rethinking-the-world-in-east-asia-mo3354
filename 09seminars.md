@@ -6,13 +6,13 @@
 
 Abbreviations for readings:
 
-* GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991017261495908966))
-* SOURCES JAPAN 1 *Sources of Japanese Tradition: From Earliest Times to 1600* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991015919349708966))
-* SOURCES JAPAN 2: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017085429608966))
-* SOURCES CHINA 1: *Sources of Chinese Tradition: Volume 1* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/11j7ek/cdi_nii_cinii_1130000795433192576))
-* SOURCES CHINA 2: *Sources of Chinese Tradition: Volume 2* ([Ebook](https://library.st-andrews.ac.uk/record=b2005711~S5))
-* SOURCES KOREA 2: *Sources of Korean Tradition: Volume 2* ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991010308879708966)) 
-* HEISIG: Heisig, James W., Thomas P. Kasulis, and John C. Maraldo, eds. *Japanese Philosophy: A Sourcebook*. 2011. ()[Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014902239708966))
+* GORDON: Andrew Gordon *A Modern History of Japan: From Tokugawa Times to the Present* ()
+* SOURCES JAPAN 1 *Sources of Japanese Tradition: From Earliest Times to 1600* ()
+* SOURCES JAPAN 2: *Sources of Japanese Tradition: Volume 2, 1600 to 2000* ()
+* SOURCES CHINA 1: *Sources of Chinese Tradition: Volume 1* ()
+* SOURCES CHINA 2: *Sources of Chinese Tradition: Volume 2* ()
+* SOURCES KOREA 2: *Sources of Korean Tradition: Volume 2* () 
+* HEISIG: Heisig, James W., Thomas P. Kasulis, and John C. Maraldo, eds. *Japanese Philosophy: A Sourcebook*. 2011. ())
 
 F = optional further reading  
 P = Text is a candidate for presentations
@@ -30,12 +30,12 @@ P = Text is a candidate for presentations
 
 ### Required Reading
 
-- *The Foundations of Buddhism* by Rubert Gethin (77 pp) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/11j7ek/cdi_askewsholts_vlebooks_9780191606717)
+- *The Foundations of Buddhism* by Rubert Gethin (77 pp) 
 	- Ch 2 The Word of the Buddha pp35-58
 	- Ch 3 Four Truths pp59-84
 	- Ch 9 The Mahāyāna pp224-252
 
-- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014063589708966)
+- *Religion and the Making of Modern East Asia* by Thomas David DuBois (34 pp) 
 	- p15-36 (from Ch 2.I Religious Foundations of Late Imperial China)
 	- p53-66 (from Ch 3.I Religious Foundations of Medieval Japan)
 
@@ -45,11 +45,11 @@ Each week you will be *required* to do additional reading but have a choice from
 
 Choose one of these categories: A (Pure Land) OR B (Nichiren) OR C (Ch’an/Zen) and read only the material labelled with your category from each text.
 
-- SOURCES JAPAN 1 [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991015919349708966)
+- SOURCES JAPAN 1 
 	- (A) III.10 Amida, the Pure Land, and the Response of the Old Buddhism to the New p211-231
 	- (B) III.13 Nichiren: The Sun and the Lotus 292-306
 	- (C) III.14 Zen Buddhism 306-335
-- *Japanese Philosophy: A Sourcebook* [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014902239708966)
+- *Japanese Philosophy: A Sourcebook* 
 	- (A) Hōnen; Shinran pp235-262
 	- (B) Nichiren: Buddhist Views on Current Issues pp86-91
 	- (C) Dōgen pp141-162
@@ -68,7 +68,7 @@ IMPORTANT: You are not required to do any particular further reading on any give
 - *The Foundations of Buddhism* by Rubert Gethin Ch 4 The Buddhist Community; Ch 5 The Buddhist Cosmos; Ch 6 No Self; Ch 10 The Evolving Traditions of Buddhism
 - Joachim Gentz, *Understanding Chinese Religions* (Dunedin Academic Press, 2013), Ch 6 Chinese Buddhism.
 - "Buddhism in China" in *Encyclopedia of Chinese Philosophy*
-- Keown, Damien. *Buddhism: A Very Short Introduction*. 2 edition. Oxford: Oxford University Press, 2013. [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017085185808966)
+- Keown, Damien. *Buddhism: A Very Short Introduction*. 2 edition. Oxford: Oxford University Press, 2013. 
 - Mario Poceski, *Introducing Chinese Religions* (Routledge, 2009), Ch 5-6.
 
 **Primary Sources**
@@ -168,8 +168,8 @@ IMPORTANT: You are not required to do any particular further reading on any give
 These readings will give you some basic exposure to the Analects, and Mengzi
 
 - Consider watching this [introductory video](https://ed.ted.com/lessons/who-was-confucius-bryan-w-van-norden) by Bryan W. Van Norden on Confucius.
-* Bryan W. Van Norden *Introduction to Classical Chinese Philosophy*, pp10-31 (Ch 1 III The Period of the Philosophers, Ch 2), and from Ch 6 Mengzi and Human Nature read only sections 1A1, 1A7, 2A6, 3A3, 6A1-3 [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017086820608966)
-* Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp1-25 (from Ch 1 The Analects), pp116-151 (Ch 3 Mengzi) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991014902889708966)
+* Bryan W. Van Norden *Introduction to Classical Chinese Philosophy*, pp10-31 (Ch 1 III The Period of the Philosophers, Ch 2), and from Ch 6 Mengzi and Human Nature read only sections 1A1, 1A7, 2A6, 3A3, 6A1-3 
+* Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp1-25 (from Ch 1 The Analects), pp116-151 (Ch 3 Mengzi) 
 
 ### Elective Reading
 
@@ -177,7 +177,7 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 **A) Gender and Confucianism**
 
-* Ko, Dorothy, JaHyun Kim Haboush, and Joan R. Piggott. *Women and Confucian Cultures in Premodern China, Korea, and Japan*. [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991013017269708966) (P)
+* Ko, Dorothy, JaHyun Kim Haboush, and Joan R. Piggott. *Women and Confucian Cultures in Premodern China, Korea, and Japan*.  (P)
 	* Choose one from Ch 4, 5, or 6
 	* Choose one from Ch 8, 9
 
@@ -209,7 +209,7 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 *Further Reading*
 
-- Deuchler, Martina. *The Confucian Transformation of Korea: A Study of Society and Ideology*. Harvard Univ Asia Center, 1992. (P) ([Ebook](https://library.st-andrews.ac.uk/record=b3536451~S5))
+- Deuchler, Martina. *The Confucian Transformation of Korea: A Study of Society and Ideology*. Harvard Univ Asia Center, 1992. (P) ()
 - De Bary, William Theodore, and JaHyun Kim Haboush. *The Rise of Neo-Confucianism in Korea*. New York: Columbia Univ. Press, 1985. (P)
 - Chung, Chai-Sik, ed. *A Korean Confucian Encounter with the Modern World: Yi Hang-No and the West*. Curzon Press, 1996. (P)
 - (P) Min, Anselm K., ed. *Korean Religions in Relation: Buddhism, Confucianism, Christianity*. Reprint edition. Place of publication not identified: State University of New York Press, 2017. (P)
@@ -226,7 +226,7 @@ Choose one of the categories below for your elective reading. Remember to bring 
 **C) Confucianism in Japan**
 
 - SOURCES JAPAN 2 - "Ogyū Sorai and the Return to the Classics," comprising several texts in Ch 24 
-- Thomas P. Kasulis *Engaging Japanese Philosophy: A Short History* (2018), Ch 9 Ogyū Sorai (1666-1728), pp346-370 [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991002004399708966)
+- Thomas P. Kasulis *Engaging Japanese Philosophy: A Short History* (2018), Ch 9 Ogyū Sorai (1666-1728), pp346-370 
 
 *Further Reading*
 
@@ -249,8 +249,8 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 **D) Neo-Confucianism**
 
-- Gardner, Daniel K. *Four Books: The Basic Teachings of the Later Confucian Tradition*. Indianapolis: Hackett Publishing Co, Inc, 2006. (P) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991017086649108966) Introduction + Conclusion
-- (P) Bol, Peter K. *Neo-Confucianism in History*. Reprint edition. Cambridge, Mass.; London: Harvard University Press, 2010. Ch 4, pp 128-152, Ch 6 Belief, pp  194-217 (P) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991014902199708966)
+- Gardner, Daniel K. *Four Books: The Basic Teachings of the Later Confucian Tradition*. Indianapolis: Hackett Publishing Co, Inc, 2006. (P)  Introduction + Conclusion
+- (P) Bol, Peter K. *Neo-Confucianism in History*. Reprint edition. Cambridge, Mass.; London: Harvard University Press, 2010. Ch 4, pp 128-152, Ch 6 Belief, pp  194-217 (P) 
 
 *Further Reading*
 
@@ -276,8 +276,8 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 **E) Xunzi**
 
-- Bryan Van Norden *Introduction to classical Chinese Philosophy* (2011), Ch 10 Xunzi's Confucian Naturalism, pp164-183. [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017086820608966)
-- Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp298-310 (from Ch 6 Xunzi) [Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/so999v/alma991014902889708966)
+- Bryan Van Norden *Introduction to classical Chinese Philosophy* (2011), Ch 10 Xunzi's Confucian Naturalism, pp164-183. 
+- Philip J. Ivanhoe and Bryan W. Van Norden *Readings in Classical Chinese Philosophy* 2nd Edition, pp298-310 (from Ch 6 Xunzi) 
 
 ### Reference
 
@@ -315,22 +315,22 @@ Choose one of the categories below for your elective reading. Remember to bring 
 
 - SOURCES CHINA 2: Ch 29 - "The Heavenly Kingdom of the Taipings" pp213-230
 - SOURCES KOREA 2: Ch 20 - "The Tonghak Uprisings and the Kabo Reforms" pp261-273
-- Rowe, William T. *China's Last Empire: the Great Qing* [Ebook](https://library.st-andrews.ac.uk/record=b3624223~S5) Ch 7 Rebellion pp175-200
+- Rowe, William T. *China's Last Empire: the Great Qing*  Ch 7 Rebellion pp175-200
 - Lew, Young Ick. “The Conservative Character of the 1894 Tonghak Peasant Uprising: A Reappraisal with Emphasis on Chŏn Pong-Jun’s Background and Motivation.” *The Journal of Korean Studies (1979-)* 7 (1990): 149–80. ([jstor](https://www.jstor.org/stable/44000397))
 
 ### Elective Reading
 
 Read one of the following categories:
 
-A) Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. University of Washington Press, 2011. Ch 2-4  (P) [Ebook](https://library.st-andrews.ac.uk/record=b3109347~S5)
+A) Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. University of Washington Press, 2011. Ch 2-4  (P) 
 
-B) Young, Carl F. *Eastern Learning and the Heavenly Way: The Tonghak and Ch’ŏndogyo Movements and the Twilight of Korean Independence*. University of Hawaiʻi Press, 2014. Ch 1-3  (P) [Ebook](https://library.st-andrews.ac.uk/record=b3081121~S5)
+B) Young, Carl F. *Eastern Learning and the Heavenly Way: The Tonghak and Ch’ŏndogyo Movements and the Twilight of Korean Independence*. University of Hawaiʻi Press, 2014. Ch 1-3  (P) 
 
-C) Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64.* Springer, 2016. Ch 1 "Introduction", Ch 3 "The Taiping Mission of World Salvation" Ch 5 "A Confucianized Christian Ethic" [Ebook](https://library.st-andrews.ac.uk/record=b2479548~S5)
+C) Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64.* Springer, 2016. Ch 1 "Introduction", Ch 3 "The Taiping Mission of World Salvation" Ch 5 "A Confucianized Christian Ethic" 
 
-D) Kallander, George L. *Salvation Through Dissent: Tonghak Heterodoxy and Early Modern Korea*. University of Hawaiʻi Press, 2013. Introduction, Ch 2-3. (P) [Ebook](https://library.st-andrews.ac.uk/record=b3081060~S5)
+D) Kallander, George L. *Salvation Through Dissent: Tonghak Heterodoxy and Early Modern Korea*. University of Hawaiʻi Press, 2013. Introduction, Ch 2-3. (P) 
 
-E) Anderson, Emily. *Belief and Practice in Imperial Japan and Colonial Korea.* Springer, 2016 [Ebook](https://library.st-andrews.ac.uk/record=b2483675~S5) Ch 5 "Eastern Learning Divided: The Split in the Tonghak Religion and the Japanese Annexation of Korea, 1904–1910" + Moon, Yumi. ‘Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910’. *The American Historical Review* 118, no. 1 (2 January 2013): 20–44. [Jstor](https://www.jstor.org/stable/23425457)
+E) Anderson, Emily. *Belief and Practice in Imperial Japan and Colonial Korea.* Springer, 2016  Ch 5 "Eastern Learning Divided: The Split in the Tonghak Religion and the Japanese Annexation of Korea, 1904–1910" + Moon, Yumi. ‘Immoral Rights: Korean Populist Collaborators and the Japanese Colonization of Korea, 1904–1910’. *The American Historical Review* 118, no. 1 (2 January 2013): 20–44. [Jstor](https://www.jstor.org/stable/23425457)
 
 *Essays on Taiping Rebellion*
 
@@ -394,27 +394,27 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 ### Required Reading (~85)
 
-- Hane, Mikiso. *Reflections on the Way to the Gallows: Rebel Women in Prewar Japan*. University of California Press, 1988. from Ch 3 pp51-58,  from Ch 4 pp75-80, 109-124 [Ebook](https://library.st-andrews.ac.uk/record=b3157749~S5)
-- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 1 but only pp1-26, and also Ch 3 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064591~S5)
+- Hane, Mikiso. *Reflections on the Way to the Gallows: Rebel Women in Prewar Japan*. University of California Press, 1988. from Ch 3 pp51-58,  from Ch 4 pp75-80, 109-124 
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 1 but only pp1-26, and also Ch 3 (P) 
 
 ### Elective Reading
 
 **A) Shifu**
 
-- Krebs, Edward S. *Shifu, Soul of Chinese Anarchism*. Rowman &amp; Littlefield, 1998. Ch 1, 4, 7 ([Ebook](https://library.st-andrews.ac.uk/record=b2529002~S5)) (P)
+- Krebs, Edward S. *Shifu, Soul of Chinese Anarchism*. Rowman &amp; Littlefield, 1998. Ch 1, 4, 7 () (P)
 
 **B) Development of Chinese Anarchism**
 
-- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 2, 4, 5 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064591~S5)
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. University of California Press, 1991. Ch 2, 4, 5 (P) 
 
 **C) Anarchist Cooperatism**
 
-- Konishi, Sho. *Anarchist Modernity: Cooperatism and Japanese-Russian Intellectual Relations in Modern Japan*. Cambridge: Harvard University Press, 2013. Introduction, Ch 1 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3529158~S5)
+- Konishi, Sho. *Anarchist Modernity: Cooperatism and Japanese-Russian Intellectual Relations in Modern Japan*. Cambridge: Harvard University Press, 2013. Introduction, Ch 1 (P) 
 - Konishi, Sho “Ordinary Farmers Living Anarchist Time: Arishima Cooperative Farm in Hokkaido.” *Modern Asian Studies* 47, no. 6 (November 2013): 1845–87. ([online](https://doi.org/10.1017/S0026749X11000953))
 
 **D) Kōtoku Shūsui**
 
-- Tierney, Robert Thomas, and Kotoku Shusui. *Monster of the Twentieth Century: Kotoku Shusui and Japan’s First Anti-Imperialist Movement*. Univ of California Press, 2015. Introduction pp1-11, Ch "The Asian Solidarity Association and the High Treason Case" pp115-132, Imperialism pp135-185 ([Ebook](https://library.st-andrews.ac.uk/record=b2451387~S5)) (P)
+- Tierney, Robert Thomas, and Kotoku Shusui. *Monster of the Twentieth Century: Kotoku Shusui and Japan’s First Anti-Imperialist Movement*. Univ of California Press, 2015. Introduction pp1-11, Ch "The Asian Solidarity Association and the High Treason Case" pp115-132, Imperialism pp135-185 () (P)
 
 **E) Uchiyama Gudō**
 
@@ -422,11 +422,11 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 **F) Ōsugi Sakae**
 
-* Stanley, Thomas A. *Ōsugi Sakae, Anarchist in Taishō Japan: The Creativity of the Ego.* 1982. Ch 3-5 Socialist Beginnings, Prison, Intellectual Foundations [Ebook](https://library.st-andrews.ac.uk/record=b3183578~S5)
+* Stanley, Thomas A. *Ōsugi Sakae, Anarchist in Taishō Japan: The Creativity of the Ego.* 1982. Ch 3-5 Socialist Beginnings, Prison, Intellectual Foundations 
 
 **G) Taixu**
 
-* Ritzinger, Justin. *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism*. Oxford University Press, 2017. Introduction, Part I (Ch 1-2) Taixu's Buddhist Radicalism [Ebook](https://library.st-andrews.ac.uk/record=b2506159~S5)
+* Ritzinger, Justin. *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism*. Oxford University Press, 2017. Introduction, Part I (Ch 1-2) Taixu's Buddhist Radicalism 
 
 **H) Korean Visions of Russia**
 
@@ -485,30 +485,30 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 ### Required Reading (~110)
 
-- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. Columbia University Press, 2013, Introduction pp1-26; "The Historical Context: Chinese Feminist Worlds at the Turn of the Twentieth Century" pp27-50; "On the Revenge of Women" 105-168. [Ebook](https://library.st-andrews.ac.uk/record=b2521707~S5)
+- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. Columbia University Press, 2013, Introduction pp1-26; "The Historical Context: Chinese Feminist Worlds at the Turn of the Twentieth Century" pp27-50; "On the Revenge of Women" 105-168. 
 
 ### Elective Reading
 
 **A) Debates on Family and Love in China**
 
-- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. University of California Press, 2003. Ch 1, 4 [Ebook](https://library.st-andrews.ac.uk/record=b1941038~S5) (P)
+- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. University of California Press, 2003. Ch 1, 4  (P)
 
 **B) More on He Zhen**
 
-- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. "On the Question of Women's Liberation","On the Question of Women's Labor","Economic Revolution and Women's Revolution","The Feminist Manifesto" [Ebook](https://library.st-andrews.ac.uk/record=b2521707~S5)
+- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. "On the Question of Women's Liberation","On the Question of Women's Labor","Economic Revolution and Women's Revolution","The Feminist Manifesto" 
 
 **C) Qiu Jin**
 
-- Wolf, Margery. *Women in Chinese Society*. Acls History E Book Project, 2008. "The Emergence of Women at the End of the Ch'ing: The Case of Ch'iu Chin" pp39-66 [Ebook](https://library.st-andrews.ac.uk/record=b1939412~S5)
+- Wolf, Margery. *Women in Chinese Society*. Acls History E Book Project, 2008. "The Emergence of Women at the End of the Ch'ing: The Case of Ch'iu Chin" pp39-66 
 - Edwards, Louise P. *Women Warriors and Wartime Spies of China*, 2016. [Link](https://library.st-andrews.ac.uk/record=b3041158~S5). Ch 3 Qiu Jin: Transitioning from Traditional Swordswoman to Feminist Warrior
 
 **D) Tang Qunying**
 
-- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. University of California Press, 2011. Ch 1 "Slapping Song Jiaoren", 3 "A Women's Republic". [Ebook](https://library.st-andrews.ac.uk/record=b3287052~S5) (P)
+- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. University of California Press, 2011. Ch 1 "Slapping Song Jiaoren", 3 "A Women's Republic".  (P)
 
 **E) Revolution of the Heart**
 
-* Lee, Haiyan. *Revolution of the Heart: A Genealogy of Love in China, 1900-1950*. Stanford, Calif: Stanford University Press, 2010. Introduction, Ch 7 "Revolution of the Heart" (P) [Ebook](https://library.st-andrews.ac.uk/record=b1942147~S5)
+* Lee, Haiyan. *Revolution of the Heart: A Genealogy of Love in China, 1900-1950*. Stanford, Calif: Stanford University Press, 2010. Introduction, Ch 7 "Revolution of the Heart" (P) 
 
 **F) Shifting Interpretations**
 
@@ -588,20 +588,20 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 ### Required Reading (~70)
 
 * Sponberg, Alan, ed. *Maitreya, the Future Buddha*. Reissue edition. Cambridge: Cambridge University Press, 2011. Ch 1-2, pp7-36 (P) (Teams)
-* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Introduction. 1-16 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064584~S5)
-* Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity*. Brill, 2010. Ch 5 Survival, God, Buddha: Social Darwinism in a Buddhist Context, pp113-135 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3294369~S5)
+* Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Introduction. 1-16 (P) 
+* Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity*. Brill, 2010. Ch 5 Survival, God, Buddha: Social Darwinism in a Buddhist Context, pp113-135 (P) 
 
 ### Elective Reading
 
 **A) Pure Land**
 
-* Unno, Mark. “Modern Pure Land Thinkers: Kiyozawa Manshi and Soga Ryōjin.” *The Oxford Handbook of Japanese Philosophy*, September 2, 2014. Part II, Ch 7  [Ebook](https://library.st-andrews.ac.uk/record=b2449094~S5)
-* Ckiurley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Ch 1-3, Epilogue. (the fourth chapter on Miki Kiyoshi comes up in two weeks) (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064584~S5)
+* Unno, Mark. “Modern Pure Land Thinkers: Kiyozawa Manshi and Soga Ryōjin.” *The Oxford Handbook of Japanese Philosophy*, September 2, 2014. Part II, Ch 7  
+* Ckiurley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Ch 1-3, Epilogue. (the fourth chapter on Miki Kiyoshi comes up in two weeks) (P) 
 
 **B) Zen at War**
 
-* Victoria, Daizen. *Zen at War*. Lanham, Md.: Rowman &amp; Littlefield Publishers, 2006. 5 pp57-65, 10 pp147-182 and either i) Ch 2-3 pp12-48 on radical Zen or ii) 7-9 pp79-144 on wartime Zen (P) [Ebook](https://library.st-andrews.ac.uk/record=b2910257~S5)
-* Chistopher Ives *Imperial-Way Zen: Ichikawa Hakugen's Critique and Lingering Questions for Buddhist Ethics* (2009). Ch 4 Modern Buddhism for the Protection of the Realm pp101-127. [Ebook](https://library.st-andrews.ac.uk/record=b3081662~S5)
+* Victoria, Daizen. *Zen at War*. Lanham, Md.: Rowman &amp; Littlefield Publishers, 2006. 5 pp57-65, 10 pp147-182 and either i) Ch 2-3 pp12-48 on radical Zen or ii) 7-9 pp79-144 on wartime Zen (P) 
+* Chistopher Ives *Imperial-Way Zen: Ichikawa Hakugen's Critique and Lingering Questions for Buddhist Ethics* (2009). Ch 4 Modern Buddhism for the Protection of the Realm pp101-127. 
 
 **C) Nichiren**
 
@@ -611,12 +611,12 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 **D) Korean Buddhism**
 
-* Han, Yong-un. *Selected Writings of Han Yongun: From Social Darwinism to Socialism with a Buddhist Face*. Global Oriental, 2008. Introduction pp1-30  (P) [Ebook](https://library.st-andrews.ac.uk/record=b3253241~S5)
-* Park, Jin Y., ed. *Makers of Modern Korean Buddhism*. Albany: State University of New York Press, 2010. Ch 1-2 + Ch 5 [Ebook](https://library.st-andrews.ac.uk/record=b3109279~S5)
+* Han, Yong-un. *Selected Writings of Han Yongun: From Social Darwinism to Socialism with a Buddhist Face*. Global Oriental, 2008. Introduction pp1-30  (P) 
+* Park, Jin Y., ed. *Makers of Modern Korean Buddhism*. Albany: State University of New York Press, 2010. Ch 1-2 + Ch 5 
 
 **E) Ishiwara Kanji**
 
-* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975., Ch 6-10 (but skim where necessary) [Ebook](https://library.st-andrews.ac.uk/record=b2388605~S5)
+* Peattie, Mark R. *Ishiwara Kanji and Japan’s Confrontation with the West*. Princeton, N.J.: Princeton University Press, 1975., Ch 6-10 (but skim where necessary) 
 * Godart, G. Clinton. “Nichirenism, Utopianism, and Modernity: Rethinking Ishiwara Kanji’s East Asia League Movement.” *Japanese Journal of Religious Studies* 42, no. 2 (2015): 235–74.
  
 **F) More on Japanese Empire**
@@ -628,24 +628,24 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 **G) Colonial Korea and Taiwan**
 
 * Hwansoo Ilmee Kim, ‘Who Gets to Represent Korean Buddhism? The Contest to Control Buddhism in Colonial Korea, 1920–1945’, *The Journal of Japanese Studies* 45, no. 2 (2019): 339–68.
-* Anderson, Emily. *Belief and Practice in Imperial Japan and Colonial Korea*. Springer, 2016. Introduction ppxvii-xxi, Ch 4 The Adventures of a Japanese Monk in Colonial Korea: Sōma Shōei’s Zen Training with Korean Masters pp57-75 (P) [Ebook](https://library.st-andrews.ac.uk/record=b2483675~S5)
+* Anderson, Emily. *Belief and Practice in Imperial Japan and Colonial Korea*. Springer, 2016. Introduction ppxvii-xxi, Ch 4 The Adventures of a Japanese Monk in Colonial Korea: Sōma Shōei’s Zen Training with Korean Masters pp57-75 (P) 
 * Cheng-Tsung Kan, ‘The Missionary Works of a Taiwanese Buddhist Monk in Mainland China During the Japanese Colonial Period (1911–1939): The Case of Venerable Shanhui of Keelung Yuemei Mountain’, *Modern Asian Studies* 58, no. 6 (2024): 1490–507. 
 
 **H) Buddhism in Japanese Manchuria**
 
-* Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. 2004. Ch 3 Asianism and the New Discourse of Civilization, only pp103-122. (P) [Ebook](https://library.st-andrews.ac.uk/record=b2910374~S5)
-* Thomas David DuBois *Empire and the Meaning of Religion in Northeast Asia* (2017). Ch 4 Piety in Print pp85-107. [Ebook](https://library.st-andrews.ac.uk/record=b3039309~S5)
+* Duara, Prasenjit. *Sovereignty and Authenticity: Manchukuo and the East Asian Modern*. 2004. Ch 3 Asianism and the New Discourse of Civilization, only pp103-122. (P) 
+* Thomas David DuBois *Empire and the Meaning of Religion in Northeast Asia* (2017). Ch 4 Piety in Print pp85-107. 
 * Sun, Jiang. ‘The Predicament of a Redemptive Religion: The Red Swastika Society Under the Rule of Manchukuo’. Journal of Modern Chinese History 7, no. 1 (1 June 2013): 108–26. [DOI](https://doi.org/10.1080/17535654.2013.772358)
 
 **I) Buddhism to the West**
 
-* Tweed, Thomas A. *The American Encounter with Buddhism, 1844-1912: Victorian Culture and the Limits of Dissent*. UNC Press Books, 2005. Ch 2 Shall We All Become Buddhists? pp26-47. (P) [Ebook](https://library.st-andrews.ac.uk/record=b3108641~S5)
-* Snodgrass, Judith. *Presenting Japanese Buddhism to the West: Orientalism, Occidentalism, and the Columbian Exposition*. Univ of North Carolina Press, 2003,  Introduction pp1-15, Ch 4 Alterity: Buddhism as the "Other" of Christianity pp85-114 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3109281~S5)
-* Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. Translated by Earl Hartman. Reprint edition. Chicago, Ill.; Bristol: University of Chicago Press, 2011. The Kitschy World of 'Zen in/and the art of...' pp10-27, Ch 2-3 The Mystery of *Zen in the Art of Archery*, Dissecting the Myth, pp28-72 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3109277~S5)
+* Tweed, Thomas A. *The American Encounter with Buddhism, 1844-1912: Victorian Culture and the Limits of Dissent*. UNC Press Books, 2005. Ch 2 Shall We All Become Buddhists? pp26-47. (P) 
+* Snodgrass, Judith. *Presenting Japanese Buddhism to the West: Orientalism, Occidentalism, and the Columbian Exposition*. Univ of North Carolina Press, 2003,  Introduction pp1-15, Ch 4 Alterity: Buddhism as the "Other" of Christianity pp85-114 (P) 
+* Yamada, Shoji. *Shots in the Dark: Japan, Zen, and the West*. Translated by Earl Hartman. Reprint edition. Chicago, Ill.; Bristol: University of Chicago Press, 2011. The Kitschy World of 'Zen in/and the art of...' pp10-27, Ch 2-3 The Mystery of *Zen in the Art of Archery*, Dissecting the Myth, pp28-72 (P) 
 
 **J) Building the Buddhist Revival**
 
-- Scott, Gregory Adam. *Building the Buddhist Revival: Reconstructing Monasteries in Modern China*. 2020. [Ebook](https://library.st-andrews.ac.uk/record=b2900206~S5) Introduction + Ch 1 + Ch 3
+- Scott, Gregory Adam. *Building the Buddhist Revival: Reconstructing Monasteries in Modern China*. 2020.  Introduction + Ch 1 + Ch 3
 
 ### General Further Reading
 
@@ -724,31 +724,31 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 * Lawson, Konrad. “Reimagining the Postwar International Order: The World Federalism of Ozaki Yukio and Kagawa Toyohiko.” In *The Institution of International Order: From the League of Nations to the United Nations*, edited by Alanna O’Malley and Simon Jackson. Routledge, 2018. 
 * Yan, Xishan. *How to Prevent Warfare and Establish Foundation of World Unity*, pamphlet, pp1-41 (Teams)
-* Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. Ch 2-3, pp26-57, Pt II Ch 1 pp79-104. (P) [Ebook](https://library.st-andrews.ac.uk/record=b3109399~S5)
-* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. Ch 5 Paradoxical Internationalism? Oomoto in the World, pp142-169 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064587~S5)
+* Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. Ch 2-3, pp26-57, Pt II Ch 1 pp79-104. (P) 
+* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. Ch 5 Paradoxical Internationalism? Oomoto in the World, pp142-169 (P) 
 
 ### Elective Reading
 
 **A) Kang Youwei**
 
 * Jianhua, Chen. “World Revolution Knocking at the Heavenly Gate: Kang Youwei and His Use of Geming in 1898.” *Journal of Modern Chinese History* 5, no. 1 (2011): 89–108. [DOI](https://doi.org/10.1080/17535654.2011.574435)
-* Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. Ch 1, Pt III pp134-196 (P)  [Ebook](https://library.st-andrews.ac.uk/record=b3109399~S5)
-* Wang, Ban, ed. *Chinese Visions of World Order: Tianxia, Culture, and World Politics*. 2 edition. Durham ; London: Duke University Press Books, 2017. Ch 4 The Moral Vision in Kang Youwei's Book of the Great Community pp87-105 [Ebook](https://library.st-andrews.ac.uk/record=b2899486~S5)
+* Yu-Wei, K’ang, and Laurence G. Thompson. *Ta t’ung Shu: The One-World Philosophy of K’ang Yu-Wei*. Reprint. Routledge, 2007. Ch 1, Pt III pp134-196 (P)  
+* Wang, Ban, ed. *Chinese Visions of World Order: Tianxia, Culture, and World Politics*. 2 edition. Durham ; London: Duke University Press Books, 2017. Ch 4 The Moral Vision in Kang Youwei's Book of the Great Community pp87-105 
 
 **B) Deguchi Onisaburō**
 
-* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. Ch 2-4, 6. (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064587~S5)
-* Garon, Sheldon M. *Molding Japanese Minds: The State in Everyday Life*. Princeton, N.J.: Princeton University Press, 1997. Ch 2 Defining Orthodoxy and Heterodoxy pp60-87 [Ebook](https://library.st-andrews.ac.uk/record=b3220613~S5)
+* Stalker, Nancy K. *Prophet Motive: Deguchi Onisaburō, Oomoto, and the Rise of New Religions in Imperial Japan*. University of Hawaii Press, 2008. Ch 2-4, 6. (P) 
+* Garon, Sheldon M. *Molding Japanese Minds: The State in Everyday Life*. Princeton, N.J.: Princeton University Press, 1997. Ch 2 Defining Orthodoxy and Heterodoxy pp60-87 
 
 **C) Imperial Internationalism**
 
-* Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015. Introduction, Ch 3 Cultural Diplomacy for Peace and War, pp81-107 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3173163~S5)
-* Akami, Tomoko. *Internationalizing the Pacific: The United States, Japan and the Institute of Pacific Relations, 1919-1945*. Routledge, 2003. Introduction pp1-16, Ch 8 The IPR and the Sino-Japanese War, 1936-9,  pp200-239 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3108645~S5)
-* Lincicome, Mark. *Imperial Subjects as Global Citizens: Nationalism, Internationalism, and Education in Japan*. Lexington Books, 2009. Ch 3-4 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3157751~S5)
+* Abel, Jessamyn R. *The International Minimum: Creativity and Contradiction in Japan’s Global Engagement, 1933-1964*. University of Hawaiʻi Press, 2015. Introduction, Ch 3 Cultural Diplomacy for Peace and War, pp81-107 (P) 
+* Akami, Tomoko. *Internationalizing the Pacific: The United States, Japan and the Institute of Pacific Relations, 1919-1945*. Routledge, 2003. Introduction pp1-16, Ch 8 The IPR and the Sino-Japanese War, 1936-9,  pp200-239 (P) 
+* Lincicome, Mark. *Imperial Subjects as Global Citizens: Nationalism, Internationalism, and Education in Japan*. Lexington Books, 2009. Ch 3-4 (P) 
 
 **D) Esperanto**
 
-* "A Language for Asia? Transnational Encounters in the Japanese Esperanto Movement, 1906–28"  in Iacobelli, Pedro, and Danton Leary, eds. *Transnational Japan as History: Empire, Migration, and Social Movements*. 1st ed. 2015 edition. Houndmills, Basingstoke, Hampshire ; New York, NY: AIAA, 2015. pp167-185. [Ebook](https://library.st-andrews.ac.uk/record=b2474572~S5)
+* "A Language for Asia? Transnational Encounters in the Japanese Esperanto Movement, 1906–28"  in Iacobelli, Pedro, and Danton Leary, eds. *Transnational Japan as History: Empire, Migration, and Social Movements*. 1st ed. 2015 edition. Houndmills, Basingstoke, Hampshire ; New York, NY: AIAA, 2015. pp167-185. 
 * Chan, Gerald. “China and the Esperanto Movement.” *The Australian Journal of Chinese Affairs*, no. 15 (1986): 1–18. [Jstor](https://www.jstor.org/stable/2158870)
 * Konishi, Sho. “Translingual World Order: Language without Culture in Post-Russo-Japanese War Japan.” *The Journal of Asian Studies* 72, no. 1 (February 2013): 91–114. [Ebook](https://www.jstor.org/stable/23357508)
 * Boli, John, George M Thomas, and Young S. Kim, eds. “Constructing a Global Identity: The Role of Esperanto.” In *Constructing World Culture International Nongovernmental Organizations Since 1875*. Stanford, Calif.: Stanford University Press, 1999. (In Library)
@@ -813,8 +813,8 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 ### Required Reading 
 
 * Carter, Robert Edgar. *The Kyoto School: An Introduction*. SUNY Press, 2013. Introduction 
-* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 4-5 [Ebook](https://library.st-andrews.ac.uk/record=b3064590~S5)
-* Sven Saaler, *Pan-Asianism in Modern Japanese History Colonialism, Regionalism and Borders* (London; New York: Routledge, 2007). Ch 10 The Temporality of Empire: The Imperial Cosmopolitanism of Miki Kiyoshi and Tanabe Hajime by John Namjun Kim [Ebook](https://library.st-andrews.ac.uk/record=b2022235~S5)
+* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 4-5 
+* Sven Saaler, *Pan-Asianism in Modern Japanese History Colonialism, Regionalism and Borders* (London; New York: Routledge, 2007). Ch 10 The Temporality of Empire: The Imperial Cosmopolitanism of Miki Kiyoshi and Tanabe Hajime by John Namjun Kim 
 
 ### Elective Reading
 
@@ -824,50 +824,50 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 **B) Nishida Kitarō**
 
-* HEISIG Nishida readings pp646-670 [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
+* HEISIG Nishida readings pp646-670 
 * Heisig, James W., and John C. Maraldo, eds. *Rude Awakenings: Zen, the Kyoto School and the Question of Nationalism*. Honolulu: University of Hawaii Press, 1995. Nishida and Totalitarianism: A Philosopher's Resistance pp107-131 (In Library)
-* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 3 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3064590~S5)
+* Goto-Jones, Christopher. *Political Philosophy in Japan: Nishida, the Kyoto School and Co-Prosperity*. Routledge, 2009. Ch 3 (P) 
 
 
 **C) Tanabe Hajime**
 
-* HEISIG Tanabe readings pp670-692 [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
-* Murthy, Viren, Fabian Schäfer, and Max Ward. *Confronting Capital and Empire: Rethinking Kyoto School Philosophy*. BRILL, 2017. Ch 5 Ethnicity and Species: On the Philosophy of the Multiethnic State and Japanese Imperialism pp143-175 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3518586~S5)
+* HEISIG Tanabe readings pp670-692 
+* Murthy, Viren, Fabian Schäfer, and Max Ward. *Confronting Capital and Empire: Rethinking Kyoto School Philosophy*. BRILL, 2017. Ch 5 Ethnicity and Species: On the Philosophy of the Multiethnic State and Japanese Imperialism pp143-175 (P) 
 
 **D) Watsuji Tetsurō**
 
-* HEISIG Watsuji readings pp850-870 [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
-* SOURCES JAPAN II Watsuji, The Way of the Japanese Subject pp284-287 [Ebook](https://library.st-andrews.ac.uk/record=b2198917~S5)
+* HEISIG Watsuji readings pp850-870 
+* SOURCES JAPAN II Watsuji, The Way of the Japanese Subject pp284-287 
 * Berque, Augustin. “Offspring of Watsuji’s Theory of Milieu (Fûdo).” *GeoJournal* 60, no. 4 (2004): 389–96. [Jstor](https://www.jstor.org/stable/41147905)
 * Bellah, Robert N. “Japan’s Cultural Identity: Some Reflections on the Work of Watsuji Tetsuro.” *The Journal of Asian Studies* 24, no. 4 (1965): 573–94. [Jstor](https://www.jstor.org/stable/2051106)
 * LaFleur, William R. “Reasons for the Rubble: Watsuji Tetsurō’s Position in Japan’s Postwar Debate about Rationality.” *Philosophy East and West* 51, no. 1 (2001): 1–25. [Jstor](https://www.jstor.org/stable/1400033)
 
 **E) Nishitani Keiji**
 
-* HEISIG Nishitani readings pp713-733 [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
+* HEISIG Nishitani readings pp713-733 
 * Calichman, Richard. *Overcoming Modernity: Cultural Identity in Wartime Japan*. New York: Columbia University Press, 2008. Ch 2 "My Views on 'Overcoming Modernity'", pp51-63 (In Library)
-* Ch 5 "Nishitani after Nietzsche: From the Death of God to the Great Death of the Will" in Davis, Bret W., Brian Schroeder, and Jason M. Wirth. *Japanese and Continental Philosophy: Conversations with the Kyoto School*. Indiana University Press, 2011. pp82-101 [Ebook](https://library.st-andrews.ac.uk/record=b2709521~S5)
+* Ch 5 "Nishitani after Nietzsche: From the Death of God to the Great Death of the Will" in Davis, Bret W., Brian Schroeder, and Jason M. Wirth. *Japanese and Continental Philosophy: Conversations with the Kyoto School*. Indiana University Press, 2011. pp82-101 
 * "Nishitani Keiji and the Question of Nationalism" in Heisig, James W., and John C. Maraldo, eds. *Rude Awakenings: Zen, the Kyoto School and the Question of Nationalism*. Honolulu: University of Hawaii Press, 1995. pp316-332 (In Library)
 
 **F) Takeuchi Yoshimi**
 
-* Takeuchi, Yoshimi. *What Is Modernity?: Writings of Takeuchi Yoshimi*. Columbia University Press, 2005. Preface and Introduction, Ch 2, 5, and 6 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3067901~S5)
+* Takeuchi, Yoshimi. *What Is Modernity?: Writings of Takeuchi Yoshimi*. Columbia University Press, 2005. Preface and Introduction, Ch 2, 5, and 6 (P) 
 
 **G) Tosaka Jun**
 
-* Harootunian, Harry D. *Overcome by Modernity: History, Culture, and Community in Interwar Japan*. Princeton University Press, 2001. Ch 3 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3082427~S5)
-* Tosaka, Jun. *Tosaka Jun: A Critical Reader*. East Asia Program, Cornell University, 2013. "The Principle of Everydayness and Historical Time" pp3-16, "The Academy and Journalism" pp36-49 "The Actuality of Journalism and the Possibility of Everyday Critique" pp150-175, and "Here, Now: Everyday Space as Cultural Critique"  pp125-149 [Ebook](https://library.st-andrews.ac.uk/record=b3318253~S5)
+* Harootunian, Harry D. *Overcome by Modernity: History, Culture, and Community in Interwar Japan*. Princeton University Press, 2001. Ch 3 (P) 
+* Tosaka, Jun. *Tosaka Jun: A Critical Reader*. East Asia Program, Cornell University, 2013. "The Principle of Everydayness and Historical Time" pp3-16, "The Academy and Journalism" pp36-49 "The Actuality of Journalism and the Possibility of Everyday Critique" pp150-175, and "Here, Now: Everyday Space as Cultural Critique"  pp125-149 
  
 **H) Miki Kiyoshi**
 
-* HEISIG Miki readings pp702-708 [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
+* HEISIG Miki readings pp702-708 
 * Townsend, Susan C. *Miki Kiyoshi, 1897-1945: Japan’s Itinerant Philosopher*. BRILL, 2009. Ch 5-7 (P)
 * Curley, Melissa Anne-Marie. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*. University of Hawaiʻi Press, 2017. Ch 4, pp121-159. (P)
 
 **I) Kuki Shūzō**
 
-* HEISIG Kuki reading pp829-850 [Ebook](https://library.st-andrews.ac.uk/record=b3081008~S5)
-* * Nara, Hiroshi. *The Structure of Detachment: The Aesthetic Vision of Kuki Shuzo*. University of Hawaii Press, 2004. Introduction (P) [Ebook](https://library.st-andrews.ac.uk/record=b3081862~S5)
+* HEISIG Kuki reading pp829-850 
+* * Nara, Hiroshi. *The Structure of Detachment: The Aesthetic Vision of Kuki Shuzo*. University of Hawaii Press, 2004. Introduction (P) 
 * Pincus, Leslie. “In a Labyrinth of Western Desire: Kuki Shuzo and the Discovery of Japanese Being.” *Boundary 2* 18, no. 3 (1991): 142–56. [Jstor](https://www.jstor.org/stable/303207)
 * Koshiro, Yukiko. “Fascism and Aesthetics.” review of Leslie Pincus. *The Review of Politics* 59, no. 3 (1997): 606–8. [Jstor](https://www.jstor.org/stable/1408557)
 
@@ -961,41 +961,41 @@ If you are interested in working on the Taiping Rebellion see me for a copy of t
 
 ### Required Reading (~100)
 
-* SOURCES CHINA II "The New Confucians" in Ch 39 Reopening the Debate on Chinese Tradition pp545-563 [Ebook](https://library.st-andrews.ac.uk/record=b2005711~S5)
-* Bell, Daniel. *China’s New Confucianism: Politics and Everyday Life in a Changing Society*. Princeton, N.J: Princeton University Press, 2008. Ch 1  From Communism to Confucianism pp3-18 [Ebook](https://library.st-andrews.ac.uk/record=b3083261~S5)
-* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Introduction pp1-27;  (P) [Ebook](https://library.st-andrews.ac.uk/record=b3083982~S5)
-* Chan, Joseph. *Confucian Perfectionism: A Political Philosophy for Modern Times*. Princeton University Press, 2015, Conclusion pp191-204. (P) [Ebook](https://library.st-andrews.ac.uk/record=b3084267~S5)
-* Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. Cambridge University Press, 2010., Ch 2 The Pull of Cultural Conservatism, pp61-95 [Ebook](https://library.st-andrews.ac.uk/record=b2397826~S5)
+* SOURCES CHINA II "The New Confucians" in Ch 39 Reopening the Debate on Chinese Tradition pp545-563 
+* Bell, Daniel. *China’s New Confucianism: Politics and Everyday Life in a Changing Society*. Princeton, N.J: Princeton University Press, 2008. Ch 1  From Communism to Confucianism pp3-18 
+* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Introduction pp1-27;  (P) 
+* Chan, Joseph. *Confucian Perfectionism: A Political Philosophy for Modern Times*. Princeton University Press, 2015, Conclusion pp191-204. (P) 
+* Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. Cambridge University Press, 2010., Ch 2 The Pull of Cultural Conservatism, pp61-95 
 
 ### Elective Reading
 
 **A) Chinese Confucianism and Fascism**
 
-* Clinton, Maggie. *Revolutionary Nativism: Fascism and Culture in China, 1925-1937*. Duke University Press, 2017. Introduction, Ch 2, Ch 4 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3109345~S5)
+* Clinton, Maggie. *Revolutionary Nativism: Fascism and Culture in China, 1925-1937*. Duke University Press, 2017. Introduction, Ch 2, Ch 4 (P) 
 * Paramore, Kiri. *Japanese Confucianism*. Cambridge University Press, 2016. Ch 6-7
 
 **B) Early Pioneers: Xiong Shili, Liang Shuming, Feng Youlan**
 
-* Cheng, Chung-Ying, and Nicholas Bunnin. *Contemporary Chinese Philosophy*. John Wiley &amp; Sons, 2008. Introduction, Ch 6-8. [Ebook](https://library.st-andrews.ac.uk/record=b3109338~S5)
-* Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. Cambridge University Press, 2010., Ch 3 The Politics of Modern Chinese Conservatism, pp96-127 [Ebook](https://library.st-andrews.ac.uk/record=b2397826~S5)
+* Cheng, Chung-Ying, and Nicholas Bunnin. *Contemporary Chinese Philosophy*. John Wiley &amp; Sons, 2008. Introduction, Ch 6-8. 
+* Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. Cambridge University Press, 2010., Ch 3 The Politics of Modern Chinese Conservatism, pp96-127 
   
 **C) Mou Zongsan**
 
-* Cheng, Chung-Ying, and Nicholas Bunnin. *Contemporary Chinese Philosophy*. John Wiley &amp; Sons, 2008. Ch 16  [Ebook](https://library.st-andrews.ac.uk/record=b3109338~S5)
-* Chan, N. Serina. *The Thought of Mou Zongsan*. BRILL, 2011. Introduction, Ch 2, Ch 8, Conclusion. [Ebook](https://library.st-andrews.ac.uk/record=b3109339~S5)
+* Cheng, Chung-Ying, and Nicholas Bunnin. *Contemporary Chinese Philosophy*. John Wiley &amp; Sons, 2008. Ch 16  
+* Chan, N. Serina. *The Thought of Mou Zongsan*. BRILL, 2011. Introduction, Ch 2, Ch 8, Conclusion. 
 
 **D) Qing Jiang**
 
-* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Ch 1-3, and "Reply to My Critics" (P)  [Ebook](https://library.st-andrews.ac.uk/record=b3083982~S5)
+* Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. Princeton, N.J: Princeton University Press, 2012. Ch 1-3, and "Reply to My Critics" (P)  
 
 **E) "Boston Confucians"**
 
-* Neville, Robert Cummings. *Boston Confucianism: Portable Tradition in the Late-Modern World*. State University of New York Press, 2000. Forward, Preface, Ch 1 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3109337~S5)
+* Neville, Robert Cummings. *Boston Confucianism: Portable Tradition in the Late-Modern World*. State University of New York Press, 2000. Forward, Preface, Ch 1 (P) 
 * Read the [entry on Tu Weiming](https://www.iep.utm.edu/tu-weimi/) in the Internet Encyclopedia of Philosophy
 
 **F)  Ci Jiwei on China's Moral Crisis**
 
-* Ci, Jiwei. *Moral China in the Age of Reform*. Cambridge University Press, 2014. Introduction, Ch 1-5 (P) [Ebook](https://library.st-andrews.ac.uk/record=b3057479~S5)
+* Ci, Jiwei. *Moral China in the Age of Reform*. Cambridge University Press, 2014. Introduction, Ch 1-5 (P) 
 
 ### General Further Reading
 
@@ -1073,7 +1073,7 @@ There is only an elective reading this week: choose and read of of these two cat
 
 **A) Japanese Utopian Literature and Science Fiction**
 
-* Bolton, Christopher, Istvan Csicsery-Ronay Jr, and Takayuki Tatsumi. *Robot Ghosts and Wired Dreams: Japanese Science Fiction from Origins to Anime*. University of Minnesota Press, 2007, Introduction pp vii-xix. [Ebook](https://library.st-andrews.ac.uk/record=b3157752~S5)
+* Bolton, Christopher, Istvan Csicsery-Ronay Jr, and Takayuki Tatsumi. *Robot Ghosts and Wired Dreams: Japanese Science Fiction from Origins to Anime*. University of Minnesota Press, 2007, Introduction pp vii-xix. 
 * Mochi, Yoriko. “Japanese Utopian Literature from the 1870s to the Present and the Influence of Western Utopianism.” *Utopian Studies* 10, no. 2 (1999): 89–97. [Jstor](https://www.jstor.org/stable/20718096)
 * Sato, Kumiko. “How Information Technology Has (Not) Changed Feminism and Japanism: Cyberpunk in the Japanese Context.” *Comparative Literature Studies* 41, no. 3 (2004): 335–55. [Muse](https://muse.jhu.edu/article/174105)
 * Consider reading some of the novel Komatsu, Sakyo. *Japan Sinks*. Translation edition. Mineola, New York: Dover Publications Inc., 2016.
@@ -1136,7 +1136,7 @@ There is only an elective reading this week: choose and read of of these two cat
 
 ## Kita Ikki
 
-* SOURCES JAPAN II "Kita Ikki and the Reform Wing of Ultranationalism" in Ch 44 The Rise of Revolutionary Nationalism [Ebook](https://library.st-andrews.ac.uk/record=b2198917~S5)
+* SOURCES JAPAN II "Kita Ikki and the Reform Wing of Ultranationalism" in Ch 44 The Rise of Revolutionary Nationalism 
 * Tankha, Brij. *Kita Ikki and the Making of Modern Japan: A Vision of Empire*. Global Oriental, 2006.
 * Wilson, George M. “Kita Ikki’s Theory of Revolution.” *The Journal of Asian Studies* 26, no. 1 (1966): 89–99. [Jstor](https://www.jstor.org/stable/2051833)
 
